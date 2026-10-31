@@ -25,6 +25,7 @@ function layout({ title, path, body, wide = false, extraHead = '', script = '' }
 <html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(full)}</title>
 ${SITE ? `<link rel="canonical" href="${SITE}${path}">` : ''}
+<link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/style.css">${extraHead}
 </head><body>
 <header class="site"><div class="wrap">
