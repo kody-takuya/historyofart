@@ -1,0 +1,118 @@
+{
+ "kind": "exhibitions",
+ "date": "2026-11-01",
+ "slug": "2026-11-01-exhibitions",
+ "theme": "展覧会情報",
+ "title": "2026年秋・冬に関東で開催中・注目の西洋美術展",
+ "lede": "2026年11月現在、関東の美術館で開催中および年内開幕の西洋美術展を厳選。ルネサンスから印象派、近代北欧絵画まで世界の名作に出合える注目の10展を紹介します。",
+ "paragraphs": [
+  "2026年秋から冬にかけての首都圏は、欧州の主要美術館と連携した大型企画が目白押しです。国立新美術館の「ルーヴル美術館展 ルネサンス」では初来日となるレオナルド・ダ・ヴィンチ《女性の肖像》が話題を呼び、国立西洋美術館では英国風景画の巨匠に迫る「テート美術館 ターナー展」、東京都美術館では開館100周年を記念してミレー《落穂拾い》やゴッホ《ローヌ川の星月夜》が来日する「オルセー美術館所蔵 いまを生きる歓び」が開幕を迎えます。",
+  "さらに、米国の優品が集う「シンシナティ美術館展」や、日本洋画の師となったイタリア人画家を回顧する「フォンタネージ展」、ノルウェーの孤高の画家を紹介する日本初の「ニコライ・アストルップ展」など、ユニークな個展・テーマ展も充実しています。箱根のポーラ美術館で一挙公開中のモネ・コレクションや横浜美術館の華麗なスタイル展など、東京近郊へのアートトリップにも絶好の季節です。"
+ ],
+ "items": [
+  {
+   "title": "モネ没後100年・開館25周年記念 あたらしい目 ― モネと21世紀のアート",
+   "venue": "ポーラ美術館",
+   "period": "2026年6月17日（水）～2027年4月7日（水）",
+   "url": "https://www.polamuseum.or.jp/sp/the-new-vision/",
+   "note": "館所蔵のモネ油彩画全19点を一挙公開し、現代作家18組の作品と対話させる記念展。"
+  },
+  {
+   "title": "マリー・アントワネット・スタイル",
+   "venue": "横浜美術館",
+   "period": "2026年8月1日（土）～2026年11月23日（月・祝）",
+   "url": "https://www.marie2026.jp/",
+   "note": "英国V&A博物館の企画により、王妃が築いた革新的スタイルと影響力をドレスや美術品約200点で辿る。"
+  },
+  {
+   "title": "ルーヴル美術館展 ルネサンス",
+   "venue": "国立新美術館",
+   "period": "2026年9月9日（水）～2026年12月13日（日）",
+   "url": "https://www.nact.jp/exhibition_special/2026/louvre2026/",
+   "note": "ダ・ヴィンチ《女性の肖像》（美しきフェロニエール）が初来日し、ルネサンスの精華を展覧。"
+  },
+  {
+   "title": "開館50周年記念 アルベール・マルケ展",
+   "venue": "SOMPO美術館",
+   "period": "2026年9月22日（火・祝）～2026年12月13日（日）",
+   "url": "https://www.sompo-museum.org/exhibitions/2025/albertmarquet/",
+   "note": "フォーヴィスムを経て独自の穏やかな水辺の風景へと至ったフランス近代画家の35年ぶり回顧展。"
+  },
+  {
+   "title": "シンシナティ美術館展 ～アメリカに渡ったヨーロッパの至宝～",
+   "venue": "上野の森美術館",
+   "period": "2026年10月10日（土）～2027年1月10日（日）",
+   "url": "https://www.cincinnati-art2026.jp/",
+   "note": "米オハイオ州の名館より、コロー、モネ、セザンヌなど84点（うち81点が日本初公開）が集結。"
+  },
+  {
+   "title": "フォンタネージ――イタリアの光・心の風景",
+   "venue": "三菱一号館美術館",
+   "period": "2026年10月17日（土）～2027年1月24日（日）",
+   "url": "https://mimt.jp/ex_sp/fontanesi/",
+   "note": "工部美術学校で近代日本洋画の礎を築いた19世紀イタリア風景画の巨匠、日本初の大回顧展。"
+  },
+  {
+   "title": "劇場をめぐるイメージ―ドラクロワ、ドーミエからトゥールーズ=ロートレック、クリンガーまで",
+   "venue": "国立西洋美術館（版画素描展示室）",
+   "period": "2026年10月20日（火）～2027年1月11日（月・祝）",
+   "url": "https://www.nmwa.go.jp/jp/exhibitions/2026theater.html",
+   "note": "19世紀パリを中心とする華やかな劇場文化の諸相を、版画・素描・絵画約50点で紹介する小企画展。"
+  },
+  {
+   "title": "テート美術館 ターナー展――崇高の絵画、現代美術との対話",
+   "venue": "国立西洋美術館",
+   "period": "2026年10月24日（土）～2027年2月21日（日）",
+   "url": "https://turner2026-27.exhibit.jp/",
+   "note": "生誕250年を記念し、英テート所蔵の油彩・水彩80点以上とオラファー・エリアソンら現代作家が共演。"
+  },
+  {
+   "title": "東京都美術館開館100周年記念 オルセー美術館所蔵 いまを生きる歓び",
+   "venue": "東京都美術館",
+   "period": "2026年11月14日（土）～2027年3月28日（日）",
+   "url": "https://art.nikkei.com/orsay2627/",
+   "note": "オルセーの名品約110点が一堂に。ミレー《落穂拾い》やゴッホ《ローヌ川の星月夜》などが来日。"
+  },
+  {
+   "title": "ニコライ・アストルップ 創造する庭",
+   "venue": "東京ステーションギャラリー",
+   "period": "2026年11月21日（土）～2027年1月31日（日）",
+   "url": "https://www.ejrcf.or.jp/gallery/",
+   "note": "ノルウェーの自然や庭を鮮烈な色彩と独創的な木版画で描き出した注目の近代画家、待望の日本初回顧展。"
+  }
+ ],
+ "sources": [
+  {
+   "title": "nact.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhll-SxuHrSyCzbpMoFpaMaSDu2bh8SuOQKonwORoGiVBXDcwrKs-EV3dKKA-yWMf1sn24oVXzuIJ91p6XmWDLiceWZCsGPdH9izCRoTdyRpDR2HBWpPJF9T49JnM7s2jdcIN0l8TnObFhRXA="
+  },
+  {
+   "title": "youtube.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFhAgr-vzQ9IYokBIKAkXW9MB0VO_la68ETXH0pZEpH1altUADTFN6eEe0kvgAFaTQQoGzemU2qXaSJf-zfAMdDLRN8WG4swktq5LfZRTxUMBN3q-HCoatEjTjnoqBNo="
+  },
+  {
+   "title": "nmwa.go.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9Re46iEXxrDPrHvcS3kgClOW8Bkr85F5nXCOQzzaDD08jHhbIiFUvOlM13TcqL8JQSbhLj-wgLuvhmW_XZktciAp-lbcOMrkFgOYIT-G9oAbZec0E2h1RSIfkffBAE0agxbUfQrGMnDLE"
+  },
+  {
+   "title": "youtube.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkCY_55tNZJEBO45AbGMaud2GeEiOIYIz7Q9fiFFv0Z0pmnYlUvr0jemAlfOQi0Iz0ECtGYlbeCoHotT8ZZzJ2oD-_jGYg07A67zQrCA3kFnqnssM7QBOKZTDmvjr5q0s="
+  },
+  {
+   "title": "artagenda.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGJpbrvgWK82BDhd4SPU0mf47O8yj1CisdGv6sRj0J8_nfq4pDR44Qlumj6RThN8rGZu-LNavFB3PSoU2nvJG3p9vXwt5jhBhHdSVze74U815-4DxIHWOuV-8EerPtXv84BgNNsA0="
+  },
+  {
+   "title": "museum.or.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6UZoRQk-zLrR-x55T5zhToX7jltM4Ron6vOaQxXGrDSp4wTZKhaAJvdaiqgfqQhMmHNQt2CrR4OA2CjSUkMLZqaDqyiVHTH5FIgv42C3LsaHurYYkNTDL4OE="
+  },
+  {
+   "title": "city.yokohama.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYUkm1QXajZHoak12k2Roc6GFDCIqF-nRXi3dkHrWIRD3YrlXiEAaUbxq6S1r_SGAMfASUcYE-FaBnTMdkhPDR9AJFgaow3bceNLafWaqVU6GRWaei8dJMQtYLkrk3DiRLqUQIXweL-po7jrwrwW6mzTL29lNa-8taWeyhVw=="
+  },
+  {
+   "title": "museum.or.jp",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZu7CSDvU4_d0xxD-zYmNIJIhLXZyglXC8rxUoyVDPCH7toP5Nykc7Duorci6U5w3tfRF06TrCrqh6h-CpV3PGg7szWT9wLm4UHPh-CBEPNznLdtHTED76NQ=="
+  }
+ ]
+}
