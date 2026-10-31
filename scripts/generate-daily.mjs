@@ -69,5 +69,6 @@ const post = {
   audio: { url: `https://storage.googleapis.com/${bucket}/podcast/${today}.mp3`, minutes: Math.round(seconds / 60), bytes: statSync(mp3).size },
   usage, transcript: draft.transcript, paragraphs: draft.paragraphs, artists: used, works,
 };
+mkdirSync(join(ROOT, 'content', 'posts'), { recursive: true });
 writeFileSync(file, JSON.stringify(post, null, 1));
 console.log(`生成: ${post.title}（${Math.round(seconds)}秒）`);
