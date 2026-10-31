@@ -3,7 +3,7 @@
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.9 "Hiragino Sans","Yu Gothic","Noto Sans JP",sans-serif;-webkit-text-size-adjust:100%}
 h1,h2,h3,.brand{font-family:"Hiragino Mincho ProN","Yu Mincho","Noto Serif JP",serif;font-weight:600;line-height:1.5}
 a{color:inherit;text-decoration-color:#bbb;text-underline-offset:3px}a:hover{color:var(--accent)}
-.wrap{max-width:760px;margin:0 auto;padding:0 20px}.wrap.wide{max-width:1280px}
+.wrap{max-width:1000px;margin:0 auto;padding:0 20px}main.wrap{max-width:760px}main.wrap.wide{max-width:1280px}
 header.site{border-bottom:1px solid var(--line);position:sticky;top:0;background:#fffe;backdrop-filter:blur(6px);z-index:10}
 header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;min-height:60px;flex-wrap:wrap}
 .brand{font-size:20px;text-decoration:none;letter-spacing:.08em}
@@ -42,3 +42,11 @@ details{margin-top:2em;font-size:14px;color:#333}summary{cursor:pointer}
 #tip{position:fixed;pointer-events:none;background:#111;color:#fff;font-size:12px;padding:6px 10px;z-index:20;display:none;line-height:1.5}
 #leg{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;margin:12px 0}#leg i{display:inline-block;width:10px;height:10px;margin-right:5px}
 @media(max-width:640px){body{font-size:16px}nav a{margin:0 14px 0 0}.card{flex-direction:column;gap:10px}.card .thumb,.card .thumb img{flex:none;width:100%;height:180px}ul.plain.cols{columns:1}h1{font-size:24px}}
+/* blog list */
+.blog{display:grid;grid-template-columns:minmax(0,1fr) 240px;gap:56px;margin:0 auto}
+.blog .card:first-child{border-top:0;padding-top:0}
+.side{font-size:14px}.side h3{font-size:13px;color:var(--mute);font-weight:500;margin:28px 0 8px;font-family:inherit}
+.side .search input,.side #dj{width:100%}
+.archive{list-style:none;padding:0;margin:0}.archive li{padding:2px 0}.archive a{text-decoration:none}.archive a.on{font-weight:600;color:var(--accent)}.archive small{color:var(--mute)}
+h2.mon{font-size:22px;margin:0 0 8px}
+@media(max-width:800px){.blog{grid-template-columns:1fr;gap:0}.side{order:-1;margin-bottom:24px}.side h3,.archive{display:none}.side #dj{margin-top:10px}}

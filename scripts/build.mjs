@@ -28,7 +28,7 @@ ${SITE ? `<link rel="canonical" href="${SITE}${path}">` : ''}
 </head><body>
 <header class="site"><div class="wrap">
 <a class="brand" href="/">西洋美術史を学ぶ</a>
-<nav><a href="/">ブログ</a><a href="/timeline.html">年表</a><a href="/artists/">芸術家</a><a href="/about.html">このサイトについて</a></nav>
+<nav><a href="/">今日の美術史</a><a href="/timeline.html">年表</a><a href="/artists/">芸術家</a><a href="/about.html">このサイトについて</a></nav>
 </div></header>
 <main class="${wide ? 'wrap wide' : 'wrap'}">${body}</main>
 <footer class="site"><div class="wrap">作品画像は Wikimedia Commons のパブリックドメイン／自由ライセンス素材を使用しています。出典は各画像のキャプションをご覧ください。</div></footer>
@@ -108,12 +108,38 @@ cpSync(join(ROOT, 'site'), OUT, { recursive: true });
 for (const p of posts) { p.slug ??= p.kind === 'exhibitions' ? `${p.date}-exhibitions` : p.date; write(`posts/${p.slug}.html`, postPage(p)); }
 
 const PER = 20;
+const months = [...posts.reduce((m, p) => m.set(p.date.slice(0, 7), (m.get(p.date.slice(0, 7)) || 0) + 1), new Map())];
+const monthJa = (k) => `${k.slice(0, 4)}年${Number(k.slice(5))}月`;
+
+// 本文検索用のインデックス（全記事の題・紹介文・本文・登場芸術家名）
+const stripLinks = (t) => t.replace(/\[\[[a-z0-9-]+\|([^\]]+)\]\]/g, '$1');
+write('assets/posts.json', JSON.stringify(posts.map((p) => ({
+  u: `/posts/${p.slug}.html`, d: p.date, t: p.title, l: p.lede || '', k: p.kind === 'exhibitions' ? '関東の美術展' : p.theme || '',
+  x: [...(p.paragraphs || []).map(stripLinks), ...(p.transcript || []).map((l) => l.text), ...(p.items || []).map((i) => `${i.title} ${i.venue || ''}`),
+    ...(p.artists || []).map((id) => byId.get(id)?.name_ja || '')].join(' '),
+}))));
+
+const side = (cur) => `<aside class="side">
+<form class="search" role="search" onsubmit="return false"><input id="q" type="search" placeholder="記事を検索" aria-label="記事を検索" autocomplete="off"></form>
+<h3>日付で探す</h3>
+<input id="dj" type="date" aria-label="日付を選んで記事を開く"${posts.length ? ` min="${posts[posts.length - 1].date}" max="${posts[0].date}"` : ''}>
+<h3>月別</h3>
+<ul class="archive">${months.map(([k, n]) => `<li><a href="/archive/${k}.html"${k === cur ? ' class="on"' : ''}>${monthJa(k)}</a> <small>${n}</small></li>`).join('')}</ul>
+</aside>`;
+const listScript = `<script>window.POSTS_URL='/assets/posts.json';window.POST_DATES=${JSON.stringify(Object.fromEntries(posts.filter((p) => p.kind !== 'exhibitions').map((p) => [p.date, p.slug])))}</script><script src="/assets/blog.js"></script>`;
+const listPage = (inner, cur) => `<div class="blog"><div class="main"><div id="res" hidden></div><div id="list">${inner}</div></div>${side(cur)}</div>`;
+
 const pages = Math.max(1, Math.ceil(posts.length / PER));
 for (let i = 0; i < pages; i++) {
   const list = posts.slice(i * PER, (i + 1) * PER);
   const nav = pages > 1 ? `<p class="pager">${Array.from({ length: pages }, (_, n) => `<a href="${n ? `/page/${n + 1}.html` : '/'}"${n === i ? ' class="on"' : ''}>${n + 1}</a>`).join('')}</p>` : '';
-  const body = `<h1 class="page">ブログ</h1>${list.length ? list.map(postCard).join('') : '<p class="empty">最初の記事は、毎朝6時に公開されます。</p>'}${nav}`;
-  write(i ? `page/${i + 1}.html` : 'index.html', layout({ title: i ? `ブログ ${i + 1}` : '', path: i ? `/page/${i + 1}.html` : '/', body }));
+  const inner = `${list.length ? list.map(postCard).join('') : '<p class="empty">最初の記事は、毎朝6時に公開されます。</p>'}${nav}`;
+  write(i ? `page/${i + 1}.html` : 'index.html', layout({ title: i ? `${i + 1}ページ目` : '', path: i ? `/page/${i + 1}.html` : '/', wide: true, body: listPage(inner), script: listScript }));
+}
+for (const [k] of months) {
+  const list = posts.filter((p) => p.date.startsWith(k));
+  write(`archive/${k}.html`, layout({ title: monthJa(k), path: `/archive/${k}.html`, wide: true,
+    body: listPage(`<h2 class="mon">${monthJa(k)}</h2>${list.map(postCard).join('')}`, k), script: listScript }));
 }
 
 // 芸術家一覧
@@ -149,7 +175,7 @@ ${pods.slice(0, 50).map((p) => `<item><title>${esc(p.title)}</title><link>${SITE
 </channel></rss>`);
 
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${['/', '/timeline.html', '/artists/', ...artists.map((a) => `/artists/${a.id}.html`), ...posts.map((p) => `/posts/${p.slug}.html`)].map((u) => `<url><loc>${SITE}${u}</loc></url>`).join('\n')}</urlset>`);
+${['/', '/timeline.html', '/artists/', ...months.map(([k]) => `/archive/${k}.html`), ...artists.map((a) => `/artists/${a.id}.html`), ...posts.map((p) => `/posts/${p.slug}.html`)].map((u) => `<url><loc>${SITE}${u}</loc></url>`).join('\n')}</urlset>`);
 write('robots.txt', `User-agent: *\nAllow: /\n${SITE ? `Sitemap: ${SITE}/sitemap.xml\n` : ''}`);
 write('404.html', layout({ title: 'ページが見つかりません', path: '/404.html', body: '<h1 class="page">ページが見つかりません</h1><p><a href="/">ブログへ戻る</a></p>' }));
 
