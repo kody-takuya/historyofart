@@ -1,0 +1,68 @@
+{
+  "id": "boucher",
+  "name_ja": "フランソワ・ブーシェ",
+  "name_en": "François Boucher",
+  "born": 1703,
+  "died": 1770,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "rococo",
+  "wikipedia_ja": "フランソワ・ブーシェ",
+  "wikipedia_en": "François Boucher",
+  "summary": "パリ出身のロココを代表する画家。ポンパドゥール夫人の庇護を受け、神話画、田園画、肖像画のほか、タピスリーや磁器の下絵、舞台装飾など幅広く手がけた。優美で官能的な裸婦と華やかな色彩が特徴。王立絵画彫刻アカデミーの院長や国王首席画家を務めたが、のちにディドロらから軽薄だと批判された。ローマ賞を得てイタリアに留学した。1765年にはルイ15世の首席画家に任命された。多くの版画家が彼の作品を複製し、図像は広く流通した。",
+  "keywords": [
+    "ロココ",
+    "神話画",
+    "ポンパドゥール夫人",
+    "タピスリー"
+  ],
+  "related": [
+    "watteau",
+    "fragonard"
+  ],
+  "works": [
+    {
+      "title_ja": "ディアナの水浴",
+      "title_en": "Diana Leaving Her Bath",
+      "year": 1742,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ポンパドゥール夫人の肖像",
+      "title_en": "Madame de Pompadour",
+      "year": 1756,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    },
+    {
+      "title_ja": "ヴィーナスの化粧",
+      "title_en": "The Toilet of Venus",
+      "year": 1751,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "横たわる少女",
+      "title_en": "Reclining Girl (Louise O'Murphy)",
+      "year": 1751,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    },
+    {
+      "title_ja": "朝食",
+      "title_en": "Le Déjeuner",
+      "year": 1739,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "日の出",
+      "title_en": "The Rising of the Sun",
+      "year": 1753,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ウォレス・コレクション"
+    }
+  ]
+}

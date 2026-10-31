@@ -1,0 +1,61 @@
+{
+  "id": "hieronymus-bosch",
+  "name_ja": "ヒエロニムス・ボス",
+  "name_en": "Hieronymus Bosch",
+  "born": 1450,
+  "died": 1516,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "renaissance",
+  "wikipedia_ja": "ヒエロニムス・ボス",
+  "wikipedia_en": "Hieronymus Bosch",
+  "summary": "ネーデルラント南部のスヘルトーヘンボス出身の画家。怪物や幻想的な生き物を多数描き込んだ奇想の画風で知られる。『快楽の園』をはじめとする三連祭壇画では、天国と地獄、罪と救済を寓意的に表現した。その図像の解釈は今も議論され、後世のシュルレアリスムにも影響したとされる。スペイン王フェリペ2世が作品を熱心に収集したため、多くがスペインに伝わった。その作品は、中世の宗教観と近世の想像力が交差する独自の世界を示している。",
+  "keywords": [
+    "幻想",
+    "三連祭壇画",
+    "寓意",
+    "スヘルトーヘンボス"
+  ],
+  "related": [
+    "pieter-bruegel-the-elder",
+    "matthias-grunewald"
+  ],
+  "works": [
+    {
+      "title_ja": "快楽の園",
+      "title_en": "The Garden of Earthly Delights",
+      "year": 1500,
+      "medium": "板に油彩",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "干草車",
+      "title_en": "The Haywain Triptych",
+      "year": 1500,
+      "medium": "板に油彩",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "聖アントニウスの誘惑",
+      "title_en": "Temptation of St Anthony",
+      "year": 1501,
+      "medium": "板に油彩",
+      "collection": "リスボン国立古美術館"
+    },
+    {
+      "title_ja": "愚者の船",
+      "title_en": "Ship of Fools",
+      "year": 1500,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "十字架を担うキリスト",
+      "title_en": "Christ Carrying the Cross",
+      "year": 1500,
+      "medium": "板に油彩",
+      "collection": "ゲント美術館"
+    }
+  ]
+}

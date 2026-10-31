@@ -1,0 +1,51 @@
+{
+  "id": "paul-cezanne",
+  "name_ja": "ポール・セザンヌ",
+  "name_en": "Paul Cézanne",
+  "born": 1839,
+  "died": 1906,
+  "region": "france",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "ポール・セザンヌ",
+  "wikipedia_en": "Paul Cézanne",
+  "summary": "南仏エクス＝アン＝プロヴァンス出身の画家。初期に印象派と交わったのち、自然を円筒・球・円錐として捉え、色彩と構成を再構築する独自の様式に進んだ。故郷のサント＝ヴィクトワール山や静物、水浴図を繰り返し描いた。「近代絵画の父」と呼ばれ、キュビスムに大きな影響を与えた。生前は長く無名に近かったが、1895年の個展で注目を集めた。多視点を一つの画面に統合する試みは、ピカソやブラックのキュビスムを導いた。後進に与えた影響の大きさから、近代美術の出発点に位置づけられる。",
+  "keywords": [
+    "ポスト印象派",
+    "サント＝ヴィクトワール山",
+    "静物画"
+  ],
+  "related": [
+    "camille-pissarro",
+    "paul-gauguin",
+    "vincent-van-gogh"
+  ],
+  "works": [
+    {
+      "title_ja": "リンゴとオレンジ",
+      "title_en": "Still Life with Apples and Oranges",
+      "year": 1899,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "カード遊びをする人々",
+      "title_en": "The Card Players",
+      "year": 1892
+    },
+    {
+      "title_ja": "サント＝ヴィクトワール山",
+      "title_en": "Mont Sainte-Victoire",
+      "year": 1904
+    },
+    {
+      "title_ja": "大水浴図",
+      "title_en": "The Large Bathers",
+      "year": 1906,
+      "collection": "フィラデルフィア美術館"
+    },
+    {
+      "title_ja": "赤いチョッキの少年",
+      "title_en": "Boy in a Red Waistcoat",
+      "year": 1889
+    }
+  ]
+}

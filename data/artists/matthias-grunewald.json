@@ -1,0 +1,40 @@
+{
+  "id": "matthias-grunewald",
+  "name_ja": "マティアス・グリューネヴァルト",
+  "name_en": "Matthias Grünewald",
+  "born": 1470,
+  "died": 1528,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "germany",
+  "movement": "renaissance",
+  "wikipedia_ja": "マティアス・グリューネヴァルト",
+  "wikipedia_en": "Matthias Grünewald",
+  "summary": "ドイツ・ルネサンスの画家。本名はマティス・ナイトハルトまたはゴートハルトとされる。劇的で激しい感情表現と、強烈な色彩を特徴とする。『イーゼンハイム祭壇画』はコルマールのウンターリンデン美術館に所蔵され、苦悶するキリストを痛切に描いた作品として名高い。その生涯は不明な点が多い。デューラーと並ぶドイツ美術の巨匠として、近代に入って再評価された。その作品は、同時代のイタリア・ルネサンスとは異なる、北方独自の宗教的表現の極致とされる。",
+  "keywords": [
+    "祭壇画",
+    "イーゼンハイム祭壇画",
+    "感情表現",
+    "北方ルネサンス"
+  ],
+  "related": [
+    "albrecht-durer",
+    "hieronymus-bosch"
+  ],
+  "works": [
+    {
+      "title_ja": "イーゼンハイム祭壇画",
+      "title_en": "Isenheim Altarpiece",
+      "year": 1515,
+      "medium": "板に油彩",
+      "collection": "コルマール、ウンターリンデン美術館"
+    },
+    {
+      "title_ja": "嘲笑されるキリスト",
+      "title_en": "Mocking of Christ",
+      "year": 1505,
+      "medium": "板に油彩",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    }
+  ]
+}

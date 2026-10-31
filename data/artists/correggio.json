@@ -1,0 +1,54 @@
+{
+  "id": "correggio",
+  "name_ja": "コレッジョ",
+  "name_en": "Correggio",
+  "born": 1489,
+  "died": 1534,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "コレッジョ",
+  "wikipedia_en": "Correggio",
+  "summary": "北イタリアのパルマで活躍した盛期ルネサンスの画家。レオナルドのスフマートの影響を受けつつ、柔らかな光と動きのある構図を特徴とする。パルマ大聖堂のクーポラ画『聖母被昇天』は、天井画における錯視的な表現の先駆けとなり、後のバロック美術に大きな影響を与えた。神話画でも官能的な表現に優れ、ゴンザーガ家の注文でも制作した。その柔らかな光と親密な情感に満ちた画風は、後の画家たちに受け継がれた。その作品は、パルマを中心とする北イタリアの美術に独自の流れを生んだ。",
+  "keywords": [
+    "フレスコ",
+    "天井画",
+    "スフマート",
+    "パルマ"
+  ],
+  "related": [
+    "parmigianino",
+    "leonardo-da-vinci"
+  ],
+  "works": [
+    {
+      "title_ja": "聖母被昇天",
+      "title_en": "Assumption of the Virgin",
+      "year": 1530,
+      "medium": "フレスコ",
+      "collection": "パルマ大聖堂"
+    },
+    {
+      "title_ja": "ユピテルとイオ",
+      "title_en": "Jupiter and Io",
+      "year": 1531,
+      "medium": "画布に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "聖夜(羊飼いの礼拝)",
+      "title_en": "Holy Night",
+      "year": 1530,
+      "medium": "板に油彩",
+      "collection": "ドレスデン、アルテ・マイスター絵画館"
+    },
+    {
+      "title_ja": "ダナエ",
+      "title_en": "Danaë",
+      "year": 1531,
+      "medium": "画布に油彩",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    }
+  ]
+}

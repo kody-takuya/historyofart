@@ -1,0 +1,68 @@
+{
+  "id": "claude-lorrain",
+  "name_ja": "クロード・ロラン",
+  "name_en": "Claude Lorrain",
+  "born": 1600,
+  "died": 1682,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "france",
+  "movement": "baroque",
+  "wikipedia_ja": "クロード・ロラン",
+  "wikipedia_en": "Claude Lorrain",
+  "summary": "ロレーヌ地方に生まれ、ローマで活躍した風景画家。黄金色の光に満ちた朝夕の海辺や田園を舞台に、古代神話や聖書の小さな人物を配した理想風景を描いた。大気の表現と光の効果は後世に高く評価され、ターナーやコンスタブルなどイギリスの風景画家にも強い影響を与えた。デッサン集『真実の書』でも知られる。本名はクロード・ジュレで、ロランは「ロレーヌの人」の意。海港や牧歌的風景の構成は、のちの風景画の規範となった。生涯の大半をローマで過ごし、同地で没した。",
+  "keywords": [
+    "理想風景",
+    "光",
+    "ローマ",
+    "素描"
+  ],
+  "related": [
+    "poussin",
+    "turner"
+  ],
+  "works": [
+    {
+      "title_ja": "シバの女王の乗船のある海港",
+      "title_en": "Seaport with the Embarkation of the Queen of Sheba",
+      "year": 1648,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "アイネイアスのいるデロス島の風景",
+      "title_en": "Landscape with Aeneas at Delos",
+      "year": 1672,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "魔法の城",
+      "title_en": "The Enchanted Castle",
+      "year": 1664,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "聖ウルスラの乗船",
+      "title_en": "The Embarkation of Saint Ursula",
+      "year": 1641,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "イサクとリベカの結婚（水車）",
+      "title_en": "Landscape with the Marriage of Isaac and Rebekah",
+      "year": 1648,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "クリュセイスを父に返すオデュッセウス",
+      "title_en": "Ulysses Returns Chryseis to Her Father",
+      "year": 1644,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

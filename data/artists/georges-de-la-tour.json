@@ -1,0 +1,67 @@
+{
+  "id": "georges-de-la-tour",
+  "name_ja": "ジョルジュ・ド・ラ・トゥール",
+  "name_en": "Georges de La Tour",
+  "born": 1593,
+  "died": 1652,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "baroque",
+  "wikipedia_ja": "ジョルジュ・ド・ラ・トゥール",
+  "wikipedia_en": "Georges de La Tour",
+  "summary": "ロレーヌ地方で活動したフランスの画家。ろうそくや松明の光に照らされた夜の情景を、簡潔な形態と静かな緊張感で描いた。宗教画と風俗画の両方で知られる。生前は名声を得たが没後に忘れられ、20世紀に再発見された。作品の多くは年代や帰属に議論があり、真筆とされる数は限られる。没後は長く忘れられたが、20世紀初めに美術史家ヘルマン・フォスの研究により再発見され、評価が高まった。同じ構図の複数の版が存在し、真贋をめぐる議論も続いている。",
+  "keywords": [
+    "夜景",
+    "ろうそく",
+    "ロレーヌ",
+    "再発見"
+  ],
+  "related": [
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "大工の聖ヨセフ",
+      "title_en": "Saint Joseph the Carpenter",
+      "year": 1642,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "いかさま師",
+      "title_en": "The Cheat with the Ace of Diamonds",
+      "year": 1635,
+      "medium": "油彩・カンヴァス",
+      "collection": "フォートワース、キンベル美術館"
+    },
+    {
+      "title_ja": "悔悛するマグダラのマリア",
+      "title_en": "The Penitent Magdalene",
+      "year": 1640,
+      "medium": "油彩・カンヴァス",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "新生児",
+      "title_en": "The Newborn",
+      "year": 1648,
+      "medium": "油彩・カンヴァス",
+      "collection": "レンヌ美術館"
+    },
+    {
+      "title_ja": "燃える炎のあるマグダラのマリア",
+      "title_en": "Magdalene with the Smoking Flame",
+      "year": 1640,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロサンゼルス郡立美術館"
+    },
+    {
+      "title_ja": "女占い師",
+      "title_en": "The Fortune Teller",
+      "year": 1630,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    }
+  ]
+}

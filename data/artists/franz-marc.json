@@ -1,0 +1,58 @@
+{
+  "id": "franz-marc",
+  "name_ja": "フランツ・マルク",
+  "name_en": "Franz Marc",
+  "born": 1880,
+  "died": 1916,
+  "region": "germany",
+  "movement": "modern",
+  "wikipedia_ja": "フランツ・マルク",
+  "wikipedia_en": "Franz Marc",
+  "summary": "ドイツの画家。動物を主題に、色彩に象徴的な意味を与えた表現主義の作家。カンディンスキーとともに年刊誌『青騎士』を編集し、1911年に同名のグループを結成した。青い馬、黄色い牛などの作品で知られる。晩年は形態を分解する抽象的な傾向を強めた。第一次世界大戦に従軍し、1916年にヴェルダンで戦死した。動物の純粋さに人間世界への批判を託し、色彩には独自の象徴体系を与えようとした画家である。その画業は短かったが、ドイツ表現主義の中心的な存在として没後も高く評価されている。",
+  "keywords": [
+    "青騎士",
+    "動物画",
+    "表現主義"
+  ],
+  "related": [
+    "wassily-kandinsky",
+    "paul-klee"
+  ],
+  "works": [
+    {
+      "title_ja": "青い馬I",
+      "title_en": "Blue Horse I",
+      "year": 1911,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、レンバッハハウス"
+    },
+    {
+      "title_ja": "黄色い牛",
+      "title_en": "Yellow Cow",
+      "year": 1911,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、グッゲンハイム美術館"
+    },
+    {
+      "title_ja": "チロル",
+      "title_en": "Tyrol",
+      "year": 1913,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、ピナコテーク・デア・モデルネ"
+    },
+    {
+      "title_ja": "虎",
+      "title_en": "The Tiger",
+      "year": 1912,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、レンバッハハウス"
+    },
+    {
+      "title_ja": "動物たちの運命",
+      "title_en": "The Fate of the Animals",
+      "year": 1913,
+      "medium": "油彩・カンヴァス",
+      "collection": "バーゼル美術館"
+    }
+  ]
+}

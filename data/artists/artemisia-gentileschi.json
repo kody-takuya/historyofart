@@ -1,0 +1,67 @@
+{
+  "id": "artemisia-gentileschi",
+  "name_ja": "アルテミジア・ジェンティレスキ",
+  "name_en": "Artemisia Gentileschi",
+  "born": 1593,
+  "died": 1656,
+  "born_approx": false,
+  "died_approx": true,
+  "region": "italy",
+  "movement": "baroque",
+  "wikipedia_ja": "アルテミジア・ジェンティレスキ",
+  "wikipedia_en": "Artemisia Gentileschi",
+  "summary": "ローマに生まれた女性画家で、画家オラツィオ・ジェンティレスキの娘。カラヴァッジョの影響を受けた力強い明暗表現と、ユディトやスザンナなど聖書の女性を主題とした劇的な作品で知られる。若年期に受けた被害をめぐる裁判でも知られる。フィレンツェ、ローマ、ナポリなどで活動し、女性として初めてフィレンツェのアカデミアに入会したとされる。父オラツィオの工房で絵を学び、のちにはイングランド宮廷にも滞在した。力強い女性像を描いた画家として、近年は研究と再評価が大きく進んでいる。",
+  "keywords": [
+    "女性画家",
+    "明暗法",
+    "ユディト",
+    "歴史画"
+  ],
+  "related": [
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "ホロフェルネスの首を斬るユディト",
+      "title_en": "Judith Slaying Holofernes",
+      "year": 1620,
+      "medium": "油彩・カンヴァス",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "スザンナと長老たち",
+      "title_en": "Susanna and the Elders",
+      "year": 1610,
+      "medium": "油彩・カンヴァス",
+      "collection": "ポンメルスフェルデン、シェーンボルン・コレクション"
+    },
+    {
+      "title_ja": "絵画の寓意としての自画像",
+      "title_en": "Self-Portrait as the Allegory of Painting",
+      "year": 1638,
+      "medium": "油彩・カンヴァス",
+      "collection": "英国王室コレクション"
+    },
+    {
+      "title_ja": "アレクサンドリアの聖カタリナとしての自画像",
+      "title_en": "Self-Portrait as Saint Catherine of Alexandria",
+      "year": 1616,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ユディトと侍女",
+      "title_en": "Judith and Her Maidservant",
+      "year": 1618,
+      "medium": "油彩・カンヴァス",
+      "collection": "フィレンツェ、ピッティ宮殿"
+    },
+    {
+      "title_ja": "ダナエ",
+      "title_en": "Danaë",
+      "year": 1612,
+      "medium": "油彩・カンヴァス",
+      "collection": "セントルイス美術館"
+    }
+  ]
+}

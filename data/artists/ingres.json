@@ -1,0 +1,61 @@
+{
+  "id": "ingres",
+  "name_ja": "ドミニク・アングル",
+  "name_en": "Jean-Auguste-Dominique Ingres",
+  "born": 1780,
+  "died": 1867,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "neoclassicism",
+  "wikipedia_ja": "ドミニク・アングル",
+  "wikipedia_en": "Jean-Auguste-Dominique Ingres",
+  "summary": "南仏モントーバン出身の新古典主義の画家。ダヴィッドに学び、ローマ賞を得てイタリアに滞在した。正確な輪郭線と滑らかな肌の表現を重んじ、肖像画や裸婦像、歴史画で知られる。一方で人体のプロポーションを意図的に変形する大胆さも持ち、「グランド・オダリスク」などに表れる。ドラクロワのロマン主義と対立する古典派の代表と目された。パリ、フィレンツェ、ローマに滞在し、ローマではフランス・アカデミー（ヴィラ・メディチ）の院長も務めた。",
+  "keywords": [
+    "新古典主義",
+    "線描",
+    "裸婦",
+    "肖像画"
+  ],
+  "related": [
+    "jacques-louis-david",
+    "delacroix"
+  ],
+  "works": [
+    {
+      "title_ja": "グランド・オダリスク",
+      "title_en": "La Grande Odalisque",
+      "year": 1814,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "泉",
+      "title_en": "La Source",
+      "year": 1856,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "トルコ風呂",
+      "title_en": "The Turkish Bath",
+      "year": 1862,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ベルタン氏の肖像",
+      "title_en": "Portrait of Louis-François Bertin",
+      "year": 1832,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ヴァルパンソンの浴女",
+      "title_en": "The Valpinçon Bather",
+      "year": 1808,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

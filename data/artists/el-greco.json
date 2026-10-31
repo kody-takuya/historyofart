@@ -1,0 +1,61 @@
+{
+  "id": "el-greco",
+  "name_ja": "エル・グレコ",
+  "name_en": "El Greco",
+  "born": 1541,
+  "died": 1614,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "spain",
+  "movement": "mannerism",
+  "wikipedia_ja": "エル・グレコ",
+  "wikipedia_en": "El Greco",
+  "summary": "クレタ島出身で、ヴェネツィアとローマで修業し、後にスペインのトレドで活躍した画家。本名はドメニコス・テオトコプーロス。細長く引き伸ばされた人体、鮮烈な色彩、劇的な光の表現を特徴とする。スペインのマニエリスムを代表し、『オルガス伯の埋葬』は代表作。独自の宗教的幻視を描き出した。20世紀に再評価され、表現主義の先駆者とも見なされるようになった。その独特の様式は、同時代のスペインでは特異なものとして受け止められていた。",
+  "keywords": [
+    "マニエリスム",
+    "トレド",
+    "宗教画",
+    "引き伸ばされた人体"
+  ],
+  "related": [
+    "tintoretto",
+    "titian"
+  ],
+  "works": [
+    {
+      "title_ja": "オルガス伯の埋葬",
+      "title_en": "The Burial of the Count of Orgaz",
+      "year": 1588,
+      "medium": "画布に油彩",
+      "collection": "トレド、サント・トメ聖堂"
+    },
+    {
+      "title_ja": "トレド眺望",
+      "title_en": "View of Toledo",
+      "year": 1600,
+      "medium": "画布に油彩",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "聖衣剥奪",
+      "title_en": "El Expolio",
+      "year": 1579,
+      "medium": "画布に油彩",
+      "collection": "トレド大聖堂"
+    },
+    {
+      "title_ja": "ラオコーン",
+      "title_en": "Laocoön",
+      "year": 1610,
+      "medium": "画布に油彩",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "第五の封印",
+      "title_en": "The Opening of the Fifth Seal",
+      "year": 1614,
+      "medium": "画布に油彩",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    }
+  ]
+}

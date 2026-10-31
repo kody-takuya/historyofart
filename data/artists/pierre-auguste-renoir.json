@@ -1,0 +1,53 @@
+{
+  "id": "pierre-auguste-renoir",
+  "name_ja": "ピエール＝オーギュスト・ルノワール",
+  "name_en": "Pierre-Auguste Renoir",
+  "born": 1841,
+  "died": 1919,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "ピエール＝オーギュスト・ルノワール",
+  "wikipedia_en": "Pierre-Auguste Renoir",
+  "summary": "リモージュに生まれ、磁器の絵付け職人として働いたのち画家となった。モネらと並ぶ印象派の中心人物で、明るい色彩と柔らかな筆致で、パリの社交の場面や女性像、子どもの姿を描いた。1880年代にイタリアを旅して古典に触れ、輪郭を重んじる作風に転じ、晩年はリウマチに苦しみながら制作を続けた。晩年は南仏カーニュに居を構え、手が不自由になっても筆を手に結わえて描いたと伝えられる。幸福感に満ちた作品は、今も世界中で愛されている。",
+  "keywords": [
+    "印象派",
+    "人物画",
+    "裸婦"
+  ],
+  "related": [
+    "claude-monet",
+    "edgar-degas",
+    "berthe-morisot"
+  ],
+  "works": [
+    {
+      "title_ja": "ムーラン・ド・ラ・ギャレット",
+      "title_en": "Bal du moulin de la Galette",
+      "year": 1876,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "舟遊びの昼食",
+      "title_en": "Luncheon of the Boating Party",
+      "year": 1881,
+      "collection": "ワシントン、フィリップス・コレクション"
+    },
+    {
+      "title_ja": "ピアノを弾く少女たち",
+      "title_en": "Girls at the Piano",
+      "year": 1892
+    },
+    {
+      "title_ja": "大水浴図",
+      "title_en": "The Bathers",
+      "year": 1887,
+      "collection": "フィラデルフィア美術館"
+    },
+    {
+      "title_ja": "桟敷席",
+      "title_en": "La Loge",
+      "year": 1874,
+      "collection": "ロンドン、コートールド・ギャラリー"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "william-blake",
+  "name_ja": "ウィリアム・ブレイク",
+  "name_en": "William Blake",
+  "born": 1757,
+  "died": 1827,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "britain",
+  "movement": "romanticism",
+  "wikipedia_ja": "ウィリアム・ブレイク",
+  "wikipedia_en": "William Blake",
+  "summary": "ロンドンに生まれ、詩人・画家・版画家として活動した。自作の詩と挿絵を一体化した彩色印刷本『無垢と経験の歌』などを制作した。独自の神話体系と幻視的な世界観を持ち、聖書やダンテ、ミルトンの挿絵でも知られる。生前はほとんど評価されなかったが、のちにロマン主義の重要な芸術家として再評価された。彫版師の徒弟として修業を積み、王立美術院でも学んだ。自らの技法で詩と絵が一体となった作品を手作業で制作し、少部数のみ流通させた。",
+  "keywords": [
+    "詩人",
+    "幻視",
+    "彩色版画",
+    "挿絵"
+  ],
+  "related": [
+    "goya",
+    "friedrich"
+  ],
+  "works": [
+    {
+      "title_ja": "古の日々",
+      "title_en": "The Ancient of Days",
+      "year": 1794,
+      "medium": "レリーフ・エッチング（手彩色）",
+      "collection": "オックスフォード、ボドリアン図書館"
+    },
+    {
+      "title_ja": "ニュートン",
+      "title_en": "Newton",
+      "year": 1795,
+      "medium": "カラー印刷・水彩",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "無垢と経験の歌",
+      "title_en": "Songs of Innocence and of Experience",
+      "year": 1794,
+      "medium": "彩色エッチング"
+    },
+    {
+      "title_ja": "神曲の挿絵",
+      "title_en": "Illustrations to Dante's Divine Comedy",
+      "year": 1824,
+      "medium": "水彩・ペン"
+    },
+    {
+      "title_ja": "ヨブ記の挿絵",
+      "title_en": "Illustrations of the Book of Job",
+      "year": 1826,
+      "medium": "エングレーヴィング"
+    }
+  ]
+}

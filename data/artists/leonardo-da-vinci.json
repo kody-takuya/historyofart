@@ -1,0 +1,69 @@
+{
+  "id": "leonardo-da-vinci",
+  "name_ja": "レオナルド・ダ・ヴィンチ",
+  "name_en": "Leonardo da Vinci",
+  "born": 1452,
+  "died": 1519,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "レオナルド・ダ・ヴィンチ",
+  "wikipedia_en": "Leonardo da Vinci",
+  "summary": "盛期ルネサンスを代表する、画家・科学者・技術者。ヴィンチ村に生まれ、ヴェロッキオ工房で修業した。フィレンツェ、ミラノ、ローマを経て、晩年はフランス王に招かれた。空気遠近法や、輪郭をぼかすスフマートで深みのある表現を確立し、解剖学や水力学、飛行機械などの手稿も多数残した。完成作は少ないが、『モナ・リザ』『最後の晩餐』は世界で最も有名な絵画の一つ。その探究心と観察の精神は、ルネサンスという時代を象徴するものとされる。",
+  "keywords": [
+    "スフマート",
+    "万能の人",
+    "手稿",
+    "盛期ルネサンス"
+  ],
+  "related": [
+    "michelangelo",
+    "raphael",
+    "botticelli"
+  ],
+  "works": [
+    {
+      "title_ja": "モナ・リザ",
+      "title_en": "Mona Lisa",
+      "year": 1503,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "最後の晩餐",
+      "title_en": "The Last Supper",
+      "year": 1495,
+      "medium": "壁面にテンペラ・油彩",
+      "collection": "ミラノ、サンタ・マリア・デッレ・グラツィエ修道院"
+    },
+    {
+      "title_ja": "岩窟の聖母",
+      "title_en": "Virgin of the Rocks",
+      "year": 1486,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "白貂を抱く貴婦人",
+      "title_en": "Lady with an Ermine",
+      "year": 1490,
+      "medium": "板に油彩",
+      "collection": "クラクフ、チャルトリスキ美術館"
+    },
+    {
+      "title_ja": "受胎告知",
+      "title_en": "Annunciation",
+      "year": 1475,
+      "medium": "板に油彩とテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "ウィトルウィウス的人体図",
+      "title_en": "Vitruvian Man",
+      "year": 1490,
+      "medium": "紙にペンとインク",
+      "collection": "ヴェネツィア、アカデミア美術館"
+    }
+  ]
+}

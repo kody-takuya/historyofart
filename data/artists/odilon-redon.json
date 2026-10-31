@@ -1,0 +1,44 @@
+{
+  "id": "odilon-redon",
+  "name_ja": "オディロン・ルドン",
+  "name_en": "Odilon Redon",
+  "born": 1840,
+  "died": 1916,
+  "region": "france",
+  "movement": "symbolism",
+  "wikipedia_ja": "オディロン・ルドン",
+  "wikipedia_en": "Odilon Redon",
+  "summary": "ボルドー出身の画家・版画家。初期は木炭画や石版画で、目玉や奇怪な生き物など幻想的な黒の世界を描き、「ノワール」と呼ばれた。1890年代以降はパステルや油彩で花や神話を主題とし、鮮やかな色彩へ転じた。象徴主義の文学者たちに支持され、のちのシュルレアリスムにも影響した。文学作品にも着想を得て、ポーやボードレールなどに触発された版画を制作した。後期の色彩豊かな作品はナビ派や若い世代の画家を魅了した。夢と現実のあわいを描いた作品は、世紀末の芸術を象徴する。",
+  "keywords": [
+    "象徴主義",
+    "ノワール",
+    "パステル"
+  ],
+  "related": [
+    "gustave-moreau",
+    "paul-gauguin"
+  ],
+  "works": [
+    {
+      "title_ja": "キュクロプス",
+      "title_en": "The Cyclops",
+      "year": 1914,
+      "collection": "オッテルロー、クレラー＝ミュラー美術館"
+    },
+    {
+      "title_ja": "閉じた目",
+      "title_en": "Closed Eyes",
+      "year": 1890,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "目＝気球",
+      "title_en": "The Eye Like a Strange Balloon Mounts Toward Infinity",
+      "year": 1882
+    },
+    {
+      "title_ja": "アポロンの馬車",
+      "title_en": "Apollo's Chariot"
+    }
+  ]
+}

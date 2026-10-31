@@ -1,0 +1,52 @@
+{
+  "id": "winslow-homer",
+  "name_ja": "ウィンスロー・ホーマー",
+  "name_en": "Winslow Homer",
+  "born": 1836,
+  "died": 1910,
+  "region": "north-america",
+  "movement": "realism",
+  "wikipedia_ja": "ウィンスロー・ホーマー",
+  "wikipedia_en": "Winslow Homer",
+  "summary": "ボストン出身のアメリカの画家。雑誌の挿絵画家として南北戦争を取材したのち、油彩と水彩に転じた。晩年はメイン州の海岸に住み、荒波と向き合う人々や海の力を描いた。写実的で力強い描写は、アメリカ絵画の自立を象徴するものとされる。若い頃は雑誌の挿絵で活動し、水彩では透明感ある色彩と鋭い観察を示した。大西洋を望む海辺のアトリエで晩年を過ごした。素朴ながら力強い自然観が、後世のアメリカ人画家にも継承された。水彩画でも高い評価を得た。",
+  "keywords": [
+    "アメリカ絵画",
+    "水彩",
+    "海景"
+  ],
+  "related": [
+    "john-singer-sargent",
+    "gustave-courbet"
+  ],
+  "works": [
+    {
+      "title_ja": "捕虜のいる前線",
+      "title_en": "Prisoners from the Front",
+      "year": 1866,
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "鞭打ち遊び",
+      "title_en": "Snap the Whip",
+      "year": 1872
+    },
+    {
+      "title_ja": "メキシコ湾流",
+      "title_en": "The Gulf Stream",
+      "year": 1899,
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "北東の風",
+      "title_en": "Northeaster",
+      "year": 1895,
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "猟犬と猟師",
+      "title_en": "Hound and Hunter",
+      "year": 1892,
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    }
+  ]
+}

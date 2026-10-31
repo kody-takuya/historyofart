@@ -1,0 +1,68 @@
+{
+  "id": "murillo",
+  "name_ja": "バルトロメ・エステバン・ムリーリョ",
+  "name_en": "Bartolomé Esteban Murillo",
+  "born": 1617,
+  "died": 1682,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "spain",
+  "movement": "baroque",
+  "wikipedia_ja": "バルトロメ・エステバン・ムリーリョ",
+  "wikipedia_en": "Bartolomé Esteban Murillo",
+  "summary": "セビーリャを拠点としたスペイン・バロックの画家。柔らかな色彩と優しい感情表現で、聖母子や無原罪の御宿りなどの宗教画を数多く制作した。一方で街の貧しい子供たちを温かく描いた風俗画でも知られる。18〜19世紀にはヨーロッパで非常に人気が高く、スペイン絵画の代表的存在とみなされた。1682年にセビーリャで没した。画家のアカデミー設立にも関わり、地元で圧倒的な人気を得た。聖母像は、優しい表情と柔らかい光で信仰心を誘うものとして多くの信者に愛された。",
+  "keywords": [
+    "宗教画",
+    "無原罪の御宿り",
+    "風俗画",
+    "セビーリャ"
+  ],
+  "related": [
+    "velazquez",
+    "zurbaran"
+  ],
+  "works": [
+    {
+      "title_ja": "無原罪の御宿り",
+      "title_en": "The Immaculate Conception",
+      "year": 1660,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "蚤をとる少年",
+      "title_en": "The Young Beggar",
+      "year": 1650,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ブドウとメロンを食べる少年たち",
+      "title_en": "Boys Eating Grapes and Melon",
+      "year": 1646,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    },
+    {
+      "title_ja": "善き羊飼い",
+      "title_en": "The Good Shepherd",
+      "year": 1660,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "鳥のいる聖家族",
+      "title_en": "The Holy Family with a Bird",
+      "year": 1650,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "窓辺の二人の女",
+      "title_en": "Two Women at a Window",
+      "year": 1655,
+      "medium": "油彩・カンヴァス",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "piero-della-francesca",
+  "name_ja": "ピエロ・デッラ・フランチェスカ",
+  "name_en": "Piero della Francesca",
+  "born": 1416,
+  "died": 1492,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ピエロ・デッラ・フランチェスカ",
+  "wikipedia_en": "Piero della Francesca",
+  "summary": "15世紀イタリアの画家・数学者。トスカーナ地方のボルゴ・サンセポルクロ出身で、幾何学的に構成された静謐な画面と、明るく澄んだ光の表現で知られる。遠近法や幾何学に関する著作も残した。アレッツォのサン・フランチェスコ聖堂の壁画連作『聖十字架伝説』は代表作で、ウルビーノ公爵夫妻の肖像画も有名。後世の画家や20世紀の評論家からも高く評価されている。その作品は、秩序と静けさを備えた理想的な画面構成により、今日も多くの人を惹きつける。",
+  "keywords": [
+    "フレスコ",
+    "遠近法",
+    "幾何学",
+    "聖十字架伝説"
+  ],
+  "related": [
+    "fra-angelico",
+    "mantegna"
+  ],
+  "works": [
+    {
+      "title_ja": "聖十字架伝説",
+      "title_en": "Legend of the True Cross",
+      "year": 1460,
+      "medium": "フレスコ",
+      "collection": "アレッツォ、サン・フランチェスコ聖堂"
+    },
+    {
+      "title_ja": "キリストの洗礼",
+      "title_en": "Baptism of Christ",
+      "year": 1450,
+      "medium": "板にテンペラ",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "キリストの鞭打ち",
+      "title_en": "Flagellation of Christ",
+      "medium": "板にテンペラ",
+      "collection": "ウルビーノ、マルケ国立美術館"
+    },
+    {
+      "title_ja": "ウルビーノ公夫妻の肖像",
+      "title_en": "Diptych of the Duke and Duchess of Urbino",
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "復活",
+      "title_en": "Resurrection",
+      "medium": "フレスコ",
+      "collection": "サンセポルクロ市立美術館"
+    }
+  ]
+}

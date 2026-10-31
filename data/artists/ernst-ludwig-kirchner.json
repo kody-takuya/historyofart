@@ -1,0 +1,43 @@
+{
+  "id": "ernst-ludwig-kirchner",
+  "name_ja": "エルンスト・ルートヴィヒ・キルヒナー",
+  "name_en": "Ernst Ludwig Kirchner",
+  "born": 1880,
+  "died": 1938,
+  "region": "germany",
+  "movement": "modern",
+  "wikipedia_ja": "エルンスト・ルートヴィヒ・キルヒナー",
+  "wikipedia_en": "Ernst Ludwig Kirchner",
+  "summary": "ドイツの画家・版画家。1905年にドレスデンで結成されたドイツ表現主義の芸術家集団「ブリュッケ（橋）」の中心人物。都市生活の緊張感を鋭角的な形態と強烈な色彩で描いた。ベルリン時代の街頭の娼婦を描いた連作で知られる。第一次世界大戦での兵役後に心身を病み、スイスのダヴォスに移住して制作を続けたが、1938年に自ら命を絶った。ブリュッケにはヘッケル、シュミット＝ロットルフらが参加し、木版画の復興にも貢献した。",
+  "keywords": [
+    "ブリュッケ",
+    "表現主義",
+    "木版画"
+  ],
+  "related": [
+    "franz-marc"
+  ],
+  "works": [
+    {
+      "title_ja": "ベルリンの街角",
+      "title_en": "Berlin Street Scene",
+      "year": 1913,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館ほか"
+    },
+    {
+      "title_ja": "ポツダム広場",
+      "title_en": "Potsdamer Platz",
+      "year": 1914,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン国立美術館"
+    },
+    {
+      "title_ja": "兵士としての自画像",
+      "title_en": "Self-Portrait as a Soldier",
+      "year": 1915,
+      "medium": "油彩・カンヴァス",
+      "collection": "オバーリン大学アレン記念美術館"
+    }
+  ]
+}

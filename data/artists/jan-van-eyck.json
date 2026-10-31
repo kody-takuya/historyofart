@@ -1,0 +1,61 @@
+{
+  "id": "jan-van-eyck",
+  "name_ja": "ヤン・ファン・エイク",
+  "name_en": "Jan van Eyck",
+  "born": 1390,
+  "died": 1441,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "early-netherlandish",
+  "wikipedia_ja": "ヤン・ファン・エイク",
+  "wikipedia_en": "Jan van Eyck",
+  "summary": "15世紀前半に活躍した初期ネーデルラント絵画の巨匠。ブルゴーニュ公フィリップ善良公に仕え、ブルッヘで制作した。油彩技法を高度に洗練し、細密な描写と透明感のある色彩で、光や質感を驚くほど精緻に描き出した。兄フーベルトとの共作とされるゲントの祭壇画や、肖像画の傑作で名高い。署名や年記入りの作品が多いことでも知られ、北方ルネサンス絵画の基礎を築いた。その写実的で緻密な表現は、同時代と後世のネーデルラント絵画に決定的な影響を与えた。",
+  "keywords": [
+    "油彩",
+    "肖像画",
+    "ゲント祭壇画",
+    "細密描写"
+  ],
+  "related": [
+    "robert-campin",
+    "rogier-van-der-weyden"
+  ],
+  "works": [
+    {
+      "title_ja": "アルノルフィーニ夫妻の肖像",
+      "title_en": "Arnolfini Portrait",
+      "year": 1434,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ゲントの祭壇画",
+      "title_en": "Ghent Altarpiece",
+      "year": 1432,
+      "medium": "板に油彩",
+      "collection": "ゲント、聖バーフ大聖堂"
+    },
+    {
+      "title_ja": "宰相ロランの聖母",
+      "title_en": "Madonna of Chancellor Rolin",
+      "year": 1435,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "赤いターバンの男",
+      "title_en": "Portrait of a Man (Self Portrait?)",
+      "year": 1433,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ファン・デル・パーレの聖母子",
+      "title_en": "Madonna with Canon van der Paele",
+      "year": 1436,
+      "medium": "板に油彩",
+      "collection": "ブルッヘ、グルーニング美術館"
+    }
+  ]
+}

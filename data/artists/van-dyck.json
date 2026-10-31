@@ -1,0 +1,67 @@
+{
+  "id": "van-dyck",
+  "name_ja": "アンソニー・ヴァン・ダイク",
+  "name_en": "Anthony van Dyck",
+  "born": 1599,
+  "died": 1641,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "baroque",
+  "wikipedia_ja": "アンソニー・ヴァン・ダイク",
+  "wikipedia_en": "Anthony van Dyck",
+  "summary": "アントワープに生まれたフランドルの画家。若くしてルーベンスの工房で頭角を現し、のちにイタリアのジェノヴァで貴族の肖像を手がけた。1632年にイングランド王チャールズ1世の宮廷画家となり、優美で気品ある肖像様式を確立してイギリス肖像画に長く影響を残した。1641年にロンドンで没した。イタリアではティツィアーノらヴェネツィア派の作品を熱心に研究し、色彩と構図を深めた。1632年にナイトに叙され、英国で大きな成功を収めた。",
+  "keywords": [
+    "肖像画",
+    "宮廷画家",
+    "フランドル",
+    "イングランド"
+  ],
+  "related": [
+    "rubens",
+    "gainsborough"
+  ],
+  "works": [
+    {
+      "title_ja": "狩場のチャールズ1世",
+      "title_en": "Charles I at the Hunt",
+      "year": 1635,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "チャールズ1世の三面肖像",
+      "title_en": "Triple Portrait of Charles I",
+      "year": 1635,
+      "medium": "油彩・カンヴァス",
+      "collection": "英国王室コレクション"
+    },
+    {
+      "title_ja": "自画像",
+      "title_en": "Self-Portrait",
+      "year": 1640,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "騎馬のチャールズ1世",
+      "title_en": "Equestrian Portrait of Charles I",
+      "year": 1637,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "エレナ・グリマルディ・カッタネオ侯爵夫人の肖像",
+      "title_en": "Marchesa Elena Grimaldi Cattaneo",
+      "year": 1623,
+      "medium": "油彩・カンヴァス",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ジョンとバーナード・スチュアート卿",
+      "title_en": "Lord John Stuart and His Brother Lord Bernard Stuart",
+      "year": 1638,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

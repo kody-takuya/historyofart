@@ -1,0 +1,43 @@
+{
+  "id": "fernand-leger",
+  "name_ja": "フェルナン・レジェ",
+  "name_en": "Fernand Léger",
+  "born": 1881,
+  "died": 1955,
+  "region": "france",
+  "movement": "modern",
+  "wikipedia_ja": "フェルナン・レジェ",
+  "wikipedia_en": "Fernand Léger",
+  "summary": "フランスの画家。キュビスムの影響を受けつつ、機械や都市の形態を円筒状のフォルムで表現する独自の様式を展開した。第一次世界大戦の従軍体験が機械的なイメージへの関心を強めたとされる。映画『バレエ・メカニック』（1924年）の制作にも参加した。のちに労働者や日常の人々を力強い輪郭線と明快な色面で描き、壁画やステンドグラスも手がけた。パリで晩年まで制作を続け、フランス南部ビオには彼の作品を収めた国立美術館が建てられている。",
+  "keywords": [
+    "キュビスム",
+    "機械",
+    "壁画"
+  ],
+  "related": [
+    "pablo-picasso",
+    "georges-braque"
+  ],
+  "works": [
+    {
+      "title_ja": "バレエ・メカニック",
+      "title_en": "Ballet mécanique",
+      "year": 1924,
+      "medium": "映画"
+    },
+    {
+      "title_ja": "三人の女",
+      "title_en": "Three Women",
+      "year": 1921,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "建設者たち",
+      "title_en": "The Builders",
+      "year": 1950,
+      "medium": "油彩・カンヴァス",
+      "collection": "ビオ、フェルナン・レジェ国立美術館"
+    }
+  ]
+}

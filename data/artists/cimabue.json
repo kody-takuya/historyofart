@@ -1,0 +1,44 @@
+{
+  "id": "cimabue",
+  "name_ja": "チマブーエ",
+  "name_en": "Cimabue",
+  "born": 1240,
+  "died": 1302,
+  "born_approx": true,
+  "died_approx": true,
+  "region": "italy",
+  "movement": "medieval",
+  "wikipedia_ja": "チマブーエ",
+  "wikipedia_en": "Cimabue",
+  "summary": "13世紀後半のフィレンツェの画家。ビザンティン様式の伝統を受け継ぎつつ、人物の表情や衣文に立体感を与え、新しい自然主義への道を開いた。ヴァザーリは彼をジョットの師と伝える。アッシジのサン・フランチェスコ聖堂の壁画にも関わったとされるが、経年劣化が著しい。ピサ大聖堂のモザイクにも携わった記録がある。ダンテも『神曲』でその名声がジョットに及ばなくなったことに触れている。その作品は中世からルネサンスへの移行期の様式をよく示している。",
+  "keywords": [
+    "ビザンティン様式",
+    "テンペラ",
+    "ジョットの師"
+  ],
+  "related": [
+    "giotto",
+    "duccio"
+  ],
+  "works": [
+    {
+      "title_ja": "サンタ・トリニタの聖母",
+      "title_en": "Santa Trinita Maestà",
+      "year": 1280,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "聖母子と二天使と聖フランチェスコ",
+      "title_en": "Madonna with Child, Two Angels and St Francis",
+      "medium": "フレスコ",
+      "collection": "アッシジ、サン・フランチェスコ聖堂下堂"
+    },
+    {
+      "title_ja": "サンタ・クローチェの十字架",
+      "title_en": "Crucifix of Santa Croce",
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、サンタ・クローチェ聖堂付属美術館"
+    }
+  ]
+}

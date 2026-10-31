@@ -1,0 +1,51 @@
+{
+  "id": "berthe-morisot",
+  "name_ja": "ベルト・モリゾ",
+  "name_en": "Berthe Morisot",
+  "born": 1841,
+  "died": 1895,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "ベルト・モリゾ",
+  "wikipedia_en": "Berthe Morisot",
+  "summary": "フランスの画家で、女性として印象派展に当初から参加した中心人物の一人。マネの弟ウジェーヌと結婚し、マネのモデルも務めた。軽やかな筆致で家庭の室内や庭、母子の姿を描き、親密な視点が特色である。生涯のほとんどを描き続け、没後に回顧展が開かれた。当時の女性に許された主題の枠内で、家庭生活や身近な人々を鋭く、軽やかに表現した。近年は再評価が進み、各地で大規模な回顧展が開かれている。独自の視点を持つ画家として、いまも高い関心を集めている。",
+  "keywords": [
+    "印象派",
+    "女性画家",
+    "家庭生活"
+  ],
+  "related": [
+    "edouard-manet",
+    "mary-cassatt"
+  ],
+  "works": [
+    {
+      "title_ja": "ゆりかご",
+      "title_en": "The Cradle",
+      "year": 1872,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "蝶々を追う女たち",
+      "title_en": "Chasing Butterflies",
+      "year": 1874,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "化粧する若い女",
+      "title_en": "Young Woman at Her Toilette",
+      "year": 1875
+    },
+    {
+      "title_ja": "夏の日",
+      "title_en": "Summer's Day",
+      "year": 1879,
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "鳥かご",
+      "title_en": "The Cage",
+      "year": 1885
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "camille-pissarro",
+  "name_ja": "カミーユ・ピサロ",
+  "name_en": "Camille Pissarro",
+  "born": 1830,
+  "died": 1903,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "カミーユ・ピサロ",
+  "wikipedia_en": "Camille Pissarro",
+  "summary": "デンマーク領西インド諸島のセント・トーマス島に生まれ、パリで活動した画家。印象派展の八回すべてに出品した唯一の画家で、仲間の若手にとって兄貴分の存在だった。田園風景や農民の暮らしを描き、のちに新印象主義の点描を試みた。晩年はパリやルーアンの都市景観の連作も残している。実験精神にあふれ、若い世代のセザンヌやゴーガンにも助言を与えた。素朴な農村の営みから大都市の喧騒まで、一貫して生活の現場を観察し続けた画家である。",
+  "keywords": [
+    "印象派",
+    "田園風景",
+    "都市景観"
+  ],
+  "related": [
+    "claude-monet",
+    "paul-cezanne",
+    "georges-seurat",
+    "alfred-sisley"
+  ],
+  "works": [
+    {
+      "title_ja": "赤い屋根、村の一隅",
+      "title_en": "The Red Roofs",
+      "year": 1877,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "ルーヴシエンヌの道",
+      "title_en": "Road to Louveciennes",
+      "year": 1872
+    },
+    {
+      "title_ja": "モンマルトル大通り",
+      "title_en": "Boulevard Montmartre",
+      "year": 1897
+    },
+    {
+      "title_ja": "エラニーの収穫",
+      "title_en": "Harvest at Éragny",
+      "year": 1901
+    },
+    {
+      "title_ja": "オペラ座通り",
+      "title_en": "Avenue de l'Opéra",
+      "year": 1898
+    }
+  ]
+}

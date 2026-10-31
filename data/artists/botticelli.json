@@ -1,0 +1,61 @@
+{
+  "id": "botticelli",
+  "name_ja": "サンドロ・ボッティチェッリ",
+  "name_en": "Sandro Botticelli",
+  "born": 1445,
+  "died": 1510,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "サンドロ・ボッティチェッリ",
+  "wikipedia_en": "Sandro Botticelli",
+  "summary": "フィレンツェのメディチ家の庇護を受けた初期ルネサンスの画家。フィリッポ・リッピに学んだ。流麗な線描と優美な人物表現が特徴で、神話や寓意を主題とした作品で名高い。『ヴィーナスの誕生』『春(プリマヴェーラ)』はその代表作。晩年はサヴォナローラの影響で宗教色の強い作品を描いたと伝えられる。死後しばらく忘れられたが、19世紀に再評価された。その作品はウフィツィ美術館の目玉として、世界中から鑑賞者を集めている。",
+  "keywords": [
+    "テンペラ",
+    "神話画",
+    "メディチ家",
+    "線描"
+  ],
+  "related": [
+    "fra-angelico",
+    "leonardo-da-vinci"
+  ],
+  "works": [
+    {
+      "title_ja": "ヴィーナスの誕生",
+      "title_en": "The Birth of Venus",
+      "year": 1485,
+      "medium": "画布にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "春(プリマヴェーラ)",
+      "title_en": "Primavera",
+      "year": 1482,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "東方三博士の礼拝",
+      "title_en": "Adoration of the Magi",
+      "year": 1475,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "マニフィカトの聖母",
+      "title_en": "Madonna of the Magnificat",
+      "year": 1483,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "ヴィーナスとマルス",
+      "title_en": "Venus and Mars",
+      "year": 1485,
+      "medium": "板にテンペラと油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

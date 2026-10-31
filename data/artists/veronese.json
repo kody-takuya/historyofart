@@ -1,0 +1,54 @@
+{
+  "id": "veronese",
+  "name_ja": "パオロ・ヴェロネーゼ",
+  "name_en": "Paolo Veronese",
+  "born": 1528,
+  "died": 1588,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "mannerism",
+  "wikipedia_ja": "パオロ・ヴェロネーゼ",
+  "wikipedia_en": "Paolo Veronese",
+  "summary": "ヴェローナ出身で、ヴェネツィアで活躍した画家。ティツィアーノ、ティントレットと並ぶ16世紀ヴェネツィア派の巨匠。明るく華麗な色彩と、壮麗な建築を背景にした祝祭的な群像表現を特徴とする。『カナの婚礼』や『レヴィ家の饗宴』は有名で、後者は異端審問に召喚された際に題名を変更した。その装飾的で明朗な画風は、後のロココ絵画にも影響を与えたとされる。その作品の華やかさは、ヴェネツィア共和国の繁栄を映し出すものとされる。",
+  "keywords": [
+    "ヴェネツィア派",
+    "色彩",
+    "大画面",
+    "饗宴"
+  ],
+  "related": [
+    "titian",
+    "tintoretto"
+  ],
+  "works": [
+    {
+      "title_ja": "カナの婚礼",
+      "title_en": "The Wedding at Cana",
+      "year": 1563,
+      "medium": "画布に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "レヴィ家の饗宴",
+      "title_en": "Feast in the House of Levi",
+      "year": 1573,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、アカデミア美術館"
+    },
+    {
+      "title_ja": "エウロペの略奪",
+      "title_en": "Rape of Europa",
+      "year": 1580,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、ドゥカーレ宮殿"
+    },
+    {
+      "title_ja": "ヴェネツィアの勝利",
+      "title_en": "Triumph of Venice",
+      "year": 1585,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、ドゥカーレ宮殿"
+    }
+  ]
+}

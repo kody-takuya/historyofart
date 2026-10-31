@@ -1,0 +1,43 @@
+{
+  "id": "frida-kahlo",
+  "name_ja": "フリーダ・カーロ",
+  "name_en": "Frida Kahlo",
+  "born": 1907,
+  "died": 1954,
+  "region": "other",
+  "movement": "modern",
+  "wikipedia_ja": "フリーダ・カーロ",
+  "wikipedia_en": "Frida Kahlo",
+  "summary": "メキシコの画家。少女期のバス事故による重傷と、生涯続いた苦痛が作品の主題に影響した。自画像を多く描き、メキシコの民衆芸術や神話のイメージを取り入れた。画家ディエゴ・リベラと結婚し、アンドレ・ブルトンからシュルレアリストと評されたが、本人は自らの現実を描いたと述べた。メキシコ・シティの「青い家」は記念館となっている。死後に再評価が進み、現在ではメキシコだけでなく世界的に高い人気と影響力を持つ画家と見なされている。",
+  "keywords": [
+    "自画像",
+    "メキシコ",
+    "民衆芸術"
+  ],
+  "related": [
+    "joan-miro"
+  ],
+  "works": [
+    {
+      "title_ja": "二人のフリーダ",
+      "title_en": "The Two Fridas",
+      "year": 1939,
+      "medium": "油彩・カンヴァス",
+      "collection": "メキシコ・シティ、近代美術館"
+    },
+    {
+      "title_ja": "折れた背骨",
+      "title_en": "The Broken Column",
+      "year": 1944,
+      "medium": "油彩・ハードボード",
+      "collection": "メキシコ・シティ、ドローレス・オルメド・コレクション"
+    },
+    {
+      "title_ja": "茨の首飾りをした自画像",
+      "title_en": "Self-Portrait with Thorn Necklace and Hummingbird",
+      "year": 1940,
+      "medium": "油彩・カンヴァス",
+      "collection": "オースティン、テキサス大学"
+    }
+  ]
+}

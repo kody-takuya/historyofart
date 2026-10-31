@@ -1,0 +1,75 @@
+{
+  "id": "chardin",
+  "name_ja": "ジャン・シメオン・シャルダン",
+  "name_en": "Jean-Baptiste-Siméon Chardin",
+  "born": 1699,
+  "died": 1779,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "rococo",
+  "wikipedia_ja": "ジャン・シメオン・シャルダン",
+  "wikipedia_en": "Jean-Baptiste-Siméon Chardin",
+  "summary": "パリに生まれ、生涯をパリで過ごした画家。台所の器具や果物などの静物画と、市民の日常を描いた風俗画で知られる。華やかなロココの主流とは一線を画し、簡素な題材を穏やかな色調と確かな質感で描いた。ディドロから高く評価され、晩年にはパステル画の自画像も残した。晩年は視力の衰えからパステル画に移り、自画像や妻の肖像などを残した。同じ主題を少しずつ変えて繰り返し描く制作態度でも知られる。ディドロはサロン評でその色彩と質感を絶賛した。",
+  "keywords": [
+    "静物画",
+    "風俗画",
+    "日常",
+    "パステル"
+  ],
+  "related": [
+    "fragonard",
+    "boucher"
+  ],
+  "works": [
+    {
+      "title_ja": "赤エイ",
+      "title_en": "The Ray",
+      "year": 1728,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "食前の祈り",
+      "title_en": "Saying Grace",
+      "year": 1740,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "シャボン玉",
+      "title_en": "Soap Bubbles",
+      "year": 1734,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "トランプの家",
+      "title_en": "The House of Cards",
+      "year": 1737,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "若い女教師",
+      "title_en": "The Young Schoolmistress",
+      "year": 1736,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "銅の水桶",
+      "title_en": "The Copper Drinking Fountain",
+      "year": 1735,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "眼鏡をかけた自画像",
+      "title_en": "Self-Portrait with Spectacles",
+      "year": 1771,
+      "medium": "パステル",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

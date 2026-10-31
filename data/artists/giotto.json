@@ -1,0 +1,54 @@
+{
+  "id": "giotto",
+  "name_ja": "ジョット・ディ・ボンドーネ",
+  "name_en": "Giotto di Bondone",
+  "born": 1267,
+  "died": 1337,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "medieval",
+  "wikipedia_ja": "ジョット・ディ・ボンドーネ",
+  "wikipedia_en": "Giotto",
+  "summary": "フィレンツェで活躍した13〜14世紀の画家・建築家。ビザンティン風の平面的な表現から離れ、人物に量感と感情、奥行きのある空間を与えたことで、西洋絵画の新たな道を開き、ルネサンスの先駆者と評価される。パドヴァのスクロヴェーニ礼拝堂のフレスコ連作が代表作で、聖母マリアとキリストの生涯を描く。晩年にはフィレンツェ大聖堂の鐘楼の設計にも関わったと伝えられる。フィレンツェの画壇を代表する存在として、同時代からすでに高い名声を得ていた。",
+  "keywords": [
+    "フレスコ",
+    "ルネサンスの先駆",
+    "スクロヴェーニ礼拝堂"
+  ],
+  "related": [
+    "cimabue",
+    "duccio",
+    "masaccio"
+  ],
+  "works": [
+    {
+      "title_ja": "スクロヴェーニ礼拝堂壁画",
+      "title_en": "Scrovegni Chapel frescoes",
+      "year": 1305,
+      "medium": "フレスコ",
+      "collection": "パドヴァ、スクロヴェーニ礼拝堂"
+    },
+    {
+      "title_ja": "オンニサンティの聖母",
+      "title_en": "Ognissanti Madonna",
+      "year": 1310,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "ユダの接吻",
+      "title_en": "Kiss of Judas",
+      "year": 1305,
+      "medium": "フレスコ",
+      "collection": "パドヴァ、スクロヴェーニ礼拝堂"
+    },
+    {
+      "title_ja": "キリストの哀悼",
+      "title_en": "Lamentation",
+      "year": 1305,
+      "medium": "フレスコ",
+      "collection": "パドヴァ、スクロヴェーニ礼拝堂"
+    }
+  ]
+}

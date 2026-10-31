@@ -1,0 +1,47 @@
+{
+  "id": "hans-memling",
+  "name_ja": "ハンス・メムリンク",
+  "name_en": "Hans Memling",
+  "born": 1430,
+  "died": 1494,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "early-netherlandish",
+  "wikipedia_ja": "ハンス・メムリンク",
+  "wikipedia_en": "Hans Memling",
+  "summary": "15世紀後半にブルッヘで活躍した初期ネーデルラントの画家。ドイツ出身で、ブリュッセルでロヒール・ファン・デル・ウェイデンに学んだとされる。穏やかで繊細な表現と明るい色彩を特徴とし、宗教画や肖像画で人気を博した。ブルッヘの聖ヨハネ施療院に所蔵される作品群が有名で、国際商人たちからも肖像画の注文を多く受け、イタリアにも作品が渡った。作品は静かな気品に満ち、ネーデルラント絵画の穏健な側面を代表するものとされる。",
+  "keywords": [
+    "油彩",
+    "宗教画",
+    "肖像画",
+    "ブルッヘ"
+  ],
+  "related": [
+    "rogier-van-der-weyden",
+    "jan-van-eyck"
+  ],
+  "works": [
+    {
+      "title_ja": "聖ウルスラの聖遺物箱",
+      "title_en": "Shrine of Saint Ursula",
+      "year": 1489,
+      "medium": "板に油彩",
+      "collection": "ブルッヘ、メムリンク美術館"
+    },
+    {
+      "title_ja": "最後の審判",
+      "title_en": "Last Judgment Triptych",
+      "year": 1470,
+      "medium": "板に油彩",
+      "collection": "グダンスク国立美術館"
+    },
+    {
+      "title_ja": "聖カタリナの神秘の結婚",
+      "title_en": "Mystic Marriage of St Catherine",
+      "year": 1479,
+      "medium": "板に油彩",
+      "collection": "ブルッヘ、メムリンク美術館"
+    }
+  ]
+}

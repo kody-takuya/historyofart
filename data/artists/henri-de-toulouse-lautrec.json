@@ -1,0 +1,49 @@
+{
+  "id": "henri-de-toulouse-lautrec",
+  "name_ja": "アンリ・ド・トゥルーズ＝ロートレック",
+  "name_en": "Henri de Toulouse-Lautrec",
+  "born": 1864,
+  "died": 1901,
+  "region": "france",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "アンリ・ド・トゥルーズ＝ロートレック",
+  "wikipedia_en": "Henri de Toulouse-Lautrec",
+  "summary": "南仏アルビの貴族の家に生まれ、少年期の骨折の後遺症で成長が止まった。パリのモンマルトルに住み、キャバレーや劇場、娼館の人々を鋭い観察眼で描いた。浮世絵の影響を受けた大胆な構図と、石版画によるポスターで広告芸術の先駆けとなった。36歳で没した。多くの石版画や挿絵も制作し、近代ポスターの形成に大きく貢献した。夜の街で暮らす人々を、批評的であると同時に温かな眼差しで描いたとされる。アルコール依存などで体調を崩し、短い生涯を終えたが、その業績は今日も輝いている。",
+  "keywords": [
+    "ポスター",
+    "モンマルトル",
+    "石版画"
+  ],
+  "related": [
+    "edgar-degas",
+    "vincent-van-gogh"
+  ],
+  "works": [
+    {
+      "title_ja": "ムーラン・ルージュのラ・グーリュ",
+      "title_en": "Moulin Rouge: La Goulue",
+      "year": 1891
+    },
+    {
+      "title_ja": "ムーラン・ルージュにて",
+      "title_en": "At the Moulin Rouge",
+      "year": 1895,
+      "collection": "シカゴ美術館"
+    },
+    {
+      "title_ja": "ディヴァン・ジャポネ",
+      "title_en": "Divan Japonais",
+      "year": 1893
+    },
+    {
+      "title_ja": "ジャンヌ・アヴリル",
+      "title_en": "Jane Avril",
+      "year": 1893
+    },
+    {
+      "title_ja": "サロンにて",
+      "title_en": "In the Salon",
+      "year": 1894
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "zurbaran",
+  "name_ja": "フランシスコ・デ・スルバラン",
+  "name_en": "Francisco de Zurbarán",
+  "born": 1598,
+  "died": 1664,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "spain",
+  "movement": "baroque",
+  "wikipedia_ja": "フランシスコ・デ・スルバラン",
+  "wikipedia_en": "Francisco de Zurbarán",
+  "summary": "エストレマドゥーラ出身で、主にセビーリャで活動したスペイン・バロックの画家。強い明暗対比と簡素な構図で修道士や聖人を力強く描き、修道院向けの連作を数多く手がけた。静物画にも優れ、レモンやオレンジを描いた作品は静謐な美しさで知られる。晩年はマドリードに移り、1664年に没した。ベラスケスに呼ばれてマドリードの宮廷事業にも参加したが、その後はセビーリャの修道会向けの仕事が中心だった。中南米向けにも多くの作品が輸出された。",
+  "keywords": [
+    "修道士",
+    "静物画",
+    "明暗法",
+    "セビーリャ"
+  ],
+  "related": [
+    "velazquez",
+    "murillo",
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "聖セラピオン",
+      "title_en": "Saint Serapion",
+      "year": 1628,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハートフォード、ワズワース・アセニウム美術館"
+    },
+    {
+      "title_ja": "レモン、オレンジとコップ一杯の水",
+      "title_en": "Still Life with Lemons, Oranges and a Rose",
+      "year": 1633,
+      "medium": "油彩・カンヴァス",
+      "collection": "パサデナ、ノートン・サイモン美術館"
+    },
+    {
+      "title_ja": "神の子羊",
+      "title_en": "Agnus Dei",
+      "year": 1640,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "瞑想する聖フランチェスコ",
+      "title_en": "Saint Francis in Meditation",
+      "year": 1635,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "カディス防衛",
+      "title_en": "The Defence of Cadiz against the English",
+      "year": 1634,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "磔刑のキリスト",
+      "title_en": "Christ on the Cross",
+      "year": 1627,
+      "medium": "油彩・カンヴァス",
+      "collection": "シカゴ美術館"
+    }
+  ]
+}

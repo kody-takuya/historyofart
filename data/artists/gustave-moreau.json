@@ -1,0 +1,51 @@
+{
+  "id": "gustave-moreau",
+  "name_ja": "ギュスターヴ・モロー",
+  "name_en": "Gustave Moreau",
+  "born": 1826,
+  "died": 1898,
+  "region": "france",
+  "movement": "symbolism",
+  "wikipedia_ja": "ギュスターヴ・モロー",
+  "wikipedia_en": "Gustave Moreau",
+  "summary": "パリの建築家の家に生まれた象徴主義の画家。聖書や神話を主題に、宝石を散りばめたような装飾的で幻想的な画面を作り上げた。サロメやオルフェウスなど、運命的な女性像を好んだ。美術学校の教授としてマティスやルオーらを育て、旧居は没後に美術館となった。自邸を美術館にすることを望み、多数の油彩画や素描が残された。神秘的な色彩と細部の装飾は、象徴主義や世紀末美術に深い影響を与えた。想像力に満ちた画面は、いまも多くの観客を惹きつけている。",
+  "keywords": [
+    "象徴主義",
+    "神話",
+    "サロメ"
+  ],
+  "related": [
+    "odilon-redon",
+    "pierre-puvis-de-chavannes"
+  ],
+  "works": [
+    {
+      "title_ja": "出現",
+      "title_en": "The Apparition",
+      "year": 1876,
+      "collection": "パリ、ギュスターヴ・モロー美術館"
+    },
+    {
+      "title_ja": "オルフェウス",
+      "title_en": "Orpheus",
+      "year": 1865,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "ユピテルとセメレ",
+      "title_en": "Jupiter and Semele",
+      "year": 1895,
+      "collection": "パリ、ギュスターヴ・モロー美術館"
+    },
+    {
+      "title_ja": "オイディプスとスフィンクス",
+      "title_en": "Oedipus and the Sphinx",
+      "year": 1864
+    },
+    {
+      "title_ja": "ガラテア",
+      "title_en": "Galatea",
+      "year": 1880
+    }
+  ]
+}

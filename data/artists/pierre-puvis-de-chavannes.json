@@ -1,0 +1,50 @@
+{
+  "id": "pierre-puvis-de-chavannes",
+  "name_ja": "ピュヴィス・ド・シャヴァンヌ",
+  "name_en": "Pierre Puvis de Chavannes",
+  "born": 1824,
+  "died": 1898,
+  "region": "france",
+  "movement": "symbolism",
+  "wikipedia_ja": "ピエール・ピュヴィス・ド・シャヴァンヌ",
+  "wikipedia_en": "Pierre Puvis de Chavannes",
+  "summary": "リヨン出身の壁画家。簡潔な輪郭、淡く抑えた色調、静かな寓意的人物表現で、リヨンやパリ、パンテオンなどの公共建築を飾った。アカデミズムと近代絵画の双方に影響を持ち、ゴーガンやスーラ、象徴主義の画家たちに敬われた。壁画では画面全体の調和を重んじ、遠近や陰影を抑えた簡潔な表現を用いた。静かで瞑想的な画面は、世紀末の多くの画家に影響を及ぼしたとされる。その穏やかな壁画は、パリやリヨンの公共空間で今も見ることができる。",
+  "keywords": [
+    "壁画",
+    "象徴主義",
+    "パンテオン"
+  ],
+  "related": [
+    "gustave-moreau",
+    "georges-seurat",
+    "paul-gauguin"
+  ],
+  "works": [
+    {
+      "title_ja": "貧しき漁夫",
+      "title_en": "The Poor Fisherman",
+      "year": 1881,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "聖なる森",
+      "title_en": "The Sacred Grove",
+      "year": 1884
+    },
+    {
+      "title_ja": "夏",
+      "title_en": "Summer",
+      "year": 1873
+    },
+    {
+      "title_ja": "聖ジュヌヴィエーヴの生涯",
+      "title_en": "Life of Saint Genevieve",
+      "collection": "パリ、パンテオン"
+    },
+    {
+      "title_ja": "希望",
+      "title_en": "Hope",
+      "year": 1872
+    }
+  ]
+}

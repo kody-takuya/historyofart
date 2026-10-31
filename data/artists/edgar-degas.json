@@ -1,0 +1,53 @@
+{
+  "id": "edgar-degas",
+  "name_ja": "エドガー・ドガ",
+  "name_en": "Edgar Degas",
+  "born": 1834,
+  "died": 1917,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "エドガー・ドガ",
+  "wikipedia_en": "Edgar Degas",
+  "summary": "パリの裕福な銀行家の家に生まれ、アングルの影響下で素描を重んじた画家。印象派展に参加したが戸外制作よりも室内を好み、踊り子、競馬、浴女など都市の動きを大胆な構図で描いた。パステルや彫刻にも優れ、晩年は視力の衰えのなか蝋の彫像を制作した。自らは印象派と呼ばれることを好まなかったともいわれる。写真や浮世絵に通じる大胆な切り取りは、近代的な視覚の探求として評価されている。その厳密な素描の力は、同時代の画家のなかでも際立っていた。",
+  "keywords": [
+    "踊り子",
+    "パステル",
+    "印象派"
+  ],
+  "related": [
+    "edouard-manet",
+    "mary-cassatt",
+    "henri-de-toulouse-lautrec"
+  ],
+  "works": [
+    {
+      "title_ja": "エトワール",
+      "title_en": "L'Étoile",
+      "year": 1878,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "舞台の踊り子",
+      "title_en": "Dancer on Stage",
+      "year": 1878
+    },
+    {
+      "title_ja": "ダンス教室",
+      "title_en": "The Dance Class",
+      "year": 1874,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "アブサント",
+      "title_en": "L'Absinthe",
+      "year": 1876,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "十四歳の小さな踊り子",
+      "title_en": "Little Dancer Aged Fourteen",
+      "year": 1881,
+      "collection": "ワシントン、ナショナル・ギャラリー他（ブロンズ鋳造）"
+    }
+  ]
+}

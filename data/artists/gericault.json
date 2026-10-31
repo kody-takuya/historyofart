@@ -1,0 +1,61 @@
+{
+  "id": "gericault",
+  "name_ja": "テオドール・ジェリコー",
+  "name_en": "Théodore Géricault",
+  "born": 1791,
+  "died": 1824,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "romanticism",
+  "wikipedia_ja": "テオドール・ジェリコー",
+  "wikipedia_en": "Théodore Géricault",
+  "summary": "ルーアン出身のフランス・ロマン主義の先駆的画家。馬や軍人の躍動的な描写で出発し、イタリア留学を経て、実際の海難事故を題材とした大作『メデューズ号の筏』で一躍有名となった。精神病患者の肖像連作など、人間の内面への関心も示した。落馬事故の後遺症により32歳で亡くなった。ゲランに学び、ルーヴルで古典を模写した。英国滞在中には競馬の主題などに取り組み、リトグラフにも優れた作品を残した。若くして亡くなったが、ドラクロワらに強い影響を与えた。",
+  "keywords": [
+    "ロマン主義",
+    "メデューズ号の筏",
+    "馬",
+    "肖像画"
+  ],
+  "related": [
+    "delacroix",
+    "jacques-louis-david"
+  ],
+  "works": [
+    {
+      "title_ja": "メデューズ号の筏",
+      "title_en": "The Raft of the Medusa",
+      "year": 1819,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "突撃する近衛猟騎兵士官",
+      "title_en": "The Charging Chasseur",
+      "year": 1812,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "エプソムの競馬",
+      "title_en": "Derby at Epsom",
+      "year": 1821,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "負傷した胸甲騎兵士官",
+      "title_en": "The Wounded Cuirassier",
+      "year": 1814,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "強迫的嫉妬にとりつかれた女",
+      "title_en": "Portrait of a Woman Suffering from Obsessive Envy",
+      "year": 1820,
+      "medium": "油彩・カンヴァス",
+      "collection": "リヨン美術館"
+    }
+  ]
+}

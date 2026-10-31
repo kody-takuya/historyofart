@@ -1,0 +1,50 @@
+{
+  "id": "john-everett-millais",
+  "name_ja": "ジョン・エヴァレット・ミレイ",
+  "name_en": "John Everett Millais",
+  "born": 1829,
+  "died": 1896,
+  "region": "britain",
+  "movement": "symbolism",
+  "wikipedia_ja": "ジョン・エヴァレット・ミレイ",
+  "wikipedia_en": "John Everett Millais",
+  "summary": "ジャージー島出身で、11歳で王立美術院に入学した神童。ラファエル前派兄弟団の創設に加わり、自然を細密に観察した作品を描いた。のちに肖像画や物語画で人気を得て、英国画壇の重鎮となり、王立美術院長に就任した。『オフィーリア』は代表作として名高い。初期の厳密な写実から、のちに情感豊かな肖像や子どもの絵へ移行した。『ボブルズ（しゃぼん玉）』は広告にも使われ、広く知られた。生涯にわたり、英国美術界で絶大な人気を誇った。",
+  "keywords": [
+    "ラファエル前派",
+    "オフィーリア",
+    "王立美術院"
+  ],
+  "related": [
+    "dante-gabriel-rossetti",
+    "edward-burne-jones"
+  ],
+  "works": [
+    {
+      "title_ja": "両親の家のキリスト",
+      "title_en": "Christ in the House of His Parents",
+      "year": 1850,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "オフィーリア",
+      "title_en": "Ophelia",
+      "year": 1852,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "盲目の少女",
+      "title_en": "The Blind Girl",
+      "year": 1856
+    },
+    {
+      "title_ja": "聖バルテルミの祝日のユグノー",
+      "title_en": "A Huguenot, on St. Bartholomew's Day",
+      "year": 1852
+    },
+    {
+      "title_ja": "イザベラ",
+      "title_en": "Isabella",
+      "year": 1849
+    }
+  ]
+}

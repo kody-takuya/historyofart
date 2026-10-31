@@ -1,0 +1,68 @@
+{
+  "id": "vermeer",
+  "name_ja": "ヨハネス・フェルメール",
+  "name_en": "Johannes Vermeer",
+  "born": 1632,
+  "died": 1675,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "baroque",
+  "wikipedia_ja": "ヨハネス・フェルメール",
+  "wikipedia_en": "Johannes Vermeer",
+  "summary": "オランダのデルフトで活動した画家。窓から差し込む柔らかな光と、静謐な室内で営まれる日常の情景を精緻に描いた。現存が確実とされる作品は30数点と極めて少なく、寡作であった。高価なウルトラマリンの青を効果的に用いたことでも知られる。生前の評価は限定的で、19世紀に再評価が進み、今日では世界的に人気が高い。デルフトで画家組合に加わり、画商の仕事も営んだ。43歳で没し、遺族は多額の負債を抱えた。作品は主に地元の少数の収集家のために描かれたと考えられている。",
+  "keywords": [
+    "風俗画",
+    "光",
+    "デルフト",
+    "寡作"
+  ],
+  "related": [
+    "rembrandt",
+    "frans-hals"
+  ],
+  "works": [
+    {
+      "title_ja": "真珠の耳飾りの少女",
+      "title_en": "Girl with a Pearl Earring",
+      "year": 1665,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハーグ、マウリッツハイス美術館"
+    },
+    {
+      "title_ja": "牛乳を注ぐ女",
+      "title_en": "The Milkmaid",
+      "year": 1658,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    },
+    {
+      "title_ja": "デルフトの眺望",
+      "title_en": "View of Delft",
+      "year": 1660,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハーグ、マウリッツハイス美術館"
+    },
+    {
+      "title_ja": "絵画芸術",
+      "title_en": "The Art of Painting",
+      "year": 1668,
+      "medium": "油彩・カンヴァス",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "手紙を読む青衣の女",
+      "title_en": "Woman in Blue Reading a Letter",
+      "year": 1663,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    },
+    {
+      "title_ja": "天文学者",
+      "title_en": "The Astronomer",
+      "year": 1668,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

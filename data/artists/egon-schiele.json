@@ -1,0 +1,50 @@
+{
+  "id": "egon-schiele",
+  "name_ja": "エゴン・シーレ",
+  "name_en": "Egon Schiele",
+  "born": 1890,
+  "died": 1918,
+  "region": "other",
+  "movement": "modern",
+  "wikipedia_ja": "エゴン・シーレ",
+  "wikipedia_en": "Egon Schiele",
+  "summary": "オーストリアの画家。若くしてクリムトに見出され、ウィーン分離派の影響を受けた。鋭く歪んだ線と緊張感ある人物表現で、自画像や裸体を描いた。表現主義の代表的作家の一人である。1918年、スペイン風邪により28歳で没した。短い生涯にもかかわらず多数の油彩と素描を残し、ウィーン分離派以後のオーストリア美術を代表する存在となった。ウィーン近郊のトゥルンに生まれ、16歳でウィーン美術アカデミーに入学したが、その保守的な教育に不満を抱いた。",
+  "keywords": [
+    "表現主義",
+    "自画像",
+    "ウィーン"
+  ],
+  "related": [],
+  "works": [
+    {
+      "title_ja": "ホオズキのある自画像",
+      "title_en": "Self-Portrait with Physalis",
+      "year": 1912,
+      "collection": "ウィーン、レオポルド美術館"
+    },
+    {
+      "title_ja": "死と乙女",
+      "title_en": "Death and the Maiden",
+      "year": 1915,
+      "collection": "ウィーン、ベルヴェデーレ宮殿"
+    },
+    {
+      "title_ja": "抱擁",
+      "title_en": "The Embrace",
+      "year": 1917,
+      "collection": "ウィーン、ベルヴェデーレ宮殿"
+    },
+    {
+      "title_ja": "家族",
+      "title_en": "The Family",
+      "year": 1918,
+      "collection": "ウィーン、ベルヴェデーレ宮殿"
+    },
+    {
+      "title_ja": "エディット・シーレの肖像",
+      "title_en": "Portrait of Edith Schiele",
+      "year": 1918,
+      "collection": "ウィーン、ベルヴェデーレ宮殿"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "tintoretto",
+  "name_ja": "ティントレット",
+  "name_en": "Tintoretto",
+  "born": 1518,
+  "died": 1594,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "mannerism",
+  "wikipedia_ja": "ティントレット",
+  "wikipedia_en": "Tintoretto",
+  "summary": "ヴェネツィア派後期の画家。本名ヤコポ・ロブスティ。劇的な構図、強い明暗対比、躍動感のある人物表現を特徴とする。『ミケランジェロのデッサンとティツィアーノの色彩』を目指したと伝えられる。ヴェネツィアのスクオーラ・グランデ・ディ・サン・ロッコには大連作を描いた。大画面の宗教画を多数残し、その動的な構成はマニエリスムやバロックの先駆と見なされる。その壮大な構想と素早い筆さばきは、同時代の画家たちの間でも際立っていた。",
+  "keywords": [
+    "ヴェネツィア派",
+    "マニエリスム",
+    "明暗対比",
+    "スクオーラ"
+  ],
+  "related": [
+    "titian",
+    "veronese",
+    "el-greco"
+  ],
+  "works": [
+    {
+      "title_ja": "最後の晩餐",
+      "title_en": "Last Supper",
+      "year": 1594,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、サン・ジョルジョ・マッジョーレ聖堂"
+    },
+    {
+      "title_ja": "奴隷の奇跡",
+      "title_en": "Miracle of the Slave",
+      "year": 1548,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、アカデミア美術館"
+    },
+    {
+      "title_ja": "天国",
+      "title_en": "Paradise",
+      "year": 1588,
+      "medium": "画布に油彩",
+      "collection": "ヴェネツィア、ドゥカーレ宮殿"
+    },
+    {
+      "title_ja": "スザンナと長老たち",
+      "title_en": "Susanna and the Elders",
+      "year": 1555,
+      "medium": "画布に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "天の川の起源",
+      "title_en": "Origin of the Milky Way",
+      "year": 1575,
+      "medium": "画布に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "gustave-caillebotte",
+  "name_ja": "ギュスターヴ・カイユボット",
+  "name_en": "Gustave Caillebotte",
+  "born": 1848,
+  "died": 1894,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "ギュスターヴ・カイユボット",
+  "wikipedia_en": "Gustave Caillebotte",
+  "summary": "パリの裕福な家に生まれた画家で、印象派展に参加するとともに仲間の作品を購入して支援した収集家でもある。遠近感を強調した大胆な構図で、都市の街路や橋、労働者の姿を描いた。没後、遺贈された収集品は国家に寄贈され、印象派の公的な評価に大きく寄与した。ヨットの設計や帆走を愛したことでも知られる。近代都市パリの新しい景観を、写真的ともいえる視点で描いた画家として近年あらためて注目されている。生前は収集家としての側面が先に知られたが、今日では画家としても高く評価される。",
+  "keywords": [
+    "印象派",
+    "パリ",
+    "パトロン"
+  ],
+  "related": [
+    "claude-monet",
+    "edgar-degas",
+    "pierre-auguste-renoir"
+  ],
+  "works": [
+    {
+      "title_ja": "パリの通り、雨の日",
+      "title_en": "Paris Street; Rainy Day",
+      "year": 1877,
+      "collection": "シカゴ美術館"
+    },
+    {
+      "title_ja": "ヨーロッパ橋",
+      "title_en": "Le Pont de l'Europe",
+      "year": 1876
+    },
+    {
+      "title_ja": "床削り",
+      "title_en": "The Floor Scrapers",
+      "year": 1875,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "ボート漕ぎ",
+      "title_en": "Oarsmen",
+      "year": 1877
+    },
+    {
+      "title_ja": "窓辺の若い男",
+      "title_en": "Young Man at His Window",
+      "year": 1875
+    }
+  ]
+}

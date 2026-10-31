@@ -1,0 +1,50 @@
+{
+  "id": "james-mcneill-whistler",
+  "name_ja": "ジェームズ・マクニール・ホイッスラー",
+  "name_en": "James McNeill Whistler",
+  "born": 1834,
+  "died": 1903,
+  "region": "north-america",
+  "movement": "symbolism",
+  "wikipedia_ja": "ジェームズ・マクニール・ホイッスラー",
+  "wikipedia_en": "James McNeill Whistler",
+  "summary": "アメリカ生まれでパリとロンドンで活動した画家。日本美術に傾倒し、絵画を音楽のように「調和」や「ノクターン」と題して色と形の構成を重んじた。批評家ラスキンとの名誉毀損裁判でも知られる。母を描いた肖像画は広く親しまれている。1877年にラスキンを批評をめぐって訴えた裁判では勝訴したが、賠償額は低く、のちに経済的に困窮した。版画や室内装飾でも先駆的な活動を残した。芸術のための芸術を唱える唯美主義の代表的な存在でもあった。",
+  "keywords": [
+    "唯美主義",
+    "ノクターン",
+    "ジャポニスム"
+  ],
+  "related": [
+    "john-singer-sargent",
+    "edouard-manet"
+  ],
+  "works": [
+    {
+      "title_ja": "白のシンフォニー第1番",
+      "title_en": "Symphony in White, No. 1",
+      "year": 1862,
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "灰色と黒のアレンジメント第1番（画家の母）",
+      "title_en": "Arrangement in Grey and Black No. 1",
+      "year": 1871,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "黒と金のノクターン　落下する花火",
+      "title_en": "Nocturne in Black and Gold: The Falling Rocket",
+      "year": 1875
+    },
+    {
+      "title_ja": "青と銀のノクターン",
+      "title_en": "Nocturne: Blue and Silver",
+      "year": 1872
+    },
+    {
+      "title_ja": "孔雀の間",
+      "title_en": "The Peacock Room",
+      "year": 1877
+    }
+  ]
+}

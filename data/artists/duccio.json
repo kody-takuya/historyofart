@@ -1,0 +1,47 @@
+{
+  "id": "duccio",
+  "name_ja": "ドゥッチョ・ディ・ブオニンセーニャ",
+  "name_en": "Duccio di Buoninsegna",
+  "born": 1255,
+  "died": 1319,
+  "born_approx": true,
+  "died_approx": true,
+  "region": "italy",
+  "movement": "medieval",
+  "wikipedia_ja": "ドゥッチョ・ディ・ブオニンセーニャ",
+  "wikipedia_en": "Duccio",
+  "summary": "シエナ派の創始者とされる13〜14世紀の画家。ビザンティン様式の優雅な線と色彩に、人物の心理や空間表現を取り入れた。代表作はシエナ大聖堂の主祭壇画『マエスタ』で、聖母子を中心にキリストの受難などを多数の場面で描き出した。完成時には市民が行列をして大聖堂へ運んだと伝えられる。後のシエナ派の画家たちに大きな影響を与え、ジョットと並ぶ14世紀絵画の先駆者とされる。その作品は優美な曲線と豊かな色彩で、同時代の人々から高く評価された。",
+  "keywords": [
+    "シエナ派",
+    "祭壇画",
+    "テンペラ",
+    "ゴシック"
+  ],
+  "related": [
+    "giotto",
+    "cimabue"
+  ],
+  "works": [
+    {
+      "title_ja": "マエスタ",
+      "title_en": "Maestà",
+      "year": 1311,
+      "medium": "板にテンペラ",
+      "collection": "シエナ、大聖堂付属美術館"
+    },
+    {
+      "title_ja": "ルチェッライの聖母",
+      "title_en": "Rucellai Madonna",
+      "year": 1285,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "クレヴォーレの聖母",
+      "title_en": "Crevole Madonna",
+      "year": 1283,
+      "medium": "板にテンペラ",
+      "collection": "シエナ、大聖堂付属美術館"
+    }
+  ]
+}

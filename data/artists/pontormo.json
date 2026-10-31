@@ -1,0 +1,54 @@
+{
+  "id": "pontormo",
+  "name_ja": "ポントルモ",
+  "name_en": "Pontormo",
+  "born": 1494,
+  "died": 1557,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "mannerism",
+  "wikipedia_ja": "ポントルモ",
+  "wikipedia_en": "Pontormo",
+  "summary": "マニエリスムの初期を代表するフィレンツェの画家。アンドレア・デル・サルトに学んだ。盛期ルネサンスの古典的な調和から離れ、引き伸ばされた人体や非現実的な色彩、不安定な構図で感情を強調した。『十字架降下』は代表作。弟子のブロンズィーノとともにメディチ家に仕えた。晩年のサン・ロレンツォ聖堂の壁画は失われたが、その神経質で独創的な様式は後世に再評価された。日記を残したことでも知られ、内向的で独創的な人物像がうかがえる。",
+  "keywords": [
+    "マニエリスム",
+    "フィレンツェ",
+    "宗教画",
+    "メディチ家"
+  ],
+  "related": [
+    "bronzino",
+    "parmigianino"
+  ],
+  "works": [
+    {
+      "title_ja": "十字架降下",
+      "title_en": "Deposition from the Cross",
+      "year": 1528,
+      "medium": "板に油彩",
+      "collection": "フィレンツェ、サンタ・フェリチタ聖堂"
+    },
+    {
+      "title_ja": "エジプトのヨセフ",
+      "title_en": "Joseph in Egypt",
+      "year": 1518,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "聖母のエリサベト訪問",
+      "title_en": "Visitation",
+      "year": 1529,
+      "medium": "板に油彩",
+      "collection": "カルミニャーノ、サン・ミケーレ聖堂"
+    },
+    {
+      "title_ja": "コジモ・イル・ヴェッキオの肖像",
+      "title_en": "Portrait of Cosimo il Vecchio",
+      "year": 1519,
+      "medium": "板に油彩",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    }
+  ]
+}

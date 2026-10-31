@@ -1,0 +1,50 @@
+{
+  "id": "edward-burne-jones",
+  "name_ja": "エドワード・バーン＝ジョーンズ",
+  "name_en": "Edward Burne-Jones",
+  "born": 1833,
+  "died": 1898,
+  "region": "britain",
+  "movement": "symbolism",
+  "wikipedia_ja": "エドワード・バーン＝ジョーンズ",
+  "wikipedia_en": "Edward Burne-Jones",
+  "summary": "バーミンガム出身の画家。ロセッティに影響を受け、ウィリアム・モリスと親交を結んで装飾美術運動にも関わった。中世伝説や神話を主題に、細身の人物と夢幻的な雰囲気を持つ作品を描いた。ステンドグラスやタペストリーの下絵も多く、象徴主義にも影響を及ぼした。ラファエル前派の第二世代にあたり、ウィリアム・モリス商会のためにも多くの原画を提供した。細密で優美な表現は、ヨーロッパの象徴主義にも影響した。夢のような中世世界の表現は、世紀末の英国で絶大な支持を得た。",
+  "keywords": [
+    "ラファエル前派",
+    "アーツ・アンド・クラフツ",
+    "ステンドグラス"
+  ],
+  "related": [
+    "dante-gabriel-rossetti",
+    "john-everett-millais"
+  ],
+  "works": [
+    {
+      "title_ja": "ピグマリオン連作",
+      "title_en": "Pygmalion and the Image series",
+      "year": 1878
+    },
+    {
+      "title_ja": "黄金の階段",
+      "title_en": "The Golden Stairs",
+      "year": 1880,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "コフェチュア王と乞食娘",
+      "title_en": "King Cophetua and the Beggar Maid",
+      "year": 1884,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "ブライアー・ローズ連作",
+      "title_en": "The Briar Rose",
+      "year": 1890
+    },
+    {
+      "title_ja": "マーリンの惑わし",
+      "title_en": "The Beguiling of Merlin",
+      "year": 1874
+    }
+  ]
+}

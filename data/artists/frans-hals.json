@@ -1,0 +1,68 @@
+{
+  "id": "frans-hals",
+  "name_ja": "フランス・ハルス",
+  "name_en": "Frans Hals",
+  "born": 1582,
+  "died": 1666,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "baroque",
+  "wikipedia_ja": "フランス・ハルス",
+  "wikipedia_en": "Frans Hals",
+  "summary": "ハールレムで活動したオランダ黄金時代の肖像画家。軽快で大胆な筆致により、笑顔や身振りなど人物の生き生きした瞬間を捉えたことで知られる。市民隊（射手組合）の集団肖像画を数多く手がけたほか、一般市民の半身像も制作した。作品の自由な筆づかいは、後の印象派の画家たちにも高く評価された。非常に多作で、同時代の社会の様々な階層の人々を描いた。晩年は貧困に陥ったとも伝えられる。晩年の作品は黒を基調とした抑えた色調で、深い心理描写を示す。",
+  "keywords": [
+    "肖像画",
+    "集団肖像",
+    "ハールレム",
+    "筆触"
+  ],
+  "related": [
+    "rembrandt",
+    "vermeer"
+  ],
+  "works": [
+    {
+      "title_ja": "笑う騎士",
+      "title_en": "The Laughing Cavalier",
+      "year": 1624,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ウォレス・コレクション"
+    },
+    {
+      "title_ja": "聖ゲオルギウス市民隊の士官たちの宴会",
+      "title_en": "Banquet of the Officers of the St George Militia Company",
+      "year": 1616,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハールレム、フランス・ハルス美術館"
+    },
+    {
+      "title_ja": "ジプシーの女",
+      "title_en": "Gypsy Girl",
+      "year": 1628,
+      "medium": "油彩・板",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ハールレムの養老院の理事たち",
+      "title_en": "Regentesses of the Old Men's Almshouse",
+      "year": 1664,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハールレム、フランス・ハルス美術館"
+    },
+    {
+      "title_ja": "マレ・バッベ",
+      "title_en": "Malle Babbe",
+      "year": 1633,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン絵画館"
+    },
+    {
+      "title_ja": "陽気な酒飲み",
+      "title_en": "The Merry Drinker",
+      "year": 1628,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    }
+  ]
+}

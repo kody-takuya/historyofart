@@ -1,0 +1,49 @@
+{
+  "id": "gustav-klimt",
+  "name_ja": "グスタフ・クリムト",
+  "name_en": "Gustav Klimt",
+  "born": 1862,
+  "died": 1918,
+  "region": "other",
+  "movement": "symbolism",
+  "wikipedia_ja": "グスタフ・クリムト",
+  "wikipedia_en": "Gustav Klimt",
+  "summary": "ウィーン近郊に生まれたオーストリアの画家。1897年にウィーン分離派を結成して初代会長を務めた。金箔を用いた装飾的な画面と官能的な女性像で知られ、象徴主義やアール・ヌーヴォーと結び付けられる。ウィーン大学の天井画は物議を醸した。金細工師の家に生まれ、建築装飾の仕事から画業を始めた。『接吻』は黄金時代の代表作とされ、風景画や寓意画にも独自の装飾的表現を展開した。1918年に脳卒中を患い、同年に56歳で没した。",
+  "keywords": [
+    "ウィーン分離派",
+    "金箔",
+    "装飾"
+  ],
+  "related": [
+    "egon-schiele",
+    "edvard-munch"
+  ],
+  "works": [
+    {
+      "title_ja": "ユディトI",
+      "title_en": "Judith I",
+      "year": 1901
+    },
+    {
+      "title_ja": "接吻",
+      "title_en": "The Kiss",
+      "year": 1908,
+      "collection": "ウィーン、ベルヴェデーレ宮殿"
+    },
+    {
+      "title_ja": "アデーレ・ブロッホ＝バウアーの肖像",
+      "title_en": "Portrait of Adele Bloch-Bauer I",
+      "year": 1907
+    },
+    {
+      "title_ja": "ダナエ",
+      "title_en": "Danaë",
+      "year": 1907
+    },
+    {
+      "title_ja": "生命の樹",
+      "title_en": "The Tree of Life",
+      "year": 1909
+    }
+  ]
+}

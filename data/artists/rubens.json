@@ -1,0 +1,69 @@
+{
+  "id": "rubens",
+  "name_ja": "ピーテル・パウル・ルーベンス",
+  "name_en": "Peter Paul Rubens",
+  "born": 1577,
+  "died": 1640,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "baroque",
+  "wikipedia_ja": "ピーテル・パウル・ルーベンス",
+  "wikipedia_en": "Peter Paul Rubens",
+  "summary": "南ネーデルラント（フランドル）のバロックを代表する画家。アントワープに工房を構え、宗教画、神話画、肖像画、風景画と多岐にわたる作品を弟子たちと量産した。イタリアで学んだ古典と色彩を融合し、躍動的な構図と豊満な人体表現を特徴とする。外交官としても活動し、スペインやイングランドで交渉に携わった。マリー・ド・メディシス連作でも知られる。ケルンやアントワープで育ち、イタリア滞在を経てアントワープに戻った。スペイン国王とイングランド国王の双方からナイトに叙された。",
+  "keywords": [
+    "フランドル",
+    "工房",
+    "神話画",
+    "外交官"
+  ],
+  "related": [
+    "van-dyck",
+    "velazquez",
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "十字架降下",
+      "title_en": "The Descent from the Cross",
+      "year": 1614,
+      "medium": "油彩・板",
+      "collection": "アントワープ聖母大聖堂"
+    },
+    {
+      "title_ja": "キリスト昇架",
+      "title_en": "The Elevation of the Cross",
+      "year": 1610,
+      "medium": "油彩・板",
+      "collection": "アントワープ聖母大聖堂"
+    },
+    {
+      "title_ja": "パリスの審判",
+      "title_en": "The Judgement of Paris",
+      "year": 1639,
+      "medium": "油彩・板",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "三美神",
+      "title_en": "The Three Graces",
+      "year": 1635,
+      "medium": "油彩・板",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "レウキッポスの娘たちの掠奪",
+      "title_en": "The Rape of the Daughters of Leucippus",
+      "year": 1618,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    },
+    {
+      "title_ja": "マリー・ド・メディシスの生涯",
+      "title_en": "The Marie de' Medici Cycle",
+      "year": 1625,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

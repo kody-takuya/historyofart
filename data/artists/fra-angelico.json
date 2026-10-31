@@ -1,0 +1,53 @@
+{
+  "id": "fra-angelico",
+  "name_ja": "フラ・アンジェリコ",
+  "name_en": "Fra Angelico",
+  "born": 1395,
+  "died": 1455,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "フラ・アンジェリコ",
+  "wikipedia_en": "Fra Angelico",
+  "summary": "ドミニコ会の修道士として活動した初期ルネサンスのフィレンツェの画家。信仰に根ざした清澄で穏やかな表現と、明るい色彩が特徴である。フィレンツェのサン・マルコ修道院に多数のフレスコ画を描き、ローマでも教皇に招かれて制作した。遠近法などルネサンスの新しい技法を取り入れつつ、中世以来の敬虔さを保った。後に列福され、画家の守護者ともされる。その作品は、ルネサンスと中世の信仰の世界をつなぐものとして評価されている。",
+  "keywords": [
+    "フレスコ",
+    "ドミニコ会",
+    "受胎告知",
+    "サン・マルコ修道院"
+  ],
+  "related": [
+    "masaccio",
+    "piero-della-francesca"
+  ],
+  "works": [
+    {
+      "title_ja": "受胎告知(サン・マルコ)",
+      "title_en": "Annunciation",
+      "year": 1440,
+      "medium": "フレスコ",
+      "collection": "フィレンツェ、サン・マルコ美術館"
+    },
+    {
+      "title_ja": "受胎告知(プラド)",
+      "title_en": "Annunciation (Prado)",
+      "year": 1426,
+      "medium": "板にテンペラ",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "聖母戴冠",
+      "title_en": "Coronation of the Virgin",
+      "medium": "板にテンペラ",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "キリストの嘲弄",
+      "title_en": "Mocking of Christ",
+      "year": 1440,
+      "medium": "フレスコ",
+      "collection": "フィレンツェ、サン・マルコ美術館"
+    }
+  ]
+}

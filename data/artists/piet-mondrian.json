@@ -1,0 +1,56 @@
+{
+  "id": "piet-mondrian",
+  "name_ja": "ピエト・モンドリアン",
+  "name_en": "Piet Mondrian",
+  "born": 1872,
+  "died": 1944,
+  "region": "netherlands",
+  "movement": "modern",
+  "wikipedia_ja": "ピート・モンドリアン",
+  "wikipedia_en": "Piet Mondrian",
+  "summary": "オランダの画家。風景画から出発し、キュビスムの影響を受けて対象を単純化し、やがて水平線と垂直線、三原色と白黒灰のみで構成する抽象絵画「新造形主義（ネオ・プラスティシスム）」に到達した。1917年に雑誌『デ・ステイル』の創刊に関わった。パリ、ロンドンを経てニューヨークに移り、『ブロードウェイ・ブギウギ』などを描いた。最晩年には黒い格子線を後退させ、小さな色面が並ぶリズミカルな画面へと変化していった。",
+  "keywords": [
+    "新造形主義",
+    "デ・ステイル",
+    "抽象"
+  ],
+  "related": [
+    "kazimir-malevich",
+    "wassily-kandinsky"
+  ],
+  "works": [
+    {
+      "title_ja": "赤・青・黄のコンポジション",
+      "title_en": "Composition with Red, Blue and Yellow",
+      "year": 1930,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "ブロードウェイ・ブギウギ",
+      "title_en": "Broadway Boogie Woogie",
+      "year": 1943,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "灰色の木",
+      "title_en": "The Gray Tree",
+      "year": 1911,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハーグ市立美術館"
+    },
+    {
+      "title_ja": "赤い木",
+      "title_en": "The Red Tree",
+      "year": 1910,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハーグ市立美術館"
+    },
+    {
+      "title_ja": "勝利のブギウギ",
+      "title_en": "Victory Boogie Woogie",
+      "year": 1944,
+      "collection": "ハーグ市立美術館"
+    }
+  ]
+}

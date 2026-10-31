@@ -1,0 +1,54 @@
+{
+  "id": "lucas-cranach-the-elder",
+  "name_ja": "ルーカス・クラーナハ(父)",
+  "name_en": "Lucas Cranach the Elder",
+  "born": 1472,
+  "died": 1553,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "germany",
+  "movement": "renaissance",
+  "wikipedia_ja": "ルーカス・クラナッハ",
+  "wikipedia_en": "Lucas Cranach the Elder",
+  "summary": "ドイツ・ルネサンスの画家・版画家。ザクセン選帝侯に宮廷画家として仕え、ヴィッテンベルクに大工房を構えた。マルティン・ルターと親交があり、その肖像や宗教改革関連の作品で知られる。細身で官能的な裸体像の神話画も好まれ、独特の様式で人気を得た。息子ルーカス(子)が工房を継いだ。市長を務めるなど、町の有力者としても活動したと伝えられる。その工房は大量の作品を生産し、宗教改革の視覚的な宣伝にも貢献したとされる。",
+  "keywords": [
+    "宗教改革",
+    "肖像画",
+    "裸体",
+    "ヴィッテンベルク"
+  ],
+  "related": [
+    "albrecht-durer",
+    "hans-holbein-the-younger"
+  ],
+  "works": [
+    {
+      "title_ja": "ヴィーナスとキューピッド",
+      "title_en": "Venus and Cupid",
+      "year": 1509,
+      "medium": "板に油彩",
+      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+    },
+    {
+      "title_ja": "マルティン・ルターの肖像",
+      "title_en": "Portrait of Martin Luther",
+      "year": 1529,
+      "medium": "板に油彩",
+      "collection": "複数所蔵"
+    },
+    {
+      "title_ja": "パリスの審判",
+      "title_en": "Judgement of Paris",
+      "year": 1528,
+      "medium": "板に油彩",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "アダムとイヴ",
+      "title_en": "Adam and Eve",
+      "year": 1526,
+      "medium": "板に油彩",
+      "collection": "ロンドン、コートールド・ギャラリー"
+    }
+  ]
+}

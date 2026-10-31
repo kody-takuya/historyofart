@@ -1,0 +1,69 @@
+{
+  "id": "velazquez",
+  "name_ja": "ディエゴ・ベラスケス",
+  "name_en": "Diego Velázquez",
+  "born": 1599,
+  "died": 1660,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "spain",
+  "movement": "baroque",
+  "wikipedia_ja": "ディエゴ・ベラスケス",
+  "wikipedia_en": "Diego Velázquez",
+  "summary": "セビーリャに生まれ、スペイン国王フェリペ4世の宮廷画家としてマドリードで活躍した。写実的な観察と自在な筆致、空気感の表現に優れ、肖像画、宗教画、神話画、歴史画を描いた。『ラス・メニーナス』は西洋絵画史上屈指の傑作とされる。二度のイタリア旅行で見聞を広め、後の画家、特にマネに大きな影響を与えた。1623年にフェリペ4世の宮廷画家となり、王の信頼を得て宮廷の官職も務めた。晩年は宮廷の職務に多くの時間を割かれ、制作数が限られたとも言われる。",
+  "keywords": [
+    "宮廷画家",
+    "肖像画",
+    "スペイン黄金時代",
+    "写実"
+  ],
+  "related": [
+    "murillo",
+    "zurbaran",
+    "rubens"
+  ],
+  "works": [
+    {
+      "title_ja": "ラス・メニーナス",
+      "title_en": "Las Meninas",
+      "year": 1656,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "ブレダの開城",
+      "title_en": "The Surrender of Breda",
+      "year": 1635,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "鏡のヴィーナス",
+      "title_en": "The Toilet of Venus (Rokeby Venus)",
+      "year": 1650,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "教皇インノケンティウス10世の肖像",
+      "title_en": "Portrait of Innocent X",
+      "year": 1650,
+      "medium": "油彩・カンヴァス",
+      "collection": "ローマ、ドーリア・パンフィーリ美術館"
+    },
+    {
+      "title_ja": "織女たち",
+      "title_en": "Las Hilanderas",
+      "year": 1657,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "セビーリャの水売り",
+      "title_en": "The Waterseller of Seville",
+      "year": 1620,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ウェリントン博物館"
+    }
+  ]
+}

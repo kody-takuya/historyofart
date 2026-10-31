@@ -1,0 +1,55 @@
+{
+  "id": "mantegna",
+  "name_ja": "アンドレア・マンテーニャ",
+  "name_en": "Andrea Mantegna",
+  "born": 1431,
+  "died": 1506,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "アンドレア・マンテーニャ",
+  "wikipedia_en": "Andrea Mantegna",
+  "summary": "パドヴァで修業し、後にマントヴァのゴンザーガ家の宮廷画家となった15世紀イタリアの画家。古代彫刻のような硬質で彫塑的な人体表現と、大胆な短縮法(フォアショートニング)を特徴とする。マントヴァ宮殿の『結婚の間』の天井画は、錯視的な空間表現の先駆けとされる。版画にも優れた作品を残し、ジョヴァンニ・ベッリーニの義兄にあたり、ヴェネツィア派にも影響を与えた。その厳格で力強い様式は、北イタリアの美術と後続世代の画家たちに大きく影響した。",
+  "keywords": [
+    "フレスコ",
+    "短縮法",
+    "宮廷画家",
+    "ゴンザーガ家"
+  ],
+  "related": [
+    "piero-della-francesca",
+    "giovanni-bellini",
+    "donatello"
+  ],
+  "works": [
+    {
+      "title_ja": "死せるキリスト",
+      "title_en": "Lamentation over the Dead Christ",
+      "year": 1480,
+      "medium": "画布にテンペラ",
+      "collection": "ミラノ、ブレラ絵画館"
+    },
+    {
+      "title_ja": "結婚の間",
+      "title_en": "Camera degli Sposi",
+      "year": 1474,
+      "medium": "フレスコ",
+      "collection": "マントヴァ、ドゥカーレ宮殿"
+    },
+    {
+      "title_ja": "聖セバスティアヌス",
+      "title_en": "St. Sebastian",
+      "year": 1480,
+      "medium": "画布にテンペラ",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "勝利の聖母",
+      "title_en": "Madonna della Vittoria",
+      "year": 1496,
+      "medium": "画布にテンペラ",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

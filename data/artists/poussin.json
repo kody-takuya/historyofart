@@ -1,0 +1,68 @@
+{
+  "id": "poussin",
+  "name_ja": "ニコラ・プッサン",
+  "name_en": "Nicolas Poussin",
+  "born": 1594,
+  "died": 1665,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "baroque",
+  "wikipedia_ja": "ニコラ・プッサン",
+  "wikipedia_en": "Nicolas Poussin",
+  "summary": "ノルマンディー出身で、生涯の大半をローマで過ごしたフランスの画家。古代の彫刻やラファエロに学び、理知的で均整のとれた構図、古典的な主題による歴史画・神話画を制作した。フランス古典主義絵画の基礎を築き、後のアカデミーや新古典主義に大きな影響を与えた。風景の中に歴史的場面を配する様式も確立した。1624年にローマに定住し、生涯の大半をそこで過ごした。一時パリでルイ13世に招かれたが短期間で戻った。少数の知的な愛好家のために、作品を丹念に制作した。",
+  "keywords": [
+    "古典主義",
+    "歴史画",
+    "ローマ",
+    "理想風景"
+  ],
+  "related": [
+    "claude-lorrain",
+    "jacques-louis-david"
+  ],
+  "works": [
+    {
+      "title_ja": "アルカディアの牧人たち",
+      "title_en": "Et in Arcadia ego",
+      "year": 1638,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "サビニの女たちの略奪",
+      "title_en": "The Rape of the Sabine Women",
+      "year": 1634,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "七秘跡",
+      "title_en": "The Seven Sacraments",
+      "year": 1647,
+      "medium": "油彩・カンヴァス",
+      "collection": "エディンバラ、スコットランド国立美術館"
+    },
+    {
+      "title_ja": "ゲルマニクスの死",
+      "title_en": "The Death of Germanicus",
+      "year": 1627,
+      "medium": "油彩・カンヴァス",
+      "collection": "ミネアポリス美術館"
+    },
+    {
+      "title_ja": "自画像",
+      "title_en": "Self-Portrait",
+      "year": 1650,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ネプトゥヌスとアンフィトリテの勝利",
+      "title_en": "The Triumph of Neptune and Amphitrite",
+      "year": 1634,
+      "medium": "油彩・カンヴァス",
+      "collection": "フィラデルフィア美術館"
+    }
+  ]
+}

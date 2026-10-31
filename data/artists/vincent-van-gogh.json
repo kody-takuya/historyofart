@@ -1,0 +1,59 @@
+{
+  "id": "vincent-van-gogh",
+  "name_ja": "フィンセント・ファン・ゴッホ",
+  "name_en": "Vincent van Gogh",
+  "born": 1853,
+  "died": 1890,
+  "region": "netherlands",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "フィンセント・ファン・ゴッホ",
+  "wikipedia_en": "Vincent van Gogh",
+  "summary": "オランダ南部に生まれ、牧師や画商助手などを経て20代後半に画家となった。パリで印象派や浮世絵に触れて色彩が明るくなり、南仏アルルで強い色と力強い筆触の様式を確立した。精神の不調に苦しみ、オーヴェル＝シュル＝オワーズで37歳で没した。生前は評価が乏しかったが、没後に高く評価された。約10年の画業で数多くの油彩と素描を制作した。弟テオとの膨大な書簡は、彼の思想や制作過程を知る貴重な資料として残されている。",
+  "keywords": [
+    "ポスト印象派",
+    "弟テオ",
+    "アルル",
+    "書簡"
+  ],
+  "related": [
+    "paul-gauguin",
+    "paul-cezanne",
+    "jean-francois-millet"
+  ],
+  "works": [
+    {
+      "title_ja": "ジャガイモを食べる人々",
+      "title_en": "The Potato Eaters",
+      "year": 1885,
+      "collection": "アムステルダム、ファン・ゴッホ美術館"
+    },
+    {
+      "title_ja": "ひまわり",
+      "title_en": "Sunflowers",
+      "year": 1888
+    },
+    {
+      "title_ja": "夜のカフェテラス",
+      "title_en": "Café Terrace at Night",
+      "year": 1888,
+      "collection": "オッテルロー、クレラー＝ミュラー美術館"
+    },
+    {
+      "title_ja": "星月夜",
+      "title_en": "The Starry Night",
+      "year": 1889,
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "寝室",
+      "title_en": "The Bedroom",
+      "year": 1888
+    },
+    {
+      "title_ja": "カラスのいる麦畑",
+      "title_en": "Wheatfield with Crows",
+      "year": 1890,
+      "collection": "アムステルダム、ファン・ゴッホ美術館"
+    }
+  ]
+}

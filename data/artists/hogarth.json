@@ -1,0 +1,65 @@
+{
+  "id": "hogarth",
+  "name_ja": "ウィリアム・ホガース",
+  "name_en": "William Hogarth",
+  "born": 1697,
+  "died": 1764,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "britain",
+  "movement": "rococo",
+  "wikipedia_ja": "ウィリアム・ホガース",
+  "wikipedia_en": "William Hogarth",
+  "summary": "ロンドン出身の画家・版画家。同時代の社会の悪徳や世相を風刺的に描いた連作版画で知られ、「放蕩一代記」「当世風結婚」などが有名。作品は版画として広く流通し、画家の収入となった。著書『美の分析』では波状線を美の基本と論じた。著作権保護の法律制定にも貢献したことで知られる。銀細工師の徒弟として出発し、エングレーヴィングの技術を身につけた。劇場や市井の人々を描く「現代道徳主題」を創始した画家として、イギリス絵画の独立に寄与した。",
+  "keywords": [
+    "風刺",
+    "連作版画",
+    "ロンドン",
+    "美の分析"
+  ],
+  "related": [
+    "gainsborough"
+  ],
+  "works": [
+    {
+      "title_ja": "当世風結婚",
+      "title_en": "Marriage A-la-Mode",
+      "year": 1743,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "放蕩一代記",
+      "title_en": "A Rake's Progress",
+      "year": 1735,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ジョン・ソーン博物館"
+    },
+    {
+      "title_ja": "ジン横丁",
+      "title_en": "Gin Lane",
+      "year": 1751,
+      "medium": "エッチング・エングレーヴィング"
+    },
+    {
+      "title_ja": "エビ売りの少女",
+      "title_en": "The Shrimp Girl",
+      "year": 1745,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "画家とその犬",
+      "title_en": "The Painter and His Pug",
+      "year": 1745,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "ビール街",
+      "title_en": "Beer Street",
+      "year": 1751,
+      "medium": "エッチング・エングレーヴィング"
+    }
+  ]
+}

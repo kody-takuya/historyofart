@@ -1,0 +1,52 @@
+{
+  "id": "jean-francois-millet",
+  "name_ja": "ジャン＝フランソワ・ミレー",
+  "name_en": "Jean-François Millet",
+  "born": 1814,
+  "died": 1875,
+  "region": "france",
+  "movement": "realism",
+  "wikipedia_ja": "ジャン＝フランソワ・ミレー",
+  "wikipedia_en": "Jean-François Millet",
+  "summary": "ノルマンディーの農家に生まれ、のちにバルビゾン村に移り住んだ画家。農民の労働と生活を、宗教画のような静かな威厳をもって描いた。サロンで評価を得る一方、社会的な主題が論議も呼んだ。『種をまく人』『晩鐘』『落穂拾い』などは後世の画家、特にゴッホに深い影響を与えた。貧しい農民の姿を英雄的に描く姿勢は当時の社会に波紋を広げ、同時に風景と人間の結び付きを深く表現した画家として高く評価され続けている。農村の暮らしを主題とする作品は、写実主義の流れのなかでも特に広く親しまれている。",
+  "keywords": [
+    "バルビゾン派",
+    "農民画",
+    "落穂拾い"
+  ],
+  "related": [
+    "gustave-courbet",
+    "camille-corot",
+    "vincent-van-gogh"
+  ],
+  "works": [
+    {
+      "title_ja": "種をまく人",
+      "title_en": "The Sower",
+      "year": 1850
+    },
+    {
+      "title_ja": "落穂拾い",
+      "title_en": "The Gleaners",
+      "year": 1857,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "晩鐘",
+      "title_en": "The Angelus",
+      "year": 1857,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "羊飼いの少女",
+      "title_en": "Shepherdess with her Flock",
+      "year": 1863,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "鍬を持つ男",
+      "title_en": "Man with a Hoe",
+      "year": 1862
+    }
+  ]
+}

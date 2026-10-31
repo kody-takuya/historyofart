@@ -1,0 +1,76 @@
+{
+  "id": "gainsborough",
+  "name_ja": "トマス・ゲインズバラ",
+  "name_en": "Thomas Gainsborough",
+  "born": 1727,
+  "died": 1788,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "britain",
+  "movement": "rococo",
+  "wikipedia_ja": "トマス・ゲインズバラ",
+  "wikipedia_en": "Thomas Gainsborough",
+  "summary": "イングランドのサフォーク出身の画家。ヴァン・ダイクやフランス・ロココの影響を受けつつ、優雅で軽やかな肖像画と、風景への愛情にあふれた作品で知られる。王立美術院の創設会員の一人。ロンドンで肖像画家として成功する一方、風景画を好み、自然の中の人物を描く独自の様式を築いた。貴族らから肖像画の注文を受ける一方、友人宛の手紙で風景画への愛着を語った。バース在住時代に洗練された肖像様式を築き、1788年にロンドンで没した。",
+  "keywords": [
+    "肖像画",
+    "風景画",
+    "王立美術院",
+    "ロココ"
+  ],
+  "related": [
+    "van-dyck",
+    "hogarth",
+    "constable"
+  ],
+  "works": [
+    {
+      "title_ja": "青衣の少年",
+      "title_en": "The Blue Boy",
+      "year": 1770,
+      "medium": "油彩・カンヴァス",
+      "collection": "サンマリノ、ハンティントン・ライブラリー"
+    },
+    {
+      "title_ja": "アンドリューズ夫妻",
+      "title_en": "Mr and Mrs Andrews",
+      "year": 1750,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "朝の散歩",
+      "title_en": "The Morning Walk",
+      "year": 1785,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "市場へ向かう農夫たち",
+      "title_en": "The Market Cart",
+      "year": 1787,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "海軍大将ハウ夫人",
+      "title_en": "Mary, Countess Howe",
+      "year": 1764,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ケンウッド・ハウス"
+    },
+    {
+      "title_ja": "蝶を追う画家の娘たち",
+      "title_en": "The Painter's Daughters Chasing a Butterfly",
+      "year": 1756,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "コーナードの森",
+      "title_en": "Cornard Wood",
+      "year": 1748,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

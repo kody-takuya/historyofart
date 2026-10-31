@@ -1,0 +1,69 @@
+{
+  "id": "jacques-louis-david",
+  "name_ja": "ジャック＝ルイ・ダヴィッド",
+  "name_en": "Jacques-Louis David",
+  "born": 1748,
+  "died": 1825,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "neoclassicism",
+  "wikipedia_ja": "ジャック＝ルイ・ダヴィッド",
+  "wikipedia_en": "Jacques-Louis David",
+  "summary": "パリ出身の新古典主義を代表する画家。ローマ留学で古代美術に感化され、明晰な構図と厳格な様式で古代史を主題とした作品を描いた。フランス革命では政治家としても活動し、「マラーの死」を制作した。のちにナポレオンの首席画家となり、王政復古後はブリュッセルに亡命して没した。弟子にはアングルらがいる。革命期には国民公会の議員を務めるなど政治にも関与し、ルイ16世の処刑にも賛成票を投じたとされる。新古典主義の旗手として多くの弟子を育てた。",
+  "keywords": [
+    "新古典主義",
+    "フランス革命",
+    "ナポレオン",
+    "歴史画"
+  ],
+  "related": [
+    "ingres",
+    "poussin",
+    "gericault"
+  ],
+  "works": [
+    {
+      "title_ja": "ホラティウス兄弟の誓い",
+      "title_en": "Oath of the Horatii",
+      "year": 1784,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "マラーの死",
+      "title_en": "The Death of Marat",
+      "year": 1793,
+      "medium": "油彩・カンヴァス",
+      "collection": "ブリュッセル、ベルギー王立美術館"
+    },
+    {
+      "title_ja": "ナポレオンの戴冠式",
+      "title_en": "The Coronation of Napoleon",
+      "year": 1807,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "サビニの女たち",
+      "title_en": "The Intervention of the Sabine Women",
+      "year": 1799,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ソクラテスの死",
+      "title_en": "The Death of Socrates",
+      "year": 1787,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "レカミエ夫人の肖像",
+      "title_en": "Portrait of Madame Récamier",
+      "year": 1800,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

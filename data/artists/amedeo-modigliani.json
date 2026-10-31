@@ -1,0 +1,41 @@
+{
+  "id": "amedeo-modigliani",
+  "name_ja": "アメデオ・モディリアーニ",
+  "name_en": "Amedeo Modigliani",
+  "born": 1884,
+  "died": 1920,
+  "region": "italy",
+  "movement": "modern",
+  "wikipedia_ja": "アメデオ・モディリアーニ",
+  "wikipedia_en": "Amedeo Modigliani",
+  "summary": "イタリア出身でパリで活動した画家・彫刻家。細長い首と楕円形の顔、アーモンド形の目を持つ肖像画や裸婦像で知られる。初期は彫刻を志し、アフリカ美術やブランクーシの影響を受けた。生前の評価は限られ、貧困と病のなかで制作を続け、1920年に35歳で没した。その様式は没後に広く評価されるようになった。生涯の後半はほぼ肖像と裸婦に専念し、画家や詩人など同時代のパリの仲間たちを数多く描いた。リヴォルノに生まれ、フィレンツェやヴェネツィアで学んだ後、1906年にパリへ移った。",
+  "keywords": [
+    "肖像画",
+    "裸婦",
+    "エコール・ド・パリ"
+  ],
+  "related": [
+    "constantin-brancusi",
+    "pablo-picasso"
+  ],
+  "works": [
+    {
+      "title_ja": "横たわる裸婦",
+      "title_en": "Reclining Nude",
+      "year": 1917,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "ジャンヌ・エビュテルヌの肖像",
+      "title_en": "Portrait of Jeanne Hébuterne",
+      "year": 1919,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "ポール・ギヨームの肖像",
+      "title_en": "Portrait of Paul Guillaume",
+      "year": 1915,
+      "medium": "油彩・カンヴァス"
+    }
+  ]
+}

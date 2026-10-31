@@ -1,0 +1,22 @@
+{
+  "id": "jackson-pollock",
+  "name_ja": "ジャクソン・ポロック",
+  "name_en": "Jackson Pollock",
+  "born": 1912,
+  "died": 1956,
+  "region": "north-america",
+  "movement": "contemporary",
+  "wikipedia_ja": "ジャクソン・ポロック",
+  "wikipedia_en": "Jackson Pollock",
+  "summary": "アメリカの画家。抽象表現主義を代表する作家で、床に広げたカンヴァスに絵具を滴らせ、注ぐ「ポーリング」「ドリップ」の技法を1947年頃から展開した。この制作方法は「アクション・ペインティング」と呼ばれ、戦後アメリカ美術を世界の中心へ押し上げる契機の一つとなった。1956年に自動車事故で亡くなった。ワイオミング州に生まれ、のちにニューヨークで制作した。画家リー・クラズナーと結婚し、ロングアイランドに住んだ。",
+  "keywords": [
+    "抽象表現主義",
+    "アクション・ペインティング",
+    "ドリップ"
+  ],
+  "related": [
+    "mark-rothko",
+    "willem-de-kooning"
+  ],
+  "works": []
+}

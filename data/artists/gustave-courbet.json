@@ -1,0 +1,52 @@
+{
+  "id": "gustave-courbet",
+  "name_ja": "ギュスターヴ・クールベ",
+  "name_en": "Gustave Courbet",
+  "born": 1819,
+  "died": 1877,
+  "region": "france",
+  "movement": "realism",
+  "wikipedia_ja": "ギュスターヴ・クールベ",
+  "wikipedia_en": "Gustave Courbet",
+  "summary": "フランス東部オルナン出身の画家で、写実主義の代表的存在。神話や歴史ではなく、同時代の庶民や労働者、田舎の風景を等身大の画面で描いた。1855年のパリ万博に際し自作の個展を開き、「レアリスム宣言」を掲げたことで知られる。パリ・コミューンに参加して失脚し、晩年はスイスに亡命してその地で没した。その作風と政治的姿勢は、同時代の保守的なアカデミズムと真っ向から対立し、のちのマネや印象派の画家たちが新しい主題へ進む道を開いたと評価されている。",
+  "keywords": [
+    "写実主義",
+    "レアリスム宣言",
+    "パリ・コミューン"
+  ],
+  "related": [
+    "jean-francois-millet",
+    "edouard-manet"
+  ],
+  "works": [
+    {
+      "title_ja": "オルナンの埋葬",
+      "title_en": "A Burial at Ornans",
+      "year": 1849,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "石割り人夫",
+      "title_en": "The Stonebreakers",
+      "year": 1849
+    },
+    {
+      "title_ja": "画家のアトリエ",
+      "title_en": "The Painter's Studio",
+      "year": 1855,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "こんにちは、クールベさん",
+      "title_en": "Bonjour Monsieur Courbet",
+      "year": 1854,
+      "collection": "モンペリエ、ファーブル美術館"
+    },
+    {
+      "title_ja": "世界の起源",
+      "title_en": "L'Origine du monde",
+      "year": 1866,
+      "collection": "パリ、オルセー美術館"
+    }
+  ]
+}

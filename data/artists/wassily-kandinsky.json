@@ -1,0 +1,50 @@
+{
+  "id": "wassily-kandinsky",
+  "name_ja": "ワシリー・カンディンスキー",
+  "name_en": "Wassily Kandinsky",
+  "born": 1866,
+  "died": 1944,
+  "region": "russia-east-europe",
+  "movement": "modern",
+  "wikipedia_ja": "ワシリー・カンディンスキー",
+  "wikipedia_en": "Wassily Kandinsky",
+  "summary": "ロシア出身の画家・理論家。モスクワで法律を学んだ後、30歳で画家を志してミュンヘンに移った。1911年にフランツ・マルクらと「青騎士」を結成し、1910年前後に具象を離れた抽象絵画へ進んだとされる。著書『芸術における精神的なもの』で芸術の内的必然性を論じた。のちにバウハウスで教え、ナチスの圧力を受けてパリへ移り、同地で没した。『コンポジション』や『インプロヴィゼーション』の連作で、色と形の純粋な響きによる絵画を追求した。",
+  "keywords": [
+    "抽象絵画",
+    "青騎士",
+    "バウハウス"
+  ],
+  "related": [
+    "franz-marc",
+    "paul-klee"
+  ],
+  "works": [
+    {
+      "title_ja": "コンポジションVII",
+      "title_en": "Composition VII",
+      "year": 1913,
+      "medium": "油彩・カンヴァス",
+      "collection": "モスクワ、トレチャコフ美術館"
+    },
+    {
+      "title_ja": "青騎士",
+      "title_en": "The Blue Rider",
+      "year": 1903,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "黄・赤・青",
+      "title_en": "Yellow-Red-Blue",
+      "year": 1925,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ポンピドゥー・センター"
+    },
+    {
+      "title_ja": "コンポジションVIII",
+      "title_en": "Composition VIII",
+      "year": 1923,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、グッゲンハイム美術館"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "goya",
+  "name_ja": "フランシスコ・デ・ゴヤ",
+  "name_en": "Francisco Goya",
+  "born": 1746,
+  "died": 1828,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "spain",
+  "movement": "romanticism",
+  "wikipedia_ja": "フランシスコ・デ・ゴヤ",
+  "wikipedia_en": "Francisco Goya",
+  "summary": "アラゴン地方出身のスペインの画家・版画家。宮廷画家として肖像画やタピスリー原画を描き、のちに病で聴力を失った。ナポレオン戦争の惨状を描いた『戦争の惨禍』、風刺版画『ロス・カプリチョス』、晩年の『黒い絵』など、人間の暗部を直視する表現で近代美術の先駆とされる。晩年はフランスのボルドーで没した。宮廷首席画家に任命され、サン・フェルナンド王立美術アカデミーでも活動した。1824年にフランスへ移り、ボルドーで晩年を過ごした。",
+  "keywords": [
+    "宮廷画家",
+    "版画",
+    "戦争",
+    "黒い絵"
+  ],
+  "related": [
+    "velazquez",
+    "delacroix"
+  ],
+  "works": [
+    {
+      "title_ja": "1808年5月3日",
+      "title_en": "The Third of May 1808",
+      "year": 1814,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "着衣のマハ",
+      "title_en": "The Clothed Maja",
+      "year": 1805,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "裸のマハ",
+      "title_en": "The Nude Maja",
+      "year": 1800,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "カルロス4世の家族",
+      "title_en": "The Family of Charles IV",
+      "year": 1801,
+      "medium": "油彩・カンヴァス",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "我が子を食らうサトゥルヌス",
+      "title_en": "Saturn Devouring His Son",
+      "year": 1823,
+      "medium": "油彩（壁画から移設）",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "理性の眠りは怪物を生む",
+      "title_en": "The Sleep of Reason Produces Monsters",
+      "year": 1799,
+      "medium": "エッチング・アクアチント"
+    }
+  ]
+}

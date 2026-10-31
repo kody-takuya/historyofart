@@ -1,0 +1,58 @@
+{
+  "id": "canaletto",
+  "name_ja": "カナレット",
+  "name_en": "Canaletto",
+  "born": 1697,
+  "died": 1768,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "rococo",
+  "wikipedia_ja": "カナレット",
+  "wikipedia_en": "Canaletto",
+  "summary": "ヴェネツィア生まれの風景画家（本名ジョヴァンニ・アントニオ・カナル）。運河や広場、祝祭を精密かつ明るく描いたヴェドゥータ（都市景観画）で名高い。グランド・ツアーでヴェネツィアを訪れた英国人旅行者に人気を博し、1746年頃から約10年間ロンドンに滞在して制作した。カメラ・オブスクラの使用も論じられている。ジョゼフ・スミス領事が最大のパトロンとなり、作品の多くが英国の収集家に渡った。甥のベルナルド・ベロットも同様の都市景観画を描いた。",
+  "keywords": [
+    "ヴェドゥータ",
+    "ヴェネツィア",
+    "都市景観",
+    "グランド・ツアー"
+  ],
+  "related": [
+    "tiepolo"
+  ],
+  "works": [
+    {
+      "title_ja": "大運河のレガッタ",
+      "title_en": "The Regatta on the Grand Canal",
+      "year": 1740,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "サン・マルコ広場",
+      "title_en": "Piazza San Marco",
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "石工の仕事場",
+      "title_en": "The Stonemason's Yard",
+      "year": 1725,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ウェストミンスター橋",
+      "title_en": "Westminster Bridge from the North on Lord Mayor's Day",
+      "year": 1746,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヘイヴン、イェール英国美術センター"
+    },
+    {
+      "title_ja": "オールド・ウォルトン橋",
+      "title_en": "Old Walton Bridge",
+      "year": 1754,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ダリッジ絵画館"
+    }
+  ]
+}

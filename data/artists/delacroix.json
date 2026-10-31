@@ -1,0 +1,63 @@
+{
+  "id": "delacroix",
+  "name_ja": "ウジェーヌ・ドラクロワ",
+  "name_en": "Eugène Delacroix",
+  "born": 1798,
+  "died": 1863,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "romanticism",
+  "wikipedia_ja": "ウジェーヌ・ドラクロワ",
+  "wikipedia_en": "Eugène Delacroix",
+  "summary": "パリ近郊に生まれたフランス・ロマン主義の代表的画家。ルーベンスやヴェネツィア派、イギリス風景画の色彩に学び、躍動的な構図と豊かな色彩で歴史や文学、同時代の事件を描いた。1832年のモロッコ旅行で得た東方の印象も作品に反映された。古典主義のアングルとしばしば対比された。日記も重要な史料である。ゲランに学んだ後、ルーヴルでルーベンスなどの作品を模写した。壁画装飾も数多く手がけ、パリのサン・シュルピス教会礼拝堂の装飾が知られる。",
+  "keywords": [
+    "ロマン主義",
+    "色彩",
+    "歴史画",
+    "モロッコ"
+  ],
+  "related": [
+    "gericault",
+    "ingres",
+    "rubens",
+    "goya"
+  ],
+  "works": [
+    {
+      "title_ja": "民衆を導く自由の女神",
+      "title_en": "Liberty Leading the People",
+      "year": 1830,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "キオス島の虐殺",
+      "title_en": "The Massacre at Chios",
+      "year": 1824,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "サルダナパールの死",
+      "title_en": "The Death of Sardanapalus",
+      "year": 1827,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "アルジェの女たち",
+      "title_en": "Women of Algiers in their Apartment",
+      "year": 1834,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ダンテの小舟",
+      "title_en": "The Barque of Dante",
+      "year": 1822,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

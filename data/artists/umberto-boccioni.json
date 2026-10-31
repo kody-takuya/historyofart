@@ -1,0 +1,48 @@
+{
+  "id": "umberto-boccioni",
+  "name_ja": "ウンベルト・ボッチョーニ",
+  "name_en": "Umberto Boccioni",
+  "born": 1882,
+  "died": 1916,
+  "region": "italy",
+  "movement": "modern",
+  "wikipedia_ja": "ウンベルト・ボッチョーニ",
+  "wikipedia_en": "Umberto Boccioni",
+  "summary": "イタリアの画家・彫刻家。1909年のマリネッティによる未来派宣言に呼応し、1910年に「未来派絵画宣言」に署名した中心人物。速度や運動、都市の躍動を、力線を伴う分割された形態で表現しようとした。彫刻『空間における連続性の唯一の形態』が代表作。第一次世界大戦に志願して従軍し、1916年に落馬事故で亡くなった。画家としてだけでなく理論家としても活動し、未来派の主張を絵画と彫刻の両面で具体化しようとした。",
+  "keywords": [
+    "未来派",
+    "運動",
+    "彫刻"
+  ],
+  "related": [
+    "kazimir-malevich",
+    "fernand-leger"
+  ],
+  "works": [
+    {
+      "title_ja": "街が起きあがる",
+      "title_en": "The City Rises",
+      "year": 1910,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "空間における連続性の唯一の形態",
+      "title_en": "Unique Forms of Continuity in Space",
+      "year": 1913,
+      "medium": "ブロンズ"
+    },
+    {
+      "title_ja": "ある精神状態",
+      "title_en": "States of Mind",
+      "year": 1911,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "自画像",
+      "title_en": "Self-Portrait",
+      "year": 1908,
+      "medium": "油彩・カンヴァス"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "tiepolo",
+  "name_ja": "ジョヴァンニ・バッティスタ・ティエポロ",
+  "name_en": "Giovanni Battista Tiepolo",
+  "born": 1696,
+  "died": 1770,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "rococo",
+  "wikipedia_ja": "ジョヴァンニ・バッティスタ・ティエポロ",
+  "wikipedia_en": "Giovanni Battista Tiepolo",
+  "summary": "ヴェネツィア出身の後期バロック／ロココ期を代表する画家。明るい色彩と軽やかな空間表現による壮大な天井画・壁画で名声を得た。ドイツのヴュルツブルク司教館やスペインのマドリード王宮の装飾を手がけ、ヨーロッパ各地で活躍した。1770年にマドリードで没した。息子のジャン・ドメニコとロレンツォも画家として父を補佐した。ヴェネツィアのパラッツォ・ラビアの壁画も手がけ、明るい空と軽やかな人物の浮遊感で知られる。",
+  "keywords": [
+    "天井画",
+    "フレスコ",
+    "ヴェネツィア",
+    "装飾"
+  ],
+  "related": [
+    "canaletto"
+  ],
+  "works": [
+    {
+      "title_ja": "ヴュルツブルク司教館の階段室天井画",
+      "title_en": "Ceiling fresco of the Würzburg Residence",
+      "year": 1753,
+      "medium": "フレスコ",
+      "collection": "ヴュルツブルク司教館"
+    },
+    {
+      "title_ja": "クレオパトラの宴",
+      "title_en": "The Banquet of Cleopatra",
+      "year": 1744,
+      "medium": "油彩・カンヴァス",
+      "collection": "メルボルン、ヴィクトリア国立美術館"
+    },
+    {
+      "title_ja": "スペイン王権の栄光",
+      "title_en": "The Apotheosis of the Spanish Monarchy",
+      "year": 1764,
+      "medium": "フレスコ",
+      "collection": "マドリード王宮"
+    },
+    {
+      "title_ja": "パラッツォ・ラビアの壁画",
+      "title_en": "Frescoes of Antony and Cleopatra, Palazzo Labia",
+      "year": 1747,
+      "medium": "フレスコ",
+      "collection": "ヴェネツィア、パラッツォ・ラビア"
+    },
+    {
+      "title_ja": "ゼフィロスとフローラの勝利",
+      "title_en": "Triumph of Zephyr and Flora",
+      "year": 1734,
+      "medium": "油彩・カンヴァス",
+      "collection": "ヴェネツィア、カ・レッツォーニコ"
+    }
+  ]
+}

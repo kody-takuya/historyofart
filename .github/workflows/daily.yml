@@ -1,0 +1,45 @@
+name: Daily podcast and post
+on:
+  schedule:
+    - cron: '0 21 * * *'   # 毎日 06:00 JST
+    - cron: '30 21 * * 6'  # 日曜 06:30 JST: 美術展の記事
+  workflow_dispatch:
+    inputs:
+      kind: { description: 'daily / exhibitions', default: daily }
+permissions: { contents: write, id-token: write }
+concurrency: { group: content, cancel-in-progress: false }
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WIF_PROVIDER }}
+          service_account: ${{ vars.GCP_SA_EMAIL }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Resolve images
+        run: node scripts/resolve-images.mjs
+      - name: Generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MEDIA_BUCKET: ${{ vars.MEDIA_BUCKET }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "30 21 * * 6" ] || [ "${{ inputs.kind }}" = "exhibitions" ]; then
+            node scripts/generate-exhibitions.mjs
+          else
+            node scripts/generate-daily.mjs
+          fi
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content data
+          git diff --cached --quiet || { git commit -m "Add post $(date -u +%F)"; git pull --rebase origin main && git push origin HEAD:main; }
+  deploy:
+    needs: generate
+    uses: ./.github/workflows/deploy.yml
+    permissions: { contents: read, id-token: write }
+    secrets: inherit

@@ -1,0 +1,50 @@
+{
+  "id": "donatello",
+  "name_ja": "ドナテッロ",
+  "name_en": "Donatello",
+  "born": 1386,
+  "died": 1466,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ドナテッロ",
+  "wikipedia_en": "Donatello",
+  "summary": "初期ルネサンスを代表するフィレンツェの彫刻家。古代彫刻の研究を通じて、写実的な人体表現と感情表現を取り戻した。『ダヴィデ』は古代以来初の自立する裸体ブロンズ像とされる。浅浮彫(スティアッチャート)による遠近表現でも知られ、後の彫刻家と画家に大きな影響を与えた。パドヴァでは騎馬像も制作し、同地の画家マンテーニャらに影響を及ぼした。その作品は、ルネサンス彫刻の出発点として今も高く評価されている。生涯を通じて大理石、ブロンズ、木彫と多様な素材を自在に扱った。",
+  "keywords": [
+    "彫刻",
+    "ブロンズ",
+    "初期ルネサンス",
+    "浅浮彫"
+  ],
+  "related": [
+    "masaccio",
+    "mantegna"
+  ],
+  "works": [
+    {
+      "title_ja": "ダヴィデ",
+      "title_en": "David",
+      "medium": "ブロンズ",
+      "collection": "フィレンツェ、バルジェッロ国立博物館"
+    },
+    {
+      "title_ja": "ガッタメラータ騎馬像",
+      "title_en": "Equestrian Statue of Gattamelata",
+      "medium": "ブロンズ",
+      "collection": "パドヴァ"
+    },
+    {
+      "title_ja": "聖ゲオルギウス",
+      "title_en": "St. George",
+      "medium": "大理石",
+      "collection": "フィレンツェ、バルジェッロ国立博物館"
+    },
+    {
+      "title_ja": "マグダラのマリア",
+      "title_en": "Penitent Magdalene",
+      "medium": "彩色木彫",
+      "collection": "フィレンツェ、大聖堂付属美術館"
+    }
+  ]
+}

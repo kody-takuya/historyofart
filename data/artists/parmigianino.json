@@ -1,0 +1,55 @@
+{
+  "id": "parmigianino",
+  "name_ja": "パルミジャニーノ",
+  "name_en": "Parmigianino",
+  "born": 1503,
+  "died": 1540,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "mannerism",
+  "wikipedia_ja": "パルミジャニーノ",
+  "wikipedia_en": "Parmigianino",
+  "summary": "パルマ出身のマニエリスムを代表する画家・版画家。コレッジョの影響を受け、ローマでラファエロらの様式を吸収した。引き伸ばされた優美な人体と洗練された曲線を特徴とし、『長い首の聖母』が代表作。『凸面鏡の自画像』は若き日の技量を示す。エッチングも手がけ、イタリア・マニエリスムの優雅な様式を北方にも広めた。37歳で没した。その優美で洗練された様式は、同時代と後続の画家に大きな影響を与えた。その作品は、同時代のヨーロッパ各地の宮廷に広く知られた。",
+  "keywords": [
+    "マニエリスム",
+    "優美",
+    "エッチング",
+    "パルマ"
+  ],
+  "related": [
+    "correggio",
+    "raphael",
+    "bronzino"
+  ],
+  "works": [
+    {
+      "title_ja": "長い首の聖母",
+      "title_en": "Madonna with the Long Neck",
+      "year": 1535,
+      "medium": "板に油彩",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "凸面鏡の自画像",
+      "title_en": "Self-Portrait in a Convex Mirror",
+      "year": 1524,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "弓を削るキューピッド",
+      "title_en": "Cupid Carving His Bow",
+      "year": 1535,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "聖ヒエロニムスの幻視",
+      "title_en": "Vision of Saint Jerome",
+      "year": 1527,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

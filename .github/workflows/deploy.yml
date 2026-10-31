@@ -1,0 +1,43 @@
+name: Deploy
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['docs/**', 'scripts/gcp-setup.sh']
+  workflow_call:
+  workflow_dispatch:
+concurrency: { group: deploy, cancel-in-progress: false }
+permissions: { contents: read, id-token: write }
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      SERVICE: historyofart
+      IMAGE: ${{ vars.GCP_REGION }}-docker.pkg.dev/${{ vars.GCP_PROJECT_ID }}/web/historyofart
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WIF_PROVIDER }}
+          service_account: ${{ vars.GCP_SA_EMAIL }}
+      - uses: google-github-actions/setup-gcloud@v2
+      - name: Validate / resolve images / build
+        run: |
+          node scripts/validate.mjs
+          node scripts/resolve-images.mjs
+          SITE_URL="${{ vars.SITE_URL }}" node scripts/build.mjs
+      - name: Commit image cache
+        run: |
+          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/commons-cache.json
+          git diff --cached --quiet || { git commit -m "Update Commons image cache"; git pull --rebase origin main && git push origin HEAD:main; }
+      - run: gcloud auth configure-docker ${{ vars.GCP_REGION }}-docker.pkg.dev --quiet
+      - run: |
+          docker build -t "$IMAGE:${{ github.sha }}" .
+          docker push "$IMAGE:${{ github.sha }}"
+      - run: |
+          gcloud run deploy "$SERVICE" --image "$IMAGE:${{ github.sha }}" --region ${{ vars.GCP_REGION }} \
+            --project ${{ vars.GCP_PROJECT_ID }} --allow-unauthenticated --port 8080 \
+            --min-instances 0 --max-instances 3 --memory 256Mi --cpu 1

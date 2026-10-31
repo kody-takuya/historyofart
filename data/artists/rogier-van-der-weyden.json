@@ -1,0 +1,55 @@
+{
+  "id": "rogier-van-der-weyden",
+  "name_ja": "ロヒール・ファン・デル・ウェイデン",
+  "name_en": "Rogier van der Weyden",
+  "born": 1400,
+  "died": 1464,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "early-netherlandish",
+  "wikipedia_ja": "ロヒール・ファン・デル・ウェイデン",
+  "wikipedia_en": "Rogier van der Weyden",
+  "summary": "15世紀中頃にブリュッセルで市の画家として活躍した初期ネーデルラントの巨匠。ロベルト・カンパンに学んだとされる。劇的な感情表現と洗練された人物描写に優れ、宗教画と肖像画の両方で高く評価された。『十字架降下』は代表作で、その影響はヨーロッパ各地に及んだ。ボーヌ施療院の『最後の審判』の祭壇画も手がけ、イタリアやスペインの宮廷にも作品が知られた。その人物の表情や仕草を通じた感情表現は、同時代の画家にとって手本となった。",
+  "keywords": [
+    "油彩",
+    "宗教画",
+    "肖像画",
+    "ブリュッセル"
+  ],
+  "related": [
+    "robert-campin",
+    "jan-van-eyck",
+    "hugo-van-der-goes"
+  ],
+  "works": [
+    {
+      "title_ja": "十字架降下",
+      "title_en": "Descent from the Cross",
+      "year": 1435,
+      "medium": "板に油彩",
+      "collection": "マドリード、プラド美術館"
+    },
+    {
+      "title_ja": "婦人の肖像",
+      "title_en": "Portrait of a Woman",
+      "year": 1460,
+      "medium": "板に油彩",
+      "collection": "ベルリン絵画館"
+    },
+    {
+      "title_ja": "ブラクの三連祭壇画",
+      "title_en": "Braque Triptych",
+      "year": 1452,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "最後の審判の祭壇画",
+      "title_en": "Beaune Altarpiece",
+      "year": 1450,
+      "medium": "板に油彩",
+      "collection": "ボーヌ、オテル・デュー"
+    }
+  ]
+}

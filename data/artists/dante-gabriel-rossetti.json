@@ -1,0 +1,50 @@
+{
+  "id": "dante-gabriel-rossetti",
+  "name_ja": "ダンテ・ゲイブリエル・ロセッティ",
+  "name_en": "Dante Gabriel Rossetti",
+  "born": 1828,
+  "died": 1882,
+  "region": "britain",
+  "movement": "symbolism",
+  "wikipedia_ja": "ダンテ・ゲイブリエル・ロセッティ",
+  "wikipedia_en": "Dante Gabriel Rossetti",
+  "summary": "ロンドン生まれの画家・詩人で、ラファエル前派兄弟団の創設者の一人。イタリア系の家庭に育ち、ダンテや中世文学を主題とした。のちに官能的で象徴的な女性像を多く描いた。妻エリザベス・シダルの早世は彼の人生と作品に大きな影を落とした。1848年にミレイやホルマン・ハントらとラファエル前派兄弟団を結成した。のちには理想化された女性像で唯美主義にも影響を与え、詩の分野でも評価された。画家と詩人の両面で、ヴィクトリア朝文化の重要な位置を占める。",
+  "keywords": [
+    "ラファエル前派",
+    "詩人",
+    "ダンテ"
+  ],
+  "related": [
+    "john-everett-millais",
+    "edward-burne-jones"
+  ],
+  "works": [
+    {
+      "title_ja": "聖母マリアの少女時代",
+      "title_en": "The Girlhood of Mary Virgin",
+      "year": 1849
+    },
+    {
+      "title_ja": "受胎告知",
+      "title_en": "Ecce Ancilla Domini!",
+      "year": 1850,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "ベアタ・ベアトリクス",
+      "title_en": "Beata Beatrix",
+      "year": 1870,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "プロセルピナ",
+      "title_en": "Proserpine",
+      "year": 1874
+    },
+    {
+      "title_ja": "レディ・リリス",
+      "title_en": "Lady Lilith",
+      "year": 1868
+    }
+  ]
+}

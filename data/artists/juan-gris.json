@@ -1,0 +1,30 @@
+{
+  "id": "juan-gris",
+  "name_ja": "フアン・グリス",
+  "name_en": "Juan Gris",
+  "born": 1887,
+  "died": 1927,
+  "region": "spain",
+  "movement": "modern",
+  "wikipedia_ja": "フアン・グリス",
+  "wikipedia_en": "Juan Gris",
+  "summary": "スペイン出身でパリで活動した画家。マドリードに生まれ、1906年にパリへ移り、ピカソやブラックと親交を結んだ。キュビスムを、明晰で秩序だった構成と鮮やかな色彩によって展開し、「総合的キュビスム」の代表的画家とされる。静物を主題とした作品が多く、舞台美術も手がけた。1927年に病のため亡くなった。同じスペイン出身のピカソとはモンマルトルの洗濯船で近所に住み、画商カーンヴァイラーのもとで作品を発表した。",
+  "keywords": [
+    "キュビスム",
+    "静物画",
+    "総合的キュビスム"
+  ],
+  "related": [
+    "pablo-picasso",
+    "georges-braque"
+  ],
+  "works": [
+    {
+      "title_ja": "ピカソの肖像",
+      "title_en": "Portrait of Pablo Picasso",
+      "year": 1912,
+      "medium": "油彩・カンヴァス",
+      "collection": "シカゴ美術館"
+    }
+  ]
+}

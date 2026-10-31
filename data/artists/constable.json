@@ -1,0 +1,69 @@
+{
+  "id": "constable",
+  "name_ja": "ジョン・コンスタブル",
+  "name_en": "John Constable",
+  "born": 1776,
+  "died": 1837,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "britain",
+  "movement": "romanticism",
+  "wikipedia_ja": "ジョン・コンスタブル",
+  "wikipedia_en": "John Constable",
+  "summary": "イングランドのサフォーク出身の風景画家。故郷の田園風景を、野外でのスケッチを基に誠実に描いた。雲の研究や筆触の自由さで知られ、「乾草の車」は1824年のパリのサロンで評判となり、ドラクロワらフランスの画家に影響を与えた。生前の評価は同世代のターナーより控えめで、王立美術院会員になったのは晩年であった。生地近くのストゥール川流域は「コンスタブル・カントリー」と呼ばれる。画家は自然への観察を何より重んじ、油彩のスケッチも多く残した。",
+  "keywords": [
+    "風景画",
+    "田園",
+    "雲の習作",
+    "サフォーク"
+  ],
+  "related": [
+    "turner",
+    "gainsborough",
+    "delacroix"
+  ],
+  "works": [
+    {
+      "title_ja": "乾草の車",
+      "title_en": "The Hay Wain",
+      "year": 1821,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "ソールズベリー大聖堂",
+      "title_en": "Salisbury Cathedral from the Meadows",
+      "year": 1831,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "フラットフォードの製粉所",
+      "title_en": "Flatford Mill",
+      "year": 1817,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "跳ぶ馬",
+      "title_en": "The Leaping Horse",
+      "year": 1825,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ロイヤル・アカデミー・オブ・アーツ"
+    },
+    {
+      "title_ja": "ウィヴンホー・パーク",
+      "title_en": "Wivenhoe Park, Essex",
+      "year": 1816,
+      "medium": "油彩・カンヴァス",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "麦畑",
+      "title_en": "The Cornfield",
+      "year": 1826,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

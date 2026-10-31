@@ -1,0 +1,55 @@
+{
+  "id": "masaccio",
+  "name_ja": "マサッチオ",
+  "name_en": "Masaccio",
+  "born": 1401,
+  "died": 1428,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "マサッチオ",
+  "wikipedia_en": "Masaccio",
+  "summary": "初期ルネサンスのフィレンツェの画家。27歳前後で早世したが、線遠近法と明暗法を取り入れ、人物に彫刻のような量感を与えた。ブランカッチ礼拝堂のフレスコ連作や、サンタ・マリア・ノヴェッラ聖堂の『聖三位一体』は、ルネサンス絵画の出発点とされる。ジョットの伝統を継承し、ミケランジェロらにも影響を与えた。ブルネレスキやドナテッロとの交流も知られる。短い生涯にもかかわらず、その革新は後の画家たちの手本となった。",
+  "keywords": [
+    "フレスコ",
+    "線遠近法",
+    "初期ルネサンス",
+    "ブランカッチ礼拝堂"
+  ],
+  "related": [
+    "giotto",
+    "fra-angelico",
+    "donatello"
+  ],
+  "works": [
+    {
+      "title_ja": "聖三位一体",
+      "title_en": "Holy Trinity",
+      "year": 1427,
+      "medium": "フレスコ",
+      "collection": "フィレンツェ、サンタ・マリア・ノヴェッラ聖堂"
+    },
+    {
+      "title_ja": "貢の銭",
+      "title_en": "The Tribute Money",
+      "year": 1425,
+      "medium": "フレスコ",
+      "collection": "フィレンツェ、ブランカッチ礼拝堂"
+    },
+    {
+      "title_ja": "楽園追放",
+      "title_en": "Expulsion from the Garden of Eden",
+      "year": 1425,
+      "medium": "フレスコ",
+      "collection": "フィレンツェ、ブランカッチ礼拝堂"
+    },
+    {
+      "title_ja": "聖母子と聖アンナ",
+      "title_en": "Sant'Anna Metterza",
+      "year": 1424,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    }
+  ]
+}

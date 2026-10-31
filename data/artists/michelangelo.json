@@ -1,0 +1,68 @@
+{
+  "id": "michelangelo",
+  "name_ja": "ミケランジェロ・ブオナローティ",
+  "name_en": "Michelangelo",
+  "born": 1475,
+  "died": 1564,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ミケランジェロ・ブオナローティ",
+  "wikipedia_en": "Michelangelo",
+  "summary": "盛期ルネサンスを代表する彫刻家・画家・建築家。フィレンツェで修業し、ローマで教皇の庇護を受けた。力強い人体表現により、彫刻『ダヴィデ』『ピエタ』を制作。ヴァチカンのシスティーナ礼拝堂の天井画と『最後の審判』も手がけた。晩年にはサン・ピエトロ大聖堂のクーポラの設計にも関わった。詩人としても知られ、ヴァザーリが伝記を著した最初の存命の芸術家でもある。その力強く劇的な表現は、後のマニエリスムやバロックの芸術に決定的な影響を与えた。",
+  "keywords": [
+    "彫刻",
+    "フレスコ",
+    "システィーナ礼拝堂",
+    "盛期ルネサンス"
+  ],
+  "related": [
+    "leonardo-da-vinci",
+    "raphael"
+  ],
+  "works": [
+    {
+      "title_ja": "ダヴィデ",
+      "title_en": "David",
+      "year": 1504,
+      "medium": "大理石",
+      "collection": "フィレンツェ、アカデミア美術館"
+    },
+    {
+      "title_ja": "ピエタ",
+      "title_en": "Pietà",
+      "year": 1499,
+      "medium": "大理石",
+      "collection": "ヴァチカン、サン・ピエトロ大聖堂"
+    },
+    {
+      "title_ja": "システィーナ礼拝堂天井画",
+      "title_en": "Sistine Chapel Ceiling",
+      "year": 1512,
+      "medium": "フレスコ",
+      "collection": "ヴァチカン、システィーナ礼拝堂"
+    },
+    {
+      "title_ja": "最後の審判",
+      "title_en": "The Last Judgment",
+      "year": 1541,
+      "medium": "フレスコ",
+      "collection": "ヴァチカン、システィーナ礼拝堂"
+    },
+    {
+      "title_ja": "モーセ像",
+      "title_en": "Moses",
+      "year": 1515,
+      "medium": "大理石",
+      "collection": "ローマ、サン・ピエトロ・イン・ヴィンコリ聖堂"
+    },
+    {
+      "title_ja": "聖家族(ドーニ・トンド)",
+      "title_en": "Doni Tondo",
+      "year": 1507,
+      "medium": "板にテンペラ",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    }
+  ]
+}

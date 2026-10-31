@@ -1,0 +1,69 @@
+{
+  "id": "raphael",
+  "name_ja": "ラファエロ・サンツィオ",
+  "name_en": "Raphael",
+  "born": 1483,
+  "died": 1520,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ラファエロ・サンツィオ",
+  "wikipedia_en": "Raphael",
+  "summary": "盛期ルネサンスを代表するウルビーノ出身の画家・建築家。ペルジーノに学び、フィレンツェでレオナルドらの影響を受けた後、ローマで教皇ユリウス2世とレオ10世に仕えた。調和のとれた構図と優美な聖母像で知られ、ヴァチカン宮殿の「署名の間」の壁画『アテナイの学堂』は代表作。37歳の若さで亡くなり、遺骸はパンテオンに葬られた。後世のアカデミズムの規範とされた。その作品は、ルネサンスの古典的理想を最も完成された形で示したものと評されている。",
+  "keywords": [
+    "フレスコ",
+    "聖母子",
+    "調和",
+    "盛期ルネサンス"
+  ],
+  "related": [
+    "leonardo-da-vinci",
+    "michelangelo",
+    "parmigianino"
+  ],
+  "works": [
+    {
+      "title_ja": "アテナイの学堂",
+      "title_en": "The School of Athens",
+      "year": 1511,
+      "medium": "フレスコ",
+      "collection": "ヴァチカン、署名の間"
+    },
+    {
+      "title_ja": "システィーナの聖母",
+      "title_en": "Sistine Madonna",
+      "year": 1513,
+      "medium": "画布に油彩",
+      "collection": "ドレスデン、アルテ・マイスター絵画館"
+    },
+    {
+      "title_ja": "小椅子の聖母",
+      "title_en": "Madonna della seggiola",
+      "year": 1514,
+      "medium": "板に油彩",
+      "collection": "フィレンツェ、パラティーナ美術館"
+    },
+    {
+      "title_ja": "ガラテアの勝利",
+      "title_en": "Triumph of Galatea",
+      "year": 1512,
+      "medium": "フレスコ",
+      "collection": "ローマ、ファルネジーナ荘"
+    },
+    {
+      "title_ja": "聖体の論議",
+      "title_en": "Disputation of the Holy Sacrament",
+      "year": 1510,
+      "medium": "フレスコ",
+      "collection": "ヴァチカン、署名の間"
+    },
+    {
+      "title_ja": "バルダッサーレ・カスティリオーネの肖像",
+      "title_en": "Portrait of Baldassare Castiglione",
+      "year": 1515,
+      "medium": "画布に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

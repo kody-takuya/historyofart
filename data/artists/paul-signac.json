@@ -1,0 +1,48 @@
+{
+  "id": "paul-signac",
+  "name_ja": "ポール・シニャック",
+  "name_en": "Paul Signac",
+  "born": 1863,
+  "died": 1935,
+  "region": "france",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "ポール・シニャック",
+  "wikipedia_en": "Paul Signac",
+  "summary": "パリ出身の画家で、スーラの没後に新印象主義の理論的な指導者となった。モザイク状の大きな点描で、港や海辺、ヨットの風景を明るい色彩で描いた。サン＝トロペに居を構えて多くの画家を招き、アンデパンダン展の会長も務めた。著作『ウジェーヌ・ドラクロワから新印象主義へ』で理論を説いた。ヨットで各地の港を巡り、水彩によるスケッチも多く残した。点描技法を一層大胆で装飾的なものへ発展させ、マティスらフォーヴの画家に影響を与えた。",
+  "keywords": [
+    "新印象主義",
+    "点描",
+    "サン＝トロペ"
+  ],
+  "related": [
+    "georges-seurat",
+    "camille-pissarro"
+  ],
+  "works": [
+    {
+      "title_ja": "ガスタンク、クリシー",
+      "title_en": "The Gas Tanks at Clichy",
+      "year": 1886
+    },
+    {
+      "title_ja": "サン＝トロペの港",
+      "title_en": "The Port of Saint-Tropez",
+      "year": 1901
+    },
+    {
+      "title_ja": "調和の時代",
+      "title_en": "In the Time of Harmony",
+      "year": 1895
+    },
+    {
+      "title_ja": "ポン・デ・ザール",
+      "title_en": "Le Pont des Arts",
+      "year": 1912
+    },
+    {
+      "title_ja": "マルセイユの港",
+      "title_en": "Port of Marseille",
+      "year": 1906
+    }
+  ]
+}

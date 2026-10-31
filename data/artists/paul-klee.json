@@ -1,0 +1,50 @@
+{
+  "id": "paul-klee",
+  "name_ja": "パウル・クレー",
+  "name_en": "Paul Klee",
+  "born": 1879,
+  "died": 1940,
+  "region": "germany",
+  "movement": "modern",
+  "wikipedia_ja": "パウル・クレー",
+  "wikipedia_en": "Paul Klee",
+  "summary": "スイス生まれでドイツを中心に活動した画家。音楽家の家庭に育ち、線と色彩による詩的で繊細な作品を生んだ。1914年のチュニジア旅行で色彩に開眼したとされる。青騎士に参加し、のちにバウハウスで教鞭をとった。『造形思考』などの理論的著作も残す。ナチスに「退廃芸術」とされて職を追われ、スイスに戻り、晩年は難病と闘いながら制作を続けた。作品に付した詩的な題名や、小さな画面に繰り広げられる幻想的な世界も魅力として知られている。",
+  "keywords": [
+    "バウハウス",
+    "青騎士",
+    "線と色彩"
+  ],
+  "related": [
+    "wassily-kandinsky",
+    "franz-marc"
+  ],
+  "works": [
+    {
+      "title_ja": "セネシオ",
+      "title_en": "Senecio",
+      "year": 1922,
+      "medium": "油彩・カンヴァス",
+      "collection": "バーゼル美術館"
+    },
+    {
+      "title_ja": "新しい天使",
+      "title_en": "Angelus Novus",
+      "year": 1920,
+      "collection": "エルサレム、イスラエル博物館"
+    },
+    {
+      "title_ja": "魚をめぐって",
+      "title_en": "Around the Fish",
+      "year": 1926,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "パルナッソス山へ",
+      "title_en": "Ad Parnassum",
+      "year": 1932,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルン美術館"
+    }
+  ]
+}

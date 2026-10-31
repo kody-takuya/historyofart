@@ -1,0 +1,67 @@
+{
+  "id": "bernini",
+  "name_ja": "ジャン・ロレンツォ・ベルニーニ",
+  "name_en": "Gian Lorenzo Bernini",
+  "born": 1598,
+  "died": 1680,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "baroque",
+  "wikipedia_ja": "ジャン・ロレンツォ・ベルニーニ",
+  "wikipedia_en": "Gian Lorenzo Bernini",
+  "summary": "ナポリに生まれローマで活躍した、盛期バロックを代表する彫刻家・建築家。大理石に動きや感情、瞬間の劇性を封じ込める驚異的な技巧で名高い。教皇ウルバヌス8世らの庇護を受け、サン・ピエトロ大聖堂のバルダッキーノや広場の列柱廊など、ローマの景観を決定づける仕事を数多く手がけた。画家・舞台装置家としても活動した多才な人物である。彫刻家の父ピエトロに学び、若くして才能を示した。ボルゲーゼ枢機卿のために制作した一連の彫刻群は、初期の傑作として特に名高い。",
+  "keywords": [
+    "彫刻",
+    "建築",
+    "大理石",
+    "ローマ"
+  ],
+  "related": [
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "アポロとダフネ",
+      "title_en": "Apollo and Daphne",
+      "year": 1625,
+      "medium": "大理石",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    },
+    {
+      "title_ja": "プロセルピナの略奪",
+      "title_en": "The Rape of Proserpina",
+      "year": 1622,
+      "medium": "大理石",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    },
+    {
+      "title_ja": "聖テレジアの法悦",
+      "title_en": "Ecstasy of Saint Teresa",
+      "year": 1650,
+      "medium": "大理石",
+      "collection": "ローマ、サンタ・マリア・デッラ・ヴィットーリア聖堂"
+    },
+    {
+      "title_ja": "ダヴィデ",
+      "title_en": "David",
+      "year": 1624,
+      "medium": "大理石",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    },
+    {
+      "title_ja": "サン・ピエトロ大聖堂のバルダッキーノ",
+      "title_en": "Baldacchino of Saint Peter's",
+      "year": 1633,
+      "medium": "ブロンズ",
+      "collection": "ヴァチカン、サン・ピエトロ大聖堂"
+    },
+    {
+      "title_ja": "四大河の噴水",
+      "title_en": "Fountain of the Four Rivers",
+      "year": 1651,
+      "medium": "大理石",
+      "collection": "ローマ、ナヴォーナ広場"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "alphonse-mucha",
+  "name_ja": "アルフォンス・ミュシャ",
+  "name_en": "Alphonse Mucha",
+  "born": 1860,
+  "died": 1939,
+  "region": "russia-east-europe",
+  "movement": "symbolism",
+  "wikipedia_ja": "アルフォンス・ミュシャ",
+  "wikipedia_en": "Alphonse Mucha",
+  "summary": "モラヴィア地方出身のチェコの画家・デザイナー。パリで女優サラ・ベルナールの舞台ポスターを手がけて名声を得て、アール・ヌーヴォーを代表する存在となった。装飾的な曲線と花、女性像が特徴。のちに祖国に戻り、スラヴ民族の歴史を描いた連作『スラヴ叙事詩』を制作した。新聞や雑誌の挿絵からキャリアを始め、装飾パネルや商業デザインでも活躍した。ミュシャ様式と呼ばれる独自のスタイルは、世紀末のポスター芸術の象徴である。",
+  "keywords": [
+    "アール・ヌーヴォー",
+    "ポスター",
+    "スラヴ叙事詩"
+  ],
+  "related": [
+    "gustav-klimt"
+  ],
+  "works": [
+    {
+      "title_ja": "ジスモンダ",
+      "title_en": "Gismonda",
+      "year": 1894
+    },
+    {
+      "title_ja": "四季",
+      "title_en": "The Seasons",
+      "year": 1896
+    },
+    {
+      "title_ja": "黄道十二宮",
+      "title_en": "Zodiac",
+      "year": 1896
+    },
+    {
+      "title_ja": "スラヴ叙事詩",
+      "title_en": "The Slav Epic",
+      "collection": "プラハ"
+    },
+    {
+      "title_ja": "モエ・エ・シャンドン・クレマン・アンペリアル",
+      "title_en": "Moët & Chandon Champagne Imperial",
+      "year": 1899
+    }
+  ]
+}

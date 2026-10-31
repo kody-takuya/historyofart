@@ -1,0 +1,43 @@
+{
+  "id": "phidias",
+  "name_ja": "フェイディアス",
+  "name_en": "Phidias",
+  "born": -490,
+  "died": -430,
+  "born_approx": true,
+  "died_approx": true,
+  "region": "other",
+  "movement": "ancient",
+  "wikipedia_ja": "フェイディアス",
+  "wikipedia_en": "Phidias",
+  "summary": "紀元前5世紀に活躍した古代ギリシアのアテナイの彫刻家。ペリクレス時代にパルテノン神殿の造営を監督し、神殿の彫刻装飾を統括したと伝えられる。パルテノンの本尊であった黄金象牙のアテナ・パルテノス像や、オリンピアのゼウス像を制作したことで名高い。ゼウス像は古代世界の七不思議に数えられた。これらの原作は失われ、後世の模刻や記述によって知られる。古典期ギリシア彫刻の理想的な様式を確立した巨匠として評価される。",
+  "keywords": [
+    "古典期",
+    "彫刻",
+    "パルテノン神殿",
+    "黄金象牙像"
+  ],
+  "related": [
+    "praxiteles"
+  ],
+  "works": [
+    {
+      "title_ja": "アテナ・パルテノス像",
+      "title_en": "Athena Parthenos",
+      "medium": "黄金と象牙",
+      "collection": "原作は失われた"
+    },
+    {
+      "title_ja": "オリンピアのゼウス像",
+      "title_en": "Statue of Zeus at Olympia",
+      "medium": "黄金と象牙",
+      "collection": "原作は失われた"
+    },
+    {
+      "title_ja": "アテナ・プロマコス像",
+      "title_en": "Athena Promachos",
+      "medium": "青銅",
+      "collection": "原作は失われた"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "mary-cassatt",
+  "name_ja": "メアリー・カサット",
+  "name_en": "Mary Cassatt",
+  "born": 1844,
+  "died": 1926,
+  "region": "north-america",
+  "movement": "impressionism",
+  "wikipedia_ja": "メアリー・カサット",
+  "wikipedia_en": "Mary Cassatt",
+  "summary": "ペンシルヴェニア州出身で、パリに定住して活躍したアメリカ人画家。ドガに認められて印象派展に参加した。母と子の親密な情景を主題にしたパステルや油彩、日本の浮世絵に学んだ多色刷りの銅版画で知られる。アメリカのコレクターに印象派作品の購入を勧め、受容にも貢献した。裕福な家庭の出で、画家を志してヨーロッパに渡った。日本の浮世絵から平面的な構成や線の扱いを学び、独自の簡潔で力強い画面を築き上げた。母子を描いた一連の作品は、彼女の代名詞として知られている。",
+  "keywords": [
+    "印象派",
+    "母子像",
+    "版画"
+  ],
+  "related": [
+    "edgar-degas",
+    "berthe-morisot"
+  ],
+  "works": [
+    {
+      "title_ja": "桟敷席にて",
+      "title_en": "In the Loge",
+      "year": 1878
+    },
+    {
+      "title_ja": "青い肘掛け椅子の少女",
+      "title_en": "Little Girl in a Blue Armchair",
+      "year": 1878,
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "子どもの入浴",
+      "title_en": "The Child's Bath",
+      "year": 1893,
+      "collection": "シカゴ美術館"
+    },
+    {
+      "title_ja": "湯あみ",
+      "title_en": "The Bath",
+      "year": 1891
+    },
+    {
+      "title_ja": "舟遊び",
+      "title_en": "The Boating Party",
+      "year": 1893,
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    }
+  ]
+}

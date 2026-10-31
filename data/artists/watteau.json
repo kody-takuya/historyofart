@@ -1,0 +1,69 @@
+{
+  "id": "watteau",
+  "name_ja": "アントワーヌ・ヴァトー",
+  "name_en": "Antoine Watteau",
+  "born": 1684,
+  "died": 1721,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "france",
+  "movement": "rococo",
+  "wikipedia_ja": "アントワーヌ・ヴァトー",
+  "wikipedia_en": "Antoine Watteau",
+  "summary": "フランス北部ヴァランシエンヌに生まれ、パリで活動したロココ絵画の創始者。庭園で恋や音楽に興じる男女を詩的に描いた「雅宴画（フェット・ギャラント）」を確立した。ルーベンスやヴェネツィア派の色彩に学び、繊細な筆致と憂いを帯びた雰囲気が特徴。結核により36歳で早世した。ルクセンブルク宮殿の装飾家クロード・ジローに学び、のちに王立絵画彫刻アカデミーに「シテール島への巡礼」を提出して会員となった。彼の様式は18世紀を通じ、フランスや英国の絵画に影響した。",
+  "keywords": [
+    "雅宴画",
+    "ロココ",
+    "コメディア・デラルテ",
+    "素描"
+  ],
+  "related": [
+    "boucher",
+    "fragonard",
+    "rubens"
+  ],
+  "works": [
+    {
+      "title_ja": "シテール島への巡礼",
+      "title_en": "Pilgrimage to Cythera",
+      "year": 1717,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ピエロ（ジル）",
+      "title_en": "Pierrot (Gilles)",
+      "year": 1719,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ジェルサンの看板",
+      "title_en": "L'Enseigne de Gersaint",
+      "year": 1720,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン、シャルロッテンブルク宮殿"
+    },
+    {
+      "title_ja": "シテール島への船出",
+      "title_en": "Embarkation for Cythera",
+      "year": 1718,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン、シャルロッテンブルク宮殿"
+    },
+    {
+      "title_ja": "メッツァタン",
+      "title_en": "Mezzetin",
+      "year": 1718,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "ユピテルとアンティオペ（眠れるニンフ）",
+      "title_en": "Jupiter and Antiope",
+      "year": 1715,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    }
+  ]
+}

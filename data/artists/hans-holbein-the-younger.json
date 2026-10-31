@@ -1,0 +1,61 @@
+{
+  "id": "hans-holbein-the-younger",
+  "name_ja": "ハンス・ホルバイン(子)",
+  "name_en": "Hans Holbein the Younger",
+  "born": 1497,
+  "died": 1543,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "germany",
+  "movement": "renaissance",
+  "wikipedia_ja": "ハンス・ホルバイン (子)",
+  "wikipedia_en": "Hans Holbein the Younger",
+  "summary": "アウクスブルク生まれの北方ルネサンスの画家。バーゼルで活動した後、イングランドに渡り、ヘンリー8世の宮廷画家となった。精緻で写実的な肖像画に優れ、人物の性格や地位を的確にとらえた。『大使たち』は謎めいた歪像(アナモルフォーシス)を描き込んだことで有名で、トマス・モアやエラスムスらの肖像も残した。ロンドンで疫病により没したと伝えられる。その精緻な描写は、16世紀ヨーロッパの肖像画の最高峰の一つに数えられる。",
+  "keywords": [
+    "肖像画",
+    "宮廷画家",
+    "アナモルフォーシス",
+    "ヘンリー8世"
+  ],
+  "related": [
+    "albrecht-durer",
+    "lucas-cranach-the-elder"
+  ],
+  "works": [
+    {
+      "title_ja": "大使たち",
+      "title_en": "The Ambassadors",
+      "year": 1533,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "エラスムスの肖像",
+      "title_en": "Portrait of Erasmus",
+      "year": 1523,
+      "medium": "板に油彩",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "墓の中の死せるキリスト",
+      "title_en": "The Body of the Dead Christ in the Tomb",
+      "year": 1522,
+      "medium": "板に油彩",
+      "collection": "バーゼル美術館"
+    },
+    {
+      "title_ja": "トマス・モアの肖像",
+      "title_en": "Portrait of Thomas More",
+      "year": 1527,
+      "medium": "板に油彩",
+      "collection": "ニューヨーク、フリック・コレクション"
+    },
+    {
+      "title_ja": "ヘンリー8世の肖像",
+      "title_en": "Portrait of Henry VIII",
+      "year": 1537,
+      "medium": "板に油彩",
+      "collection": "ローマ、バルベリーニ宮国立古典美術館"
+    }
+  ]
+}

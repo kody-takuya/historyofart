@@ -1,0 +1,50 @@
+{
+  "id": "camille-corot",
+  "name_ja": "カミーユ・コロー",
+  "name_en": "Camille Corot",
+  "born": 1796,
+  "died": 1875,
+  "region": "france",
+  "movement": "realism",
+  "wikipedia_ja": "ジャン＝バティスト・カミーユ・コロー",
+  "wikipedia_en": "Jean-Baptiste-Camille Corot",
+  "summary": "パリの商家に生まれ、イタリア滞在で風景画を学んだ画家。バルビゾン派と交流し、屋外での素描をもとに、柔らかな銀灰色の光に満ちた風景を描いた。晩年は霞のかかった詩的な風景を多く手がけ、印象派の画家たちに先駆者として敬われた。人物画にも優れた作品を残している。生涯を通じて穏やかな人柄で知られ、若い画家たちを経済的にも助けたと伝えられる。透明感のある風景は、バルビゾン派から印象派へ至る流れの橋渡しとなった。",
+  "keywords": [
+    "風景画",
+    "バルビゾン派",
+    "銀灰色の光"
+  ],
+  "related": [
+    "jean-francois-millet",
+    "camille-pissarro"
+  ],
+  "works": [
+    {
+      "title_ja": "モルトフォンテーヌの思い出",
+      "title_en": "Souvenir de Mortefontaine",
+      "year": 1864,
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "真珠の女",
+      "title_en": "The Woman with a Pearl",
+      "year": 1858,
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ヴィル・ダヴレー",
+      "title_en": "Ville-d'Avray"
+    },
+    {
+      "title_ja": "ナルニの橋",
+      "title_en": "The Bridge at Narni",
+      "year": 1826,
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "シャルトル大聖堂",
+      "title_en": "Chartres Cathedral",
+      "year": 1830
+    }
+  ]
+}

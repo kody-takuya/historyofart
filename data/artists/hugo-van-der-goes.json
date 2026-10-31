@@ -1,0 +1,39 @@
+{
+  "id": "hugo-van-der-goes",
+  "name_ja": "ヒューホー・ファン・デル・フース",
+  "name_en": "Hugo van der Goes",
+  "born": 1440,
+  "died": 1482,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "early-netherlandish",
+  "wikipedia_ja": "ヒューホー・ファン・デル・フース",
+  "wikipedia_en": "Hugo van der Goes",
+  "summary": "15世紀後半にゲントで活躍した初期ネーデルラントの画家。晩年にブリュッセル近郊の修道院に入り、精神を病んだとされる。『ポルティナーリ祭壇画』は、大きな人物像と深い感情表現でフィレンツェの画家たちにも影響を与えた。劇的で心理的な表現が特徴とされ、ヤン・ファン・エイクやロヒールの後を継ぐ世代の最も重要な画家の一人と評価される。作品は数が限られるが、いずれも独創的で力強い造形を示している。その作品は、同時代のネーデルラント絵画に新たな緊張感をもたらした。",
+  "keywords": [
+    "油彩",
+    "祭壇画",
+    "ポルティナーリ祭壇画",
+    "ゲント"
+  ],
+  "related": [
+    "rogier-van-der-weyden",
+    "jan-van-eyck"
+  ],
+  "works": [
+    {
+      "title_ja": "ポルティナーリ祭壇画",
+      "title_en": "Portinari Altarpiece",
+      "year": 1478,
+      "medium": "板に油彩",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "モンフォルテ祭壇画",
+      "title_en": "Monforte Altarpiece",
+      "medium": "板に油彩",
+      "collection": "ベルリン絵画館"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pieter-bruegel-the-elder",
+  "name_ja": "ピーテル・ブリューゲル(父)",
+  "name_en": "Pieter Bruegel the Elder",
+  "born": 1525,
+  "died": 1569,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "renaissance",
+  "wikipedia_ja": "ピーテル・ブリューゲル",
+  "wikipedia_en": "Pieter Bruegel the Elder",
+  "summary": "16世紀フランドルを代表する画家。農民の生活や季節の風景、諺を主題にした作品で知られ、「農民画家」と呼ばれた。イタリア旅行を経て、アルプスの雄大な風景を取り入れた。『バベルの塔』や『雪中の狩人』が代表作。細部まで描き込んだ群像表現を特徴とし、息子のピーテル2世、ヤンも画家になった。ボスの幻想的な図像の伝統も受け継いだ。その作品は、近世の人々の暮らしと自然を観察した貴重な記録としても評価されている。",
+  "keywords": [
+    "風景画",
+    "農民",
+    "諺",
+    "フランドル"
+  ],
+  "related": [
+    "hieronymus-bosch"
+  ],
+  "works": [
+    {
+      "title_ja": "バベルの塔",
+      "title_en": "The Tower of Babel",
+      "year": 1563,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "雪中の狩人",
+      "title_en": "Hunters in the Snow",
+      "year": 1565,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "農民の婚宴",
+      "title_en": "The Peasant Wedding",
+      "year": 1568,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "子供の遊戯",
+      "title_en": "Children's Games",
+      "year": 1560,
+      "medium": "板に油彩",
+      "collection": "ウィーン美術史美術館"
+    },
+    {
+      "title_ja": "ネーデルラントの諺",
+      "title_en": "Netherlandish Proverbs",
+      "year": 1559,
+      "medium": "板に油彩",
+      "collection": "ベルリン絵画館"
+    },
+    {
+      "title_ja": "イカロスの墜落のある風景",
+      "title_en": "Landscape with the Fall of Icarus",
+      "year": 1558,
+      "medium": "画布に油彩",
+      "collection": "ブリュッセル、ベルギー王立美術館"
+    }
+  ]
+}

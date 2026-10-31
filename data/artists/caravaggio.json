@@ -1,0 +1,70 @@
+{
+  "id": "caravaggio",
+  "name_ja": "カラヴァッジョ",
+  "name_en": "Caravaggio",
+  "born": 1571,
+  "died": 1610,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "baroque",
+  "wikipedia_ja": "カラヴァッジョ",
+  "wikipedia_en": "Caravaggio",
+  "summary": "ミラノに生まれローマで活躍したバロック絵画の先駆者。暗闇に強い光を差し込ませる劇的な明暗法と、モデルを使った写実的な聖人や宗教場面の表現で知られる。庶民的な描写は教会側との摩擦も生んだが、その革新は同時代と後世の画家に大きな影響を与えた。喧嘩による殺人事件でローマを逃れ、ナポリやマルタなどを転々とし、1610年に没した。本名はミケランジェロ・メリージで、通称は一家の出身地に由来する。ローマの主要な聖堂から注文を受けたが、粗暴な行状でも知られた。",
+  "keywords": [
+    "明暗法",
+    "テネブリズム",
+    "写実主義",
+    "宗教画"
+  ],
+  "related": [
+    "artemisia-gentileschi",
+    "rubens",
+    "georges-de-la-tour",
+    "rembrandt"
+  ],
+  "works": [
+    {
+      "title_ja": "聖マタイの召命",
+      "title_en": "The Calling of Saint Matthew",
+      "year": 1600,
+      "medium": "油彩・カンヴァス",
+      "collection": "ローマ、サン・ルイジ・デイ・フランチェージ聖堂"
+    },
+    {
+      "title_ja": "果物籠を持つ少年",
+      "title_en": "Boy with a Basket of Fruit",
+      "year": 1593,
+      "medium": "油彩・カンヴァス",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    },
+    {
+      "title_ja": "エマオの晩餐",
+      "title_en": "Supper at Emmaus",
+      "year": 1601,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "聖母の死",
+      "title_en": "Death of the Virgin",
+      "year": 1606,
+      "medium": "油彩・カンヴァス",
+      "collection": "パリ、ルーヴル美術館"
+    },
+    {
+      "title_ja": "ホロフェルネスの首を斬るユディト",
+      "title_en": "Judith Beheading Holofernes",
+      "year": 1599,
+      "medium": "油彩・カンヴァス",
+      "collection": "ローマ、国立古典絵画館（バルベリーニ宮）"
+    },
+    {
+      "title_ja": "バッカス",
+      "title_en": "Bacchus",
+      "year": 1596,
+      "medium": "油彩・カンヴァス",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    }
+  ]
+}

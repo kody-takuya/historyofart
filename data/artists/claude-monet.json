@@ -1,0 +1,58 @@
+{
+  "id": "claude-monet",
+  "name_ja": "クロード・モネ",
+  "name_en": "Claude Monet",
+  "born": 1840,
+  "died": 1926,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "クロード・モネ",
+  "wikipedia_en": "Claude Monet",
+  "summary": "印象派を代表する画家。作品『印象、日の出』が流派の名の由来となった。光と大気の移ろいを捉えるため、同じモチーフを時間や季節を変えて描く連作を展開し、積みわらや大聖堂、睡蓮などを制作した。晩年はジヴェルニーの自邸の庭で睡蓮の大装飾画に取り組み、抽象絵画にも影響を及ぼした。パリに生まれ、ル・アーヴルで育った。若い頃ブーダンから屋外制作を学び、生涯にわたり光の変化を追い続けた。作品はオランジュリー美術館をはじめ世界各地に所蔵されている。",
+  "keywords": [
+    "印象派",
+    "連作",
+    "睡蓮",
+    "ジヴェルニー"
+  ],
+  "related": [
+    "pierre-auguste-renoir",
+    "camille-pissarro",
+    "alfred-sisley",
+    "edouard-manet"
+  ],
+  "works": [
+    {
+      "title_ja": "印象、日の出",
+      "title_en": "Impression, Sunrise",
+      "year": 1872,
+      "collection": "パリ、マルモッタン・モネ美術館"
+    },
+    {
+      "title_ja": "ラ・グルヌイエール",
+      "title_en": "La Grenouillère",
+      "year": 1869
+    },
+    {
+      "title_ja": "ルーアン大聖堂",
+      "title_en": "Rouen Cathedral",
+      "year": 1893
+    },
+    {
+      "title_ja": "積みわら",
+      "title_en": "Haystacks",
+      "year": 1890
+    },
+    {
+      "title_ja": "睡蓮",
+      "title_en": "Water Lilies",
+      "year": 1906
+    },
+    {
+      "title_ja": "日傘をさす女",
+      "title_en": "Woman with a Parasol",
+      "year": 1875,
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    }
+  ]
+}

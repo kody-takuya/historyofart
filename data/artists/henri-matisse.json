@@ -1,0 +1,56 @@
+{
+  "id": "henri-matisse",
+  "name_ja": "アンリ・マティス",
+  "name_en": "Henri Matisse",
+  "born": 1869,
+  "died": 1954,
+  "region": "france",
+  "movement": "modern",
+  "wikipedia_ja": "アンリ・マティス",
+  "wikipedia_en": "Henri Matisse",
+  "summary": "フランスの画家。ギュスターヴ・モローに学び、20世紀初頭に鮮烈な色彩と単純化された形態を特徴とするフォーヴィスムの中心人物となった。1905年のサロン・ドートンヌで注目を集める。生涯を通じて色彩と線の関係を探究し、晩年は病のため切り紙絵（グワッシュで彩色した紙を切り抜く技法）に取り組み、『ジャズ』などを制作した。ニースで長く制作し、ヴァンスのロザリオ礼拝堂の装飾も手がけた。同時代のピカソとは互いを意識し合う好敵手でもあり、20世紀美術の二大巨匠と並び称される。",
+  "keywords": [
+    "フォーヴィスム",
+    "色彩",
+    "切り紙絵"
+  ],
+  "related": [
+    "andre-derain",
+    "pablo-picasso"
+  ],
+  "works": [
+    {
+      "title_ja": "緑の筋のあるマティス夫人の肖像",
+      "title_en": "Portrait of Madame Matisse (The Green Line)",
+      "year": 1905,
+      "medium": "油彩・カンヴァス",
+      "collection": "コペンハーゲン、デンマーク国立美術館"
+    },
+    {
+      "title_ja": "ダンス",
+      "title_en": "Dance",
+      "year": 1910,
+      "medium": "油彩・カンヴァス",
+      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+    },
+    {
+      "title_ja": "赤いアトリエ",
+      "title_en": "The Red Studio",
+      "year": 1911,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "生きる喜び",
+      "title_en": "Le bonheur de vivre",
+      "year": 1906,
+      "medium": "油彩・カンヴァス",
+      "collection": "メリオン、バーンズ財団"
+    },
+    {
+      "title_ja": "ジャズ",
+      "title_en": "Jazz",
+      "year": 1947
+    }
+  ]
+}

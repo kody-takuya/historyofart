@@ -1,0 +1,53 @@
+{
+  "id": "john-singer-sargent",
+  "name_ja": "ジョン・シンガー・サージェント",
+  "name_en": "John Singer Sargent",
+  "born": 1856,
+  "died": 1925,
+  "region": "north-america",
+  "movement": "impressionism",
+  "wikipedia_ja": "ジョン・シンガー・サージェント",
+  "wikipedia_en": "John Singer Sargent",
+  "summary": "アメリカ人の両親のもとイタリアのフィレンツェで生まれ、パリで学んだ画家。ヨーロッパと米国の上流社会の肖像で人気を博した。『マダムX』のスキャンダルののちロンドンに移った。モネと交流して水彩や戸外の制作も手がけ、晩年は壁画にも取り組んだ。晩年は肖像画の依頼を減らし、水彩によるヴェネツィアや山岳の風景を好んで描いた。第一次世界大戦では従軍画家として戦場を訪れた。華やかな筆さばきで、社交界の人物像を鮮やかに表現した。",
+  "keywords": [
+    "肖像画",
+    "水彩",
+    "マダムX"
+  ],
+  "related": [
+    "james-mcneill-whistler",
+    "claude-monet"
+  ],
+  "works": [
+    {
+      "title_ja": "マダムX（マダム・ゴートロー）",
+      "title_en": "Madame X",
+      "year": 1884,
+      "collection": "ニューヨーク、メトロポリタン美術館"
+    },
+    {
+      "title_ja": "エドワード・ダーリー・ボイトの娘たち",
+      "title_en": "The Daughters of Edward Darley Boit",
+      "year": 1882,
+      "collection": "ボストン美術館"
+    },
+    {
+      "title_ja": "カーネーション、リリー、リリー、ローズ",
+      "title_en": "Carnation, Lily, Lily, Rose",
+      "year": 1886,
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "毒ガス攻撃を受けて",
+      "title_en": "Gassed",
+      "year": 1919,
+      "collection": "ロンドン、帝国戦争博物館"
+    },
+    {
+      "title_ja": "エル・ハレオ",
+      "title_en": "El Jaleo",
+      "year": 1882,
+      "collection": "ボストン、イザベラ・スチュワート・ガードナー美術館"
+    }
+  ]
+}

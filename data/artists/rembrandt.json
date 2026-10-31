@@ -1,0 +1,69 @@
+{
+  "id": "rembrandt",
+  "name_ja": "レンブラント・ファン・レイン",
+  "name_en": "Rembrandt van Rijn",
+  "born": 1606,
+  "died": 1669,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "baroque",
+  "wikipedia_ja": "レンブラント・ファン・レイン",
+  "wikipedia_en": "Rembrandt",
+  "summary": "ライデンに生まれアムステルダムで活躍した、オランダ黄金時代最大の画家の一人。深い明暗の対比と人間の内面に迫る描写に優れ、肖像画、歴史画、風景画、そして生涯にわたって制作した多数の自画像で知られる。版画家としても卓越していた。晩年は経済的に困窮したが、その表現はさらに深みを増したと評価されている。ライデンの粉屋の家に生まれ、のちアムステルダムで成功を収めた。弟子や工房も大きく、工房作品の帰属判断は現在も研究課題となっている。",
+  "keywords": [
+    "明暗法",
+    "自画像",
+    "版画",
+    "オランダ黄金時代"
+  ],
+  "related": [
+    "vermeer",
+    "frans-hals",
+    "caravaggio"
+  ],
+  "works": [
+    {
+      "title_ja": "夜警",
+      "title_en": "The Night Watch",
+      "year": 1642,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    },
+    {
+      "title_ja": "テュルプ博士の解剖学講義",
+      "title_en": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+      "year": 1632,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハーグ、マウリッツハイス美術館"
+    },
+    {
+      "title_ja": "放蕩息子の帰還",
+      "title_en": "The Return of the Prodigal Son",
+      "year": 1669,
+      "medium": "油彩・カンヴァス",
+      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+    },
+    {
+      "title_ja": "織物商組合の幹部たち",
+      "title_en": "The Syndics of the Drapers' Guild",
+      "year": 1662,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    },
+    {
+      "title_ja": "ユダヤの花嫁",
+      "title_en": "The Jewish Bride",
+      "year": 1665,
+      "medium": "油彩・カンヴァス",
+      "collection": "アムステルダム国立美術館"
+    },
+    {
+      "title_ja": "ダナエ",
+      "title_en": "Danaë",
+      "year": 1636,
+      "medium": "油彩・カンヴァス",
+      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+    }
+  ]
+}

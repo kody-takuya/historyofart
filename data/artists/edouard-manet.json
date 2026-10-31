@@ -1,0 +1,54 @@
+{
+  "id": "edouard-manet",
+  "name_ja": "エドゥアール・マネ",
+  "name_en": "Édouard Manet",
+  "born": 1832,
+  "died": 1883,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "エドゥアール・マネ",
+  "wikipedia_en": "Édouard Manet",
+  "summary": "パリの裕福な家庭に生まれ、近代都市生活を主題にした画家。平坦な色面と大胆な筆致で伝統的な表現を揺さぶり、『草上の昼食』『オランピア』はスキャンダルを呼んだ。モネやモリゾら若い画家たちの中心的存在と見なされたが、自らは印象派展には出品しなかった。最晩年に『フォリー＝ベルジェールの酒場』を描いた。パリの日常やカフェ、競馬場、バルコニーの場面を描き、近代生活を絵画の主題とする道筋を示した。その平面的な表現は、以後の近代絵画の展開に大きな影響を与えた。",
+  "keywords": [
+    "近代生活",
+    "草上の昼食",
+    "オランピア"
+  ],
+  "related": [
+    "claude-monet",
+    "berthe-morisot",
+    "edgar-degas"
+  ],
+  "works": [
+    {
+      "title_ja": "草上の昼食",
+      "title_en": "Le Déjeuner sur l'herbe",
+      "year": 1863,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "オランピア",
+      "title_en": "Olympia",
+      "year": 1863,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "笛を吹く少年",
+      "title_en": "The Fifer",
+      "year": 1866,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "バルコニー",
+      "title_en": "The Balcony",
+      "year": 1868,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "フォリー＝ベルジェールの酒場",
+      "title_en": "A Bar at the Folies-Bergère",
+      "year": 1882,
+      "collection": "ロンドン、コートールド・ギャラリー"
+    }
+  ]
+}

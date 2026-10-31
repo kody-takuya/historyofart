@@ -1,0 +1,55 @@
+{
+  "id": "giovanni-bellini",
+  "name_ja": "ジョヴァンニ・ベッリーニ",
+  "name_en": "Giovanni Bellini",
+  "born": 1430,
+  "died": 1516,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ジョヴァンニ・ベッリーニ",
+  "wikipedia_en": "Giovanni Bellini",
+  "summary": "ヴェネツィア派の礎を築いた画家。ヤコポ・ベッリーニの子で、義兄にマンテーニャがいる。柔らかな光と豊かな色彩で聖母子像や祭壇画を数多く描き、後にジョルジョーネやティツィアーノを育てた。油彩技法を取り入れたことで、ヴェネツィア絵画の色彩表現に新たな展開をもたらした。長く工房を率い、ヴェネツィア共和国の公認画家の地位にあった。その穏やかで叙情的な画風は、ヴェネツィア派の基礎となり、後世の色彩表現に影響した。",
+  "keywords": [
+    "ヴェネツィア派",
+    "聖母子",
+    "色彩",
+    "祭壇画"
+  ],
+  "related": [
+    "mantegna",
+    "giorgione",
+    "titian"
+  ],
+  "works": [
+    {
+      "title_ja": "サン・ザッカリア祭壇画",
+      "title_en": "San Zaccaria Altarpiece",
+      "year": 1505,
+      "medium": "板に油彩",
+      "collection": "ヴェネツィア、サン・ザッカリア聖堂"
+    },
+    {
+      "title_ja": "神々の饗宴",
+      "title_en": "Feast of the Gods",
+      "year": 1514,
+      "medium": "画布に油彩",
+      "collection": "ワシントン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "レオナルド・ロレダン総督の肖像",
+      "title_en": "Portrait of Doge Leonardo Loredan",
+      "year": 1501,
+      "medium": "板に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "園の苦悶",
+      "title_en": "Agony in the Garden",
+      "year": 1465,
+      "medium": "板にテンペラ",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    }
+  ]
+}

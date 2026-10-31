@@ -1,0 +1,50 @@
+{
+  "id": "edvard-munch",
+  "name_ja": "エドヴァルド・ムンク",
+  "name_en": "Edvard Munch",
+  "born": 1863,
+  "died": 1944,
+  "region": "other",
+  "movement": "symbolism",
+  "wikipedia_ja": "エドヴァルド・ムンク",
+  "wikipedia_en": "Edvard Munch",
+  "summary": "ノルウェーの画家。幼少期に母と姉を病で亡くし、不安や死、愛といった内面を主題にした。連作「生命のフリーズ」に『叫び』を含む。強い輪郭線と歪んだ形態は表現主義の先駆とされる。版画にも優れ、晩年はオスロ近郊で制作した。生涯を通じて、病弱や家族の死、恋愛の葛藤を作品に反映させた。『叫び』には複数の版があり、油彩、テンペラ、パステル、石版画が残されている。オスロには彼の作品を集めたムンク美術館があり、多くの作品が収蔵されている。",
+  "keywords": [
+    "表現主義",
+    "叫び",
+    "生命のフリーズ"
+  ],
+  "related": [
+    "gustav-klimt",
+    "paul-gauguin"
+  ],
+  "works": [
+    {
+      "title_ja": "病める子",
+      "title_en": "The Sick Child",
+      "year": 1885
+    },
+    {
+      "title_ja": "叫び",
+      "title_en": "The Scream",
+      "year": 1893,
+      "collection": "オスロ、ノルウェー国立美術館"
+    },
+    {
+      "title_ja": "マドンナ",
+      "title_en": "Madonna",
+      "year": 1894
+    },
+    {
+      "title_ja": "吸血鬼",
+      "title_en": "Vampire",
+      "year": 1895
+    },
+    {
+      "title_ja": "思春期",
+      "title_en": "Puberty",
+      "year": 1894,
+      "collection": "オスロ、ノルウェー国立美術館"
+    }
+  ]
+}

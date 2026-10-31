@@ -1,0 +1,14 @@
+{
+  "name": "historyofart",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "images": "node scripts/resolve-images.mjs",
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "serve": "node scripts/serve.mjs",
+    "daily": "node scripts/generate-daily.mjs",
+    "exhibitions": "node scripts/generate-exhibitions.mjs"
+  }
+}

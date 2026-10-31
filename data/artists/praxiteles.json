@@ -1,0 +1,43 @@
+{
+  "id": "praxiteles",
+  "name_ja": "プラクシテレス",
+  "name_en": "Praxiteles",
+  "born": -390,
+  "died": -330,
+  "born_approx": true,
+  "died_approx": true,
+  "region": "other",
+  "movement": "ancient",
+  "wikipedia_ja": "プラクシテレス",
+  "wikipedia_en": "Praxiteles",
+  "summary": "紀元前4世紀のアテナイの彫刻家。古典後期を代表し、しなやかなS字曲線をなす優美な身体表現と、柔らかな大理石の質感で知られる。女神の裸体像を本格的に表現した先駆者とされ、クニドスのアプロディテ像は古代世界で名高かった。作品の多くは原作が失われ、ローマ時代の模刻で伝わる。オリンピアで出土した『ヘルメスとディオニュソス』は原作とされることが多いが、議論もある。作品は優雅で官能的な表現により、ヘレニズム彫刻にも大きな影響を及ぼした。",
+  "keywords": [
+    "古典後期",
+    "大理石",
+    "裸体像",
+    "優美"
+  ],
+  "related": [
+    "phidias"
+  ],
+  "works": [
+    {
+      "title_ja": "クニドスのアプロディテ",
+      "title_en": "Aphrodite of Knidos",
+      "medium": "大理石",
+      "collection": "原作は失われた(ローマ時代の模刻が現存)"
+    },
+    {
+      "title_ja": "ヘルメスとディオニュソス",
+      "title_en": "Hermes and the Infant Dionysus",
+      "medium": "大理石",
+      "collection": "オリンピア考古学博物館"
+    },
+    {
+      "title_ja": "休息するサテュロス",
+      "title_en": "Resting Satyr",
+      "medium": "大理石",
+      "collection": "原作は失われた(ローマ時代の模刻が現存)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "robert-campin",
+  "name_ja": "ロベルト・カンパン",
+  "name_en": "Robert Campin",
+  "born": 1375,
+  "died": 1444,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "netherlands",
+  "movement": "early-netherlandish",
+  "wikipedia_ja": "ロベルト・カンパン",
+  "wikipedia_en": "Robert Campin",
+  "summary": "15世紀前半にトゥルネーで活躍した初期ネーデルラントの画家。『フレマールの画家』『メロードの祭壇画の画家』と同一視される。日常的な室内に宗教場面を置く写実的な表現を特徴とし、市民の暮らしの細部を描き込んだ。ロヒール・ファン・デル・ウェイデンの師とされ、初期ネーデルラント絵画の成立に大きく寄与した。ヤン・ファン・エイクと並んで油彩による新しい写実表現を切り拓いた。工房からは多くの弟子が育ち、その様式はネーデルラント各地に広まった。",
+  "keywords": [
+    "油彩",
+    "写実",
+    "メロード祭壇画",
+    "トゥルネー"
+  ],
+  "related": [
+    "rogier-van-der-weyden",
+    "jan-van-eyck"
+  ],
+  "works": [
+    {
+      "title_ja": "メロードの祭壇画",
+      "title_en": "Mérode Altarpiece",
+      "year": 1427,
+      "medium": "板に油彩",
+      "collection": "ニューヨーク、メトロポリタン美術館クロイスターズ"
+    },
+    {
+      "title_ja": "聖三位一体",
+      "title_en": "Holy Trinity",
+      "medium": "板に油彩",
+      "collection": "フランクフルト、シュテーデル美術館"
+    }
+  ]
+}

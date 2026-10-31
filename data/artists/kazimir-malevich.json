@@ -1,0 +1,37 @@
+{
+  "id": "kazimir-malevich",
+  "name_ja": "カジミール・マレーヴィチ",
+  "name_en": "Kazimir Malevich",
+  "born": 1879,
+  "died": 1935,
+  "region": "russia-east-europe",
+  "movement": "modern",
+  "wikipedia_ja": "カジミール・マレーヴィチ",
+  "wikipedia_en": "Kazimir Malevich",
+  "summary": "ウクライナ出身でロシアで活動した画家・理論家。キュビスムや未来派の影響を経て、1915年に『黒の正方形』を発表し、絵画を対象の再現から解放するシュプレマティスム（絶対主義）を提唱した。1918年の『白の上の白』など、さらに還元的な作品へ進んだ。その後は建築的な立体モデルや理論的著述に取り組み、晩年は具象に戻った。ロシア革命後は美術教育や研究機関でも指導的な役割を担い、晩年はスターリン体制下で苦境に置かれた。",
+  "keywords": [
+    "シュプレマティスム",
+    "抽象",
+    "ロシア・アヴァンギャルド"
+  ],
+  "related": [
+    "wassily-kandinsky",
+    "piet-mondrian"
+  ],
+  "works": [
+    {
+      "title_ja": "黒の正方形",
+      "title_en": "Black Square",
+      "year": 1915,
+      "medium": "油彩・カンヴァス",
+      "collection": "モスクワ、トレチャコフ美術館"
+    },
+    {
+      "title_ja": "白の上の白",
+      "title_en": "White on White",
+      "year": 1918,
+      "medium": "油彩・カンヴァス",
+      "collection": "ニューヨーク近代美術館"
+    }
+  ]
+}

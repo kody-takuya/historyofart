@@ -1,0 +1,61 @@
+{
+  "id": "caspar-david-friedrich",
+  "name_ja": "カスパー・ダーヴィト・フリードリヒ",
+  "name_en": "Caspar David Friedrich",
+  "born": 1774,
+  "died": 1840,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "germany",
+  "movement": "romanticism",
+  "wikipedia_ja": "カスパー・ダーヴィト・フリードリヒ",
+  "wikipedia_en": "Caspar David Friedrich",
+  "summary": "バルト海沿岸のグライフスヴァルトに生まれ、ドレスデンで活動したドイツ・ロマン主義の代表的画家。霧や海、山、廃墟などの風景に、孤独や宗教的感情、崇高さを込めた。後ろ姿の人物を配して鑑賞者を風景へと誘う構図が特徴的。晩年は病で制作が減り、没後は忘れられたが、20世紀に再評価された。コペンハーゲンの美術アカデミーで学び、のちドレスデンに定住して同地の美術アカデミーの教授にもなった。作品は宗教的な瞑想の性格を帯びることが多い。",
+  "keywords": [
+    "ロマン主義",
+    "風景画",
+    "崇高",
+    "後ろ姿"
+  ],
+  "related": [
+    "turner",
+    "william-blake"
+  ],
+  "works": [
+    {
+      "title_ja": "雲海の上の旅人",
+      "title_en": "Wanderer above the Sea of Fog",
+      "year": 1818,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハンブルク美術館"
+    },
+    {
+      "title_ja": "海辺の修道士",
+      "title_en": "Monk by the Sea",
+      "year": 1810,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン旧国立美術館"
+    },
+    {
+      "title_ja": "樫の森の修道院",
+      "title_en": "Abbey in the Oakwood",
+      "year": 1810,
+      "medium": "油彩・カンヴァス",
+      "collection": "ベルリン旧国立美術館"
+    },
+    {
+      "title_ja": "氷の海",
+      "title_en": "The Sea of Ice",
+      "year": 1824,
+      "medium": "油彩・カンヴァス",
+      "collection": "ハンブルク美術館"
+    },
+    {
+      "title_ja": "月を眺める二人の男",
+      "title_en": "Two Men Contemplating the Moon",
+      "year": 1820,
+      "medium": "油彩・カンヴァス",
+      "collection": "ドレスデン美術館"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "henri-rousseau",
+  "name_ja": "アンリ・ルソー",
+  "name_en": "Henri Rousseau",
+  "born": 1844,
+  "died": 1910,
+  "region": "france",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "アンリ・ルソー",
+  "wikipedia_en": "Henri Rousseau",
+  "summary": "パリの税関に勤めながら独学で絵を描き、「税関吏」の愛称で呼ばれた素朴派の画家。想像で描いたジャングルや異国の風景を、平坦で明快な色面と細密な描写で表した。アカデミックな評価は低かったが、ピカソやアポリネールら前衛の芸術家に敬愛された。退職後に画業へ専念し、独学で独自の様式を築いた。ジャングルの絵は、植物園や図版から着想を得たともいわれ、現実と夢想が混ざり合う独特の世界を持つ。素朴で率直な画面は、のちに素朴派と呼ばれる画家たちへの道を開いた。",
+  "keywords": [
+    "素朴派",
+    "ジャングル",
+    "独学"
+  ],
+  "related": [
+    "paul-gauguin"
+  ],
+  "works": [
+    {
+      "title_ja": "戦争",
+      "title_en": "War",
+      "year": 1894,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "眠れるジプシー女",
+      "title_en": "The Sleeping Gypsy",
+      "year": 1897,
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "蛇使いの女",
+      "title_en": "The Snake Charmer",
+      "year": 1907,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "夢",
+      "title_en": "The Dream",
+      "year": 1910,
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "詩人に霊感を与えるミューズ",
+      "title_en": "The Muse Inspiring the Poet",
+      "year": 1909
+    }
+  ]
+}

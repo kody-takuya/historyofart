@@ -1,0 +1,69 @@
+{
+  "id": "albrecht-durer",
+  "name_ja": "アルブレヒト・デューラー",
+  "name_en": "Albrecht Dürer",
+  "born": 1471,
+  "died": 1528,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "germany",
+  "movement": "renaissance",
+  "wikipedia_ja": "アルブレヒト・デューラー",
+  "wikipedia_en": "Albrecht Dürer",
+  "summary": "ニュルンベルク出身の北方ルネサンスを代表する画家・版画家。イタリアに旅し、遠近法や人体比例の理論を学んで北方に伝えた。精緻な線で描く木版画・銅版画で名高く、『黙示録』連作や『騎士と死と悪魔』『メランコリアI』などの傑作を残した。自画像を多く制作したことでも知られ、水彩による動植物の観察画も高く評価される。神聖ローマ皇帝マクシミリアン1世にも仕えた。その業績は、北方美術をイタリア・ルネサンスの水準に引き上げたと評価されている。",
+  "keywords": [
+    "版画",
+    "自画像",
+    "北方ルネサンス",
+    "ニュルンベルク"
+  ],
+  "related": [
+    "hans-holbein-the-younger",
+    "lucas-cranach-the-elder",
+    "matthias-grunewald"
+  ],
+  "works": [
+    {
+      "title_ja": "自画像(1500年)",
+      "title_en": "Self-Portrait at Twenty-Eight",
+      "year": 1500,
+      "medium": "板に油彩",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    },
+    {
+      "title_ja": "メランコリアI",
+      "title_en": "Melencolia I",
+      "year": 1514,
+      "medium": "銅版画",
+      "collection": "複数所蔵"
+    },
+    {
+      "title_ja": "騎士と死と悪魔",
+      "title_en": "Knight, Death and the Devil",
+      "year": 1513,
+      "medium": "銅版画",
+      "collection": "複数所蔵"
+    },
+    {
+      "title_ja": "書斎の聖ヒエロニムス",
+      "title_en": "Saint Jerome in His Study",
+      "year": 1514,
+      "medium": "銅版画",
+      "collection": "複数所蔵"
+    },
+    {
+      "title_ja": "野兎",
+      "title_en": "Young Hare",
+      "year": 1502,
+      "medium": "水彩・グワッシュ",
+      "collection": "ウィーン、アルベルティーナ美術館"
+    },
+    {
+      "title_ja": "四人の使徒",
+      "title_en": "The Four Apostles",
+      "year": 1526,
+      "medium": "板に油彩",
+      "collection": "ミュンヘン、アルテ・ピナコテーク"
+    }
+  ]
+}

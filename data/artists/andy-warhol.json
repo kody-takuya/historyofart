@@ -1,0 +1,22 @@
+{
+  "id": "andy-warhol",
+  "name_ja": "アンディ・ウォーホル",
+  "name_en": "Andy Warhol",
+  "born": 1928,
+  "died": 1987,
+  "region": "north-america",
+  "movement": "contemporary",
+  "wikipedia_ja": "アンディ・ウォーホル",
+  "wikipedia_en": "Andy Warhol",
+  "summary": "アメリカの美術家。ピッツバーグ生まれ。商業イラストレーターとして活動した後、1960年代にポップ・アートの旗手となった。キャンベルスープ缶、マリリン・モンローなどの大衆的なイメージを、シルクスクリーンによる反復で作品化した。ニューヨークの工房「ファクトリー」で制作し、映画やバンドのプロデュースなど多方面で活動した。1968年に銃撃を受けて重傷を負ったが回復し、その後も肖像画の注文制作や雑誌の創刊などで活動を続けた。",
+  "keywords": [
+    "ポップ・アート",
+    "シルクスクリーン",
+    "大量消費"
+  ],
+  "related": [
+    "roy-lichtenstein",
+    "marcel-duchamp"
+  ],
+  "works": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "turner",
+  "name_ja": "ジョゼフ・マロード・ウィリアム・ターナー",
+  "name_en": "J. M. W. Turner",
+  "born": 1775,
+  "died": 1851,
+  "born_approx": false,
+  "died_approx": false,
+  "region": "britain",
+  "movement": "romanticism",
+  "wikipedia_ja": "ジョゼフ・マロード・ウィリアム・ターナー",
+  "wikipedia_en": "J. M. W. Turner",
+  "summary": "ロンドン生まれのイギリスのロマン主義を代表する風景画家。水彩画と油彩で、嵐、海、霧、光の効果を大胆に表現した。若くして王立美術院の会員となり、旅行を重ねて各地の風景を描いた。晩年の作品は形態が光と色彩に溶け込み、後の印象派や抽象絵画の先駆とも評される。蒸気機関など同時代の題材も取り入れた。王立美術院で学び、イタリア、スイス、フランスなどを旅した。遺言で作品を国家に遺贈し、その多くが現在のテート・ブリテンなどに収まっている。",
+  "keywords": [
+    "風景画",
+    "水彩",
+    "光",
+    "崇高"
+  ],
+  "related": [
+    "claude-lorrain",
+    "constable"
+  ],
+  "works": [
+    {
+      "title_ja": "雨、蒸気、速度",
+      "title_en": "Rain, Steam and Speed",
+      "year": 1844,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "戦艦テメレール号",
+      "title_en": "The Fighting Temeraire",
+      "year": 1839,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "奴隷船",
+      "title_en": "The Slave Ship",
+      "year": 1840,
+      "medium": "油彩・カンヴァス",
+      "collection": "ボストン美術館"
+    },
+    {
+      "title_ja": "吹雪、港の沖合の蒸気船",
+      "title_en": "Snow Storm: Steam-Boat off a Harbour's Mouth",
+      "year": 1842,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    },
+    {
+      "title_ja": "日の出の中の怪物",
+      "title_en": "Norham Castle, Sunrise",
+      "year": 1845,
+      "medium": "油彩・カンヴァス",
+      "collection": "ロンドン、テート・ブリテン"
+    }
+  ]
+}

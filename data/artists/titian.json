@@ -1,0 +1,70 @@
+{
+  "id": "titian",
+  "name_ja": "ティツィアーノ・ヴェチェッリオ",
+  "name_en": "Titian",
+  "born": 1488,
+  "died": 1576,
+  "born_approx": true,
+  "died_approx": false,
+  "region": "italy",
+  "movement": "renaissance",
+  "wikipedia_ja": "ティツィアーノ・ヴェチェッリオ",
+  "wikipedia_en": "Titian",
+  "summary": "ヴェネツィア派を代表する画家。ベッリーニとジョルジョーネに学び、神聖ローマ皇帝カール5世やスペイン王フェリペ2世の宮廷画家として活躍した。豊かな色彩と、後年には大胆で自由な筆触を用い、神話画・宗教画・肖像画のすべてで傑作を残した。長寿を保ち、ヨーロッパ絵画に大きな影響を与え、ルーベンスやベラスケス、後の印象派の画家にまで影響が及んだ。その作品は、ヴェネツィア派の色彩主義を頂点にまで高めたものと評価されている。",
+  "keywords": [
+    "ヴェネツィア派",
+    "色彩",
+    "神話画",
+    "肖像画"
+  ],
+  "related": [
+    "giovanni-bellini",
+    "giorgione",
+    "tintoretto",
+    "veronese"
+  ],
+  "works": [
+    {
+      "title_ja": "ウルビーノのヴィーナス",
+      "title_en": "Venus of Urbino",
+      "year": 1538,
+      "medium": "画布に油彩",
+      "collection": "フィレンツェ、ウフィツィ美術館"
+    },
+    {
+      "title_ja": "聖母被昇天",
+      "title_en": "Assumption of the Virgin",
+      "year": 1518,
+      "medium": "板に油彩",
+      "collection": "ヴェネツィア、サンタ・マリア・グロリオーザ・デイ・フラーリ聖堂"
+    },
+    {
+      "title_ja": "バッカスとアリアドネ",
+      "title_en": "Bacchus and Ariadne",
+      "year": 1523,
+      "medium": "画布に油彩",
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "聖愛と俗愛",
+      "title_en": "Sacred and Profane Love",
+      "year": 1514,
+      "medium": "画布に油彩",
+      "collection": "ローマ、ボルゲーゼ美術館"
+    },
+    {
+      "title_ja": "ダナエ",
+      "title_en": "Danaë",
+      "year": 1544,
+      "medium": "画布に油彩",
+      "collection": "ナポリ、カポディモンテ美術館"
+    },
+    {
+      "title_ja": "ミュールベルクのカール5世",
+      "title_en": "Charles V at Mühlberg",
+      "year": 1548,
+      "medium": "画布に油彩",
+      "collection": "マドリード、プラド美術館"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "alfred-sisley",
+  "name_ja": "アルフレッド・シスレー",
+  "name_en": "Alfred Sisley",
+  "born": 1839,
+  "died": 1899,
+  "region": "france",
+  "movement": "impressionism",
+  "wikipedia_ja": "アルフレッド・シスレー",
+  "wikipedia_en": "Alfred Sisley",
+  "summary": "パリ生まれのイギリス人の画家で、印象派の中でも風景画に徹した人物。セーヌ川流域の村々の水辺や空を、穏やかな色調で描き続けた。生前は経済的に恵まれず、評価も高くなかったが、没後に認められるようになった。『マルリーの洪水』連作などが知られている。風景のなかの空の表情を重視し、洪水の水面や雪景色、川辺の村を繰り返し描いた。穏やかな画風は、印象派の本質を最も純粋に体現するものと見なされることもある。静かな画面には、水辺の空気や季節の移ろいが丁寧に写し取られている。",
+  "keywords": [
+    "印象派",
+    "風景画",
+    "セーヌ川"
+  ],
+  "related": [
+    "claude-monet",
+    "camille-pissarro"
+  ],
+  "works": [
+    {
+      "title_ja": "マルリーの洪水",
+      "title_en": "Flood at Port-Marly",
+      "year": 1876,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "ルーヴシエンヌの雪",
+      "title_en": "Snow at Louveciennes",
+      "year": 1878
+    },
+    {
+      "title_ja": "モレの橋",
+      "title_en": "The Bridge at Moret",
+      "year": 1893
+    },
+    {
+      "title_ja": "サン＝マメスの川岸",
+      "title_en": "Banks of the Loing"
+    },
+    {
+      "title_ja": "アルジャントゥイユの橋",
+      "title_en": "Bridge at Argenteuil",
+      "year": 1872
+    }
+  ]
+}

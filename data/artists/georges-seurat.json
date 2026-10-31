@@ -1,0 +1,51 @@
+{
+  "id": "georges-seurat",
+  "name_ja": "ジョルジュ・スーラ",
+  "name_en": "Georges Seurat",
+  "born": 1859,
+  "died": 1891,
+  "region": "france",
+  "movement": "post-impressionism",
+  "wikipedia_ja": "ジョルジュ・スーラ",
+  "wikipedia_en": "Georges Seurat",
+  "summary": "パリ出身の画家で、新印象主義の創始者。色彩の光学理論に関心を持ち、小さな色の点を並置して混色を視覚に委ねる点描技法を確立した。代表作『グランド・ジャット島の日曜日の午後』は数年をかけて制作された。31歳で急逝し、作品数は多くない。短い生涯のなかでも、素描の黒白の階調にも優れた表現を残している。科学的な手法で絵画を再構築しようとした姿勢は、後世の抽象芸術にもつながる。『グランド・ジャット島』は点描の代表作として、世界的に知られる。",
+  "keywords": [
+    "新印象主義",
+    "点描",
+    "色彩理論"
+  ],
+  "related": [
+    "paul-signac",
+    "camille-pissarro"
+  ],
+  "works": [
+    {
+      "title_ja": "アニエールの水浴",
+      "title_en": "Bathers at Asnières",
+      "year": 1884,
+      "collection": "ロンドン、ナショナル・ギャラリー"
+    },
+    {
+      "title_ja": "グランド・ジャット島の日曜日の午後",
+      "title_en": "A Sunday Afternoon on the Island of La Grande Jatte",
+      "year": 1886,
+      "collection": "シカゴ美術館"
+    },
+    {
+      "title_ja": "サーカス",
+      "title_en": "The Circus",
+      "year": 1891,
+      "collection": "パリ、オルセー美術館"
+    },
+    {
+      "title_ja": "グラヴリーヌの水路、大海へ",
+      "title_en": "The Channel of Gravelines",
+      "year": 1890
+    },
+    {
+      "title_ja": "モデルたち",
+      "title_en": "Models",
+      "year": 1888
+    }
+  ]
+}

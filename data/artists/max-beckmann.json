@@ -1,0 +1,43 @@
+{
+  "id": "max-beckmann",
+  "name_ja": "マックス・ベックマン",
+  "name_en": "Max Beckmann",
+  "born": 1884,
+  "died": 1950,
+  "region": "germany",
+  "movement": "modern",
+  "wikipedia_ja": "マックス・ベックマン",
+  "wikipedia_en": "Max Beckmann",
+  "summary": "ドイツの画家。第一次世界大戦の従軍体験を経て、新即物主義の流れに連なる冷徹で硬質な画風に転じた。三連画の形式で寓意的な主題を描いたことで知られる。ナチスから「退廃芸術」とされ、1937年にアムステルダムへ亡命し、のちにアメリカに渡った。ニューヨークで没した。生涯を通じて自画像を数多く描き、神話や寓意を借りて同時代の不安と人間存在を見つめ続けた。ライプツィヒに生まれ、ヴァイマルで学び、ベルリンやフランクフルトで活動した後、亡命生活を送った。",
+  "keywords": [
+    "新即物主義",
+    "三連画",
+    "自画像"
+  ],
+  "related": [
+    "ernst-ludwig-kirchner"
+  ],
+  "works": [
+    {
+      "title_ja": "出発",
+      "title_en": "Departure",
+      "year": 1932,
+      "medium": "油彩・カンヴァス（三連画）",
+      "collection": "ニューヨーク近代美術館"
+    },
+    {
+      "title_ja": "夜",
+      "title_en": "The Night",
+      "year": 1918,
+      "medium": "油彩・カンヴァス",
+      "collection": "デュッセルドルフ、ノルトライン＝ヴェストファーレン美術館"
+    },
+    {
+      "title_ja": "タキシードの自画像",
+      "title_en": "Self-Portrait in Tuxedo",
+      "year": 1927,
+      "medium": "油彩・カンヴァス",
+      "collection": "ケンブリッジ、ハーヴァード美術館"
+    }
+  ]
+}

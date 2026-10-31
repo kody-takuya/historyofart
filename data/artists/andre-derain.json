@@ -1,0 +1,40 @@
+{
+  "id": "andre-derain",
+  "name_ja": "アンドレ・ドラン",
+  "name_en": "André Derain",
+  "born": 1880,
+  "died": 1954,
+  "region": "france",
+  "movement": "modern",
+  "wikipedia_ja": "アンドレ・ドラン",
+  "wikipedia_en": "André Derain",
+  "summary": "フランスの画家。マティスとともにフォーヴィスムを牽引した。1905年夏にコリウールでマティスと制作し、強烈な原色を用いた風景画を生み出した。1906年にはロンドンのテムズ川の連作を手がけた。その後は次第にセザンヌや古典的な構成に回帰し、キュビスムとも距離を取りつつ独自の様式を追求した。挿絵や舞台美術にも活動を広げた。若い頃から画家ヴラマンクと親しく、後年は古典や中世美術への関心を深めた点でも知られている。",
+  "keywords": [
+    "フォーヴィスム",
+    "風景",
+    "色彩"
+  ],
+  "related": [
+    "henri-matisse"
+  ],
+  "works": [
+    {
+      "title_ja": "チャリング・クロス橋",
+      "title_en": "Charing Cross Bridge",
+      "year": 1906,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "コリウールの港",
+      "title_en": "Port of Collioure",
+      "year": 1905,
+      "medium": "油彩・カンヴァス"
+    },
+    {
+      "title_ja": "マティスの肖像",
+      "title_en": "Portrait of Henri Matisse",
+      "year": 1905,
+      "medium": "油彩・カンヴァス"
+    }
+  ]
+}
