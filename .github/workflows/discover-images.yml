@@ -1,0 +1,17 @@
+name: Discover images
+on: { workflow_dispatch: {} }
+permissions: { contents: write, pull-requests: write }
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node scripts/discover-images.mjs && node scripts/resolve-images.mjs
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/discover-images
+          title: 作品画像の候補を追加（Wikimedia Commons）
+          body: Commons を検索して追加した画像候補です。作品と画像が合っているか確認のうえマージしてください。ライセンスが自由なもの以外は自動で除外されています。
+          commit-message: Add Commons image candidates
