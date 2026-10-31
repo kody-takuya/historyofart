@@ -3,12 +3,20 @@ export const TEXT_MODEL = process.env.GEMINI_TEXT_MODEL || 'gemini-3.8-flash';
 export const TTS_MODEL = process.env.GEMINI_TTS_MODEL || 'gemini-3.8-flash-lite-preview-tts';
 const key = () => { if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が未設定です'); return process.env.GEMINI_API_KEY; };
 
+export const usage = [];
+
 async function call(model, body, tries = 4) {
   for (let i = 0; i < tries; i++) {
     const res = await fetch(`${BASE}/models/${model}:generateContent`, {
       method: 'POST', headers: { 'content-type': 'application/json', 'x-goog-api-key': key() }, body: JSON.stringify(body),
     });
-    if (res.ok) return res.json();
+    if (res.ok) {
+      const j = await res.json();
+      const u = j.usageMetadata || {};
+      usage.push({ model, prompt: u.promptTokenCount, output: u.candidatesTokenCount, thoughts: u.thoughtsTokenCount, total: u.totalTokenCount, detail: u });
+      console.log(`usage ${model}: ${JSON.stringify(u)}`);
+      return j;
+    }
     if (res.status === 404) {
       const l = await fetch(`${BASE}/models?pageSize=200`, { headers: { 'x-goog-api-key': key() } }).then((r) => r.json()).catch(() => ({}));
       throw new Error(`モデル ${model} が見つかりません。利用可能: ${(l.models || []).map((m) => m.name.replace('models/', '')).join(', ')}`);

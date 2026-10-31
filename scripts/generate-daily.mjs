@@ -3,7 +3,7 @@ import { writeFileSync, existsSync, mkdirSync, readFileSync, statSync } from 'no
 import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, loadArtists, loadPosts, loadThemes } from './lib/data.mjs';
-import { generateJson, synthesize, pcmToWav } from './lib/gemini.mjs';
+import { generateJson, synthesize, pcmToWav, usage } from './lib/gemini.mjs';
 
 const jst = new Date(Date.now() + 9 * 3600e3);
 const today = process.env.TARGET_DATE || jst.toISOString().slice(0, 10);
@@ -67,7 +67,7 @@ execFileSync('gcloud', ['storage', 'cp', mp3, `gs://${bucket}/podcast/${today}.m
 const post = {
   kind: 'daily', date: today, slug: today, theme: theme.title, title: draft.title, lede: draft.lede,
   audio: { url: `https://storage.googleapis.com/${bucket}/podcast/${today}.mp3`, minutes: Math.round(seconds / 60), bytes: statSync(mp3).size },
-  transcript: draft.transcript, paragraphs: draft.paragraphs, artists: used, works,
+  usage, transcript: draft.transcript, paragraphs: draft.paragraphs, artists: used, works,
 };
 writeFileSync(file, JSON.stringify(post, null, 1));
 console.log(`生成: ${post.title}（${Math.round(seconds)}秒）`);
