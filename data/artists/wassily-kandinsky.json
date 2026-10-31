@@ -24,27 +24,31 @@
       "title_en": "Composition VII",
       "year": 1913,
       "medium": "油彩・カンヴァス",
-      "collection": "モスクワ、トレチャコフ美術館"
+      "collection": "モスクワ、トレチャコフ美術館",
+      "commons_file": "Composition VII - Wassily Kandinsky, GAC.jpg"
     },
     {
       "title_ja": "青騎士",
       "title_en": "The Blue Rider",
       "year": 1903,
-      "medium": "油彩・カンヴァス"
+      "medium": "油彩・カンヴァス",
+      "commons_file": "Kandinsky-Blue Rider.jpg"
     },
     {
       "title_ja": "黄・赤・青",
       "title_en": "Yellow-Red-Blue",
       "year": 1925,
       "medium": "油彩・カンヴァス",
-      "collection": "パリ、ポンピドゥー・センター"
+      "collection": "パリ、ポンピドゥー・センター",
+      "commons_file": "Kandinsky - Jaune Rouge Bleu.jpg"
     },
     {
       "title_ja": "コンポジションVIII",
       "title_en": "Composition VIII",
       "year": 1923,
       "medium": "油彩・カンヴァス",
-      "collection": "ニューヨーク、グッゲンハイム美術館"
+      "collection": "ニューヨーク、グッゲンハイム美術館",
+      "commons_file": "Kandinsky - Composition 8, July 1923.jpg"
     }
   ]
 }

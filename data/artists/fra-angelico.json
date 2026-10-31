@@ -27,27 +27,31 @@
       "title_en": "Annunciation",
       "year": 1440,
       "medium": "フレスコ",
-      "collection": "フィレンツェ、サン・マルコ美術館"
+      "collection": "フィレンツェ、サン・マルコ美術館",
+      "commons_file": "La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg"
     },
     {
       "title_ja": "受胎告知(プラド)",
       "title_en": "Annunciation (Prado)",
       "year": 1426,
       "medium": "板にテンペラ",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "La Anunciación, by Fra Angelico, from Prado in Google Earth.jpg"
     },
     {
       "title_ja": "聖母戴冠",
       "title_en": "Coronation of the Virgin",
       "medium": "板にテンペラ",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Fra Angelico - The Coronation of the Virgin - WGA0630.jpg"
     },
     {
       "title_ja": "キリストの嘲弄",
       "title_en": "Mocking of Christ",
       "year": 1440,
       "medium": "フレスコ",
-      "collection": "フィレンツェ、サン・マルコ美術館"
+      "collection": "フィレンツェ、サン・マルコ美術館",
+      "commons_file": "Fra Angelico - Mocking of Christ (Cell 7) - WGA00541.jpg"
     }
   ]
 }

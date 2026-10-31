@@ -27,35 +27,40 @@
       "title_en": "Wanderer above the Sea of Fog",
       "year": 1818,
       "medium": "油彩・カンヴァス",
-      "collection": "ハンブルク美術館"
+      "collection": "ハンブルク美術館",
+      "commons_file": "Caspar David Friedrich - Wanderer above the sea of fog.jpg"
     },
     {
       "title_ja": "海辺の修道士",
       "title_en": "Monk by the Sea",
       "year": 1810,
       "medium": "油彩・カンヴァス",
-      "collection": "ベルリン旧国立美術館"
+      "collection": "ベルリン旧国立美術館",
+      "commons_file": "Caspar David Friedrich - Monk by the Sea.jpg"
     },
     {
       "title_ja": "樫の森の修道院",
       "title_en": "Abbey in the Oakwood",
       "year": 1810,
       "medium": "油彩・カンヴァス",
-      "collection": "ベルリン旧国立美術館"
+      "collection": "ベルリン旧国立美術館",
+      "commons_file": "The Abbey in the Oakwood by Caspar David Friedrich.jpg"
     },
     {
       "title_ja": "氷の海",
       "title_en": "The Sea of Ice",
       "year": 1824,
       "medium": "油彩・カンヴァス",
-      "collection": "ハンブルク美術館"
+      "collection": "ハンブルク美術館",
+      "commons_file": "Caspar David Friedrich - Das Eismeer - Hamburger Kunsthalle - 02.jpg"
     },
     {
       "title_ja": "月を眺める二人の男",
       "title_en": "Two Men Contemplating the Moon",
       "year": 1820,
       "medium": "油彩・カンヴァス",
-      "collection": "ドレスデン美術館"
+      "collection": "ドレスデン美術館",
+      "commons_file": "Friedrich - Two Men Contemplating the Moon.jpg"
     }
   ]
 }

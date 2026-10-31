@@ -24,28 +24,33 @@
       "title_ja": "リンゴとオレンジ",
       "title_en": "Still Life with Apples and Oranges",
       "year": 1899,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Nature morte aux pommes et aux oranges, par Paul Cézanne.jpg"
     },
     {
       "title_ja": "カード遊びをする人々",
       "title_en": "The Card Players",
-      "year": 1892
+      "year": 1892,
+      "commons_file": "Les Joueurs de cartes, par Paul Cézanne.jpg"
     },
     {
       "title_ja": "サント＝ヴィクトワール山",
       "title_en": "Mont Sainte-Victoire",
-      "year": 1904
+      "year": 1904,
+      "commons_file": "La Montagne Sainte-Victoire vue de la carrière Bibémus, par Paul Cézanne.jpg"
     },
     {
       "title_ja": "大水浴図",
       "title_en": "The Large Bathers",
       "year": 1906,
-      "collection": "フィラデルフィア美術館"
+      "collection": "フィラデルフィア美術館",
+      "commons_file": "Paul Cézanne, French - The Large Bathers - Google Art Project.jpg"
     },
     {
       "title_ja": "赤いチョッキの少年",
       "title_en": "Boy in a Red Waistcoat",
-      "year": 1889
+      "year": 1889,
+      "commons_file": "Le Garçon au gilet rouge, par Paul Cézanne, National Gallery of Art.jpg"
     }
   ]
 }

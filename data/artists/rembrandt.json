@@ -28,21 +28,24 @@
       "title_en": "The Night Watch",
       "year": 1642,
       "medium": "油彩・カンヴァス",
-      "collection": "アムステルダム国立美術館"
+      "collection": "アムステルダム国立美術館",
+      "commons_file": "La ronda de noche, por Rembrandt van Rijn.jpg"
     },
     {
       "title_ja": "テュルプ博士の解剖学講義",
       "title_en": "The Anatomy Lesson of Dr. Nicolaes Tulp",
       "year": 1632,
       "medium": "油彩・カンヴァス",
-      "collection": "ハーグ、マウリッツハイス美術館"
+      "collection": "ハーグ、マウリッツハイス美術館",
+      "commons_file": "Den Haag - Mauritshuis - Rembrandt Harmensz. van Rijn (1606-1669) - The Anatomy Lesson of Dr. Nicolaes Tulp 1632.jpg"
     },
     {
       "title_ja": "放蕩息子の帰還",
       "title_en": "The Return of the Prodigal Son",
       "year": 1669,
       "medium": "油彩・カンヴァス",
-      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+      "collection": "サンクトペテルブルク、エルミタージュ美術館",
+      "commons_file": "Rembrandt Harmensz van Rijn - Return of the Prodigal Son - Google Art Project.jpg"
     },
     {
       "title_ja": "織物商組合の幹部たち",
@@ -56,14 +59,16 @@
       "title_en": "The Jewish Bride",
       "year": 1665,
       "medium": "油彩・カンヴァス",
-      "collection": "アムステルダム国立美術館"
+      "collection": "アムステルダム国立美術館",
+      "commons_file": "Rembrandt Harmensz. van Rijn - Portret van een paar als oudtestamentische figuren, genaamd 'Het Joodse bruidje' - Google Art Project.jpg"
     },
     {
       "title_ja": "ダナエ",
       "title_en": "Danaë",
       "year": 1636,
       "medium": "油彩・カンヴァス",
-      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+      "collection": "サンクトペテルブルク、エルミタージュ美術館",
+      "commons_file": "Rembrandt van Rijn - Danaë 1636-1643.jpg"
     }
   ]
 }

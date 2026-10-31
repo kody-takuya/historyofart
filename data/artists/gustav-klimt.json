@@ -22,28 +22,33 @@
     {
       "title_ja": "ユディトI",
       "title_en": "Judith I",
-      "year": 1901
+      "year": 1901,
+      "commons_file": "(Venice) Gustav Klimt - Giuditta II (Judith II) - Museo d'arte moderna.jpg"
     },
     {
       "title_ja": "接吻",
       "title_en": "The Kiss",
       "year": 1908,
-      "collection": "ウィーン、ベルヴェデーレ宮殿"
+      "collection": "ウィーン、ベルヴェデーレ宮殿",
+      "commons_file": "The Kiss - Gustav Klimt - Google Cultural Institute.jpg"
     },
     {
       "title_ja": "アデーレ・ブロッホ＝バウアーの肖像",
       "title_en": "Portrait of Adele Bloch-Bauer I",
-      "year": 1907
+      "year": 1907,
+      "commons_file": "Gustav Klimt, 1907, Adele Bloch-Bauer I, Neue Galerie New York.jpg"
     },
     {
       "title_ja": "ダナエ",
       "title_en": "Danaë",
-      "year": 1907
+      "year": 1907,
+      "commons_file": "Gustav Klimt 010.jpg"
     },
     {
       "title_ja": "生命の樹",
       "title_en": "The Tree of Life",
-      "year": 1909
+      "year": 1909,
+      "commons_file": "Klimt - Nine Cartoons for the Stoclet Frieze- Part 4, Part of the tree of life (1910-11).jpg"
     }
   ]
 }

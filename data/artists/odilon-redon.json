@@ -23,13 +23,15 @@
       "title_ja": "キュクロプス",
       "title_en": "The Cyclops",
       "year": 1914,
-      "collection": "オッテルロー、クレラー＝ミュラー美術館"
+      "collection": "オッテルロー、クレラー＝ミュラー美術館",
+      "commons_file": "Odilon Redon - The Cyclops, c. 1914.jpg"
     },
     {
       "title_ja": "閉じた目",
       "title_en": "Closed Eyes",
       "year": 1890,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Odilon Redon - Closed Eyes - Google Art Project.jpg"
     },
     {
       "title_ja": "目＝気球",
@@ -38,7 +40,8 @@
     },
     {
       "title_ja": "アポロンの馬車",
-      "title_en": "Apollo's Chariot"
+      "title_en": "Apollo's Chariot",
+      "commons_file": "Redon, Apollo-s-chariot-1912.jpg"
     }
   ]
 }

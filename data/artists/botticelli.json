@@ -27,35 +27,40 @@
       "title_en": "The Birth of Venus",
       "year": 1485,
       "medium": "画布にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Sandro Botticelli 046.jpg"
     },
     {
       "title_ja": "春(プリマヴェーラ)",
       "title_en": "Primavera",
       "year": 1482,
       "medium": "板にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Botticelli-primavera.jpg"
     },
     {
       "title_ja": "東方三博士の礼拝",
       "title_en": "Adoration of the Magi",
       "year": 1475,
       "medium": "板にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Adoration of the Magi by Sandro Botticelli-Uffizi.jpg"
     },
     {
       "title_ja": "マニフィカトの聖母",
       "title_en": "Madonna of the Magnificat",
       "year": 1483,
       "medium": "板にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Magnificat Madonna - Botticelli (uffici) b.jpg"
     },
     {
       "title_ja": "ヴィーナスとマルス",
       "title_en": "Venus and Mars",
       "year": 1485,
       "medium": "板にテンペラと油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Venus and Mars, Sandro Botticelli.jpg"
     }
   ]
 }

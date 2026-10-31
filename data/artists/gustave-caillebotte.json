@@ -24,28 +24,33 @@
       "title_ja": "パリの通り、雨の日",
       "title_en": "Paris Street; Rainy Day",
       "year": 1877,
-      "collection": "シカゴ美術館"
+      "collection": "シカゴ美術館",
+      "commons_file": "Gustave Caillebotte - Paris Street; Rainy Day - Google Art Project.jpg"
     },
     {
       "title_ja": "ヨーロッパ橋",
       "title_en": "Le Pont de l'Europe",
-      "year": 1876
+      "year": 1876,
+      "commons_file": "Caillebotte-PontdeL'Europe-Geneva.jpg"
     },
     {
       "title_ja": "床削り",
       "title_en": "The Floor Scrapers",
       "year": 1875,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Gustave Caillebotte-Floor-scrapers (1876).jpg"
     },
     {
       "title_ja": "ボート漕ぎ",
       "title_en": "Oarsmen",
-      "year": 1877
+      "year": 1877,
+      "commons_file": "G. Caillebotte - Canotiers ramant sur l'Yerres.jpg"
     },
     {
       "title_ja": "窓辺の若い男",
       "title_en": "Young Man at His Window",
-      "year": 1875
+      "year": 1875,
+      "commons_file": "Gustave Caillebotte - Jeune homme à sa fenêtre (B 32).jpg"
     }
   ]
 }

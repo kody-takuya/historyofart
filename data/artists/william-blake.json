@@ -27,20 +27,23 @@
       "title_en": "The Ancient of Days",
       "year": 1794,
       "medium": "レリーフ・エッチング（手彩色）",
-      "collection": "オックスフォード、ボドリアン図書館"
+      "collection": "オックスフォード、ボドリアン図書館",
+      "commons_file": "Letters of William Blake, page 34 (The Ancient of Days).jpeg"
     },
     {
       "title_ja": "ニュートン",
       "title_en": "Newton",
       "year": 1795,
       "medium": "カラー印刷・水彩",
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "Newton-WilliamBlake.jpg"
     },
     {
       "title_ja": "無垢と経験の歌",
       "title_en": "Songs of Innocence and of Experience",
       "year": 1794,
-      "medium": "彩色エッチング"
+      "medium": "彩色エッチング",
+      "commons_file": "William Blake - Songs of Innocence and Experience - The Lamb.jpg"
     },
     {
       "title_ja": "神曲の挿絵",
@@ -52,7 +55,8 @@
       "title_ja": "ヨブ記の挿絵",
       "title_en": "Illustrations of the Book of Job",
       "year": 1826,
-      "medium": "エングレーヴィング"
+      "medium": "エングレーヴィング",
+      "commons_file": "William Blake - Illustrations of the Book of Job - B1978.43.1502V - Yale Center for British Art.jpg"
     }
   ]
 }

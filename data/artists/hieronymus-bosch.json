@@ -27,35 +27,40 @@
       "title_en": "The Garden of Earthly Delights",
       "year": 1500,
       "medium": "板に油彩",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "The Garden of Earthly Delights by Bosch High Resolution.jpg"
     },
     {
       "title_ja": "干草車",
       "title_en": "The Haywain Triptych",
       "year": 1500,
       "medium": "板に油彩",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "Bosch - Haywain Triptych.jpg"
     },
     {
       "title_ja": "聖アントニウスの誘惑",
       "title_en": "Temptation of St Anthony",
       "year": 1501,
       "medium": "板に油彩",
-      "collection": "リスボン国立古美術館"
+      "collection": "リスボン国立古美術館",
+      "commons_file": "The Temptation of St Anthony (Bosch).jpg"
     },
     {
       "title_ja": "愚者の船",
       "title_en": "Ship of Fools",
       "year": 1500,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Jheronimus Bosch 011.jpg"
     },
     {
       "title_ja": "十字架を担うキリスト",
       "title_en": "Christ Carrying the Cross",
       "year": 1500,
       "medium": "板に油彩",
-      "collection": "ゲント美術館"
+      "collection": "ゲント美術館",
+      "commons_file": "Bosch - Christ Carrying the Cross, ca. 1510 - ca. 1516, Inv. 1902-H.jpg"
     }
   ]
 }

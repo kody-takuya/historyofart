@@ -29,42 +29,48 @@
       "title_en": "The Calling of Saint Matthew",
       "year": 1600,
       "medium": "油彩・カンヴァス",
-      "collection": "ローマ、サン・ルイジ・デイ・フランチェージ聖堂"
+      "collection": "ローマ、サン・ルイジ・デイ・フランチェージ聖堂",
+      "commons_file": "Caravaggio, Michelangelo Merisi da - The Calling of Saint Matthew - 1599-1600 (hi res).jpg"
     },
     {
       "title_ja": "果物籠を持つ少年",
       "title_en": "Boy with a Basket of Fruit",
       "year": 1593,
       "medium": "油彩・カンヴァス",
-      "collection": "ローマ、ボルゲーゼ美術館"
+      "collection": "ローマ、ボルゲーゼ美術館",
+      "commons_file": "Boy with a Basket of Fruit by Caravaggio.jpg"
     },
     {
       "title_ja": "エマオの晩餐",
       "title_en": "Supper at Emmaus",
       "year": 1601,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Supper at Emmaus-Caravaggio (1606).jpg"
     },
     {
       "title_ja": "聖母の死",
       "title_en": "Death of the Virgin",
       "year": 1606,
       "medium": "油彩・カンヴァス",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Death of the Virgin-Caravaggio (1606).jpg"
     },
     {
       "title_ja": "ホロフェルネスの首を斬るユディト",
       "title_en": "Judith Beheading Holofernes",
       "year": 1599,
       "medium": "油彩・カンヴァス",
-      "collection": "ローマ、国立古典絵画館（バルベリーニ宮）"
+      "collection": "ローマ、国立古典絵画館（バルベリーニ宮）",
+      "commons_file": "Judith Beheading Holofernes - Caravaggio.jpg"
     },
     {
       "title_ja": "バッカス",
       "title_en": "Bacchus",
       "year": 1596,
       "medium": "油彩・カンヴァス",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Bacchus by Caravaggio 1.jpg"
     }
   ]
 }

@@ -22,29 +22,34 @@
     {
       "title_ja": "聖母マリアの少女時代",
       "title_en": "The Girlhood of Mary Virgin",
-      "year": 1849
+      "year": 1849,
+      "commons_file": "Dante Gabriel Rossetti - The Girlhood of Mary Virgin.jpg"
     },
     {
       "title_ja": "受胎告知",
       "title_en": "Ecce Ancilla Domini!",
       "year": 1850,
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "Dante Gabriel Rossetti - Ecce Ancilla Domini! - Google Art Project.jpg"
     },
     {
       "title_ja": "ベアタ・ベアトリクス",
       "title_en": "Beata Beatrix",
       "year": 1870,
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "Dante Gabriel Rossetti - Beata Beatrix, 1864-1870.jpg"
     },
     {
       "title_ja": "プロセルピナ",
       "title_en": "Proserpine",
-      "year": 1874
+      "year": 1874,
+      "commons_file": "Dante Gabriel Rossetti - Proserpine - Google Art Project.jpg"
     },
     {
       "title_ja": "レディ・リリス",
       "title_en": "Lady Lilith",
-      "year": 1868
+      "year": 1868,
+      "commons_file": "Dante Gabriel Rossetti - Lady Lilith (FXD).jpg"
     }
   ]
 }

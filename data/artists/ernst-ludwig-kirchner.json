@@ -23,21 +23,24 @@
       "title_en": "Berlin Street Scene",
       "year": 1913,
       "medium": "油彩・カンヴァス",
-      "collection": "ニューヨーク近代美術館ほか"
+      "collection": "ニューヨーク近代美術館ほか",
+      "commons_file": "Kirchner Berlin Street Scene 1913.jpg"
     },
     {
       "title_ja": "ポツダム広場",
       "title_en": "Potsdamer Platz",
       "year": 1914,
       "medium": "油彩・カンヴァス",
-      "collection": "ベルリン国立美術館"
+      "collection": "ベルリン国立美術館",
+      "commons_file": "Ernst Ludwig Kirchner - Potsdamer Platz.jpg"
     },
     {
       "title_ja": "兵士としての自画像",
       "title_en": "Self-Portrait as a Soldier",
       "year": 1915,
       "medium": "油彩・カンヴァス",
-      "collection": "オバーリン大学アレン記念美術館"
+      "collection": "オバーリン大学アレン記念美術館",
+      "commons_file": "Kirchner - Selbstbildnis als Soldat.jpg"
     }
   ]
 }

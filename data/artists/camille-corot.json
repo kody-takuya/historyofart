@@ -23,28 +23,33 @@
       "title_ja": "モルトフォンテーヌの思い出",
       "title_en": "Souvenir de Mortefontaine",
       "year": 1864,
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Souvenir de Mortefontaine - Jean-Baptiste Camille Corot - Musée du Louvre Peintures MI 692 bis - photo 2.jpg"
     },
     {
       "title_ja": "真珠の女",
       "title_en": "The Woman with a Pearl",
       "year": 1858,
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Camille Corot - Woman with a Pearl.jpg"
     },
     {
       "title_ja": "ヴィル・ダヴレー",
-      "title_en": "Ville-d'Avray"
+      "title_en": "Ville-d'Avray",
+      "commons_file": "Jean Baptiste Camille Corot - Interrupted Reading - 1922.410 - Art Institute of Chicago.jpg"
     },
     {
       "title_ja": "ナルニの橋",
       "title_en": "The Bridge at Narni",
       "year": 1826,
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Corot - The Bridge at Narni, 1827.jpg"
     },
     {
       "title_ja": "シャルトル大聖堂",
       "title_en": "Chartres Cathedral",
-      "year": 1830
+      "year": 1830,
+      "commons_file": "Jean-Baptiste-Camille Corot - The Cathedral of Chartres - WGA5282.jpg"
     }
   ]
 }

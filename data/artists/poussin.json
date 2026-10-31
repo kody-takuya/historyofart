@@ -27,28 +27,32 @@
       "title_en": "Et in Arcadia ego",
       "year": 1638,
       "medium": "油彩・カンヴァス",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Nicolas Poussin - Et in Arcadia ego (deuxième version).jpg"
     },
     {
       "title_ja": "サビニの女たちの略奪",
       "title_en": "The Rape of the Sabine Women",
       "year": 1634,
       "medium": "油彩・カンヴァス",
-      "collection": "ニューヨーク、メトロポリタン美術館"
+      "collection": "ニューヨーク、メトロポリタン美術館",
+      "commons_file": "L'Enlèvement des Sabines - Nicolas Poussin - Musée du Louvre Peintures INV 7290 ; MR 2335.jpg"
     },
     {
       "title_ja": "七秘跡",
       "title_en": "The Seven Sacraments",
       "year": 1647,
       "medium": "油彩・カンヴァス",
-      "collection": "エディンバラ、スコットランド国立美術館"
+      "collection": "エディンバラ、スコットランド国立美術館",
+      "commons_file": "Seven Sacraments - Confirmation I (1637-1640) Nicolas Poussin at Dulwich Picture Gallery, June 2018.jpg"
     },
     {
       "title_ja": "ゲルマニクスの死",
       "title_en": "The Death of Germanicus",
       "year": 1627,
       "medium": "油彩・カンヴァス",
-      "collection": "ミネアポリス美術館"
+      "collection": "ミネアポリス美術館",
+      "commons_file": "Nicolas Poussin - The Death of Germanicus - Google Art Project.jpg"
     },
     {
       "title_ja": "自画像",
@@ -62,7 +66,8 @@
       "title_en": "The Triumph of Neptune and Amphitrite",
       "year": 1634,
       "medium": "油彩・カンヴァス",
-      "collection": "フィラデルフィア美術館"
+      "collection": "フィラデルフィア美術館",
+      "commons_file": "Study for the Triumph of Neptune and Amphitrite or the Birth of Venus, by Nicolas Poussin (Getty 103R05).jpg"
     }
   ]
 }

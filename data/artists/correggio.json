@@ -27,28 +27,32 @@
       "title_en": "Assumption of the Virgin",
       "year": 1530,
       "medium": "フレスコ",
-      "collection": "パルマ大聖堂"
+      "collection": "パルマ大聖堂",
+      "commons_file": "Cathedral (Parma) - Assumption by Correggio.jpg"
     },
     {
       "title_ja": "ユピテルとイオ",
       "title_en": "Jupiter and Io",
       "year": 1531,
       "medium": "画布に油彩",
-      "collection": "ウィーン美術史美術館"
+      "collection": "ウィーン美術史美術館",
+      "commons_file": "Antonio Allegri, called Correggio - Jupiter and Io - Google Art Project.jpg"
     },
     {
       "title_ja": "聖夜(羊飼いの礼拝)",
       "title_en": "Holy Night",
       "year": 1530,
       "medium": "板に油彩",
-      "collection": "ドレスデン、アルテ・マイスター絵画館"
+      "collection": "ドレスデン、アルテ・マイスター絵画館",
+      "commons_file": "Correggio - The Holy Night - Google Art Project.jpg"
     },
     {
       "title_ja": "ダナエ",
       "title_en": "Danaë",
       "year": 1531,
       "medium": "画布に油彩",
-      "collection": "ローマ、ボルゲーゼ美術館"
+      "collection": "ローマ、ボルゲーゼ美術館",
+      "commons_file": "Correggio 008.jpg"
     }
   ]
 }

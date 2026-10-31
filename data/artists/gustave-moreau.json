@@ -23,29 +23,34 @@
       "title_ja": "出現",
       "title_en": "The Apparition",
       "year": 1876,
-      "collection": "パリ、ギュスターヴ・モロー美術館"
+      "collection": "パリ、ギュスターヴ・モロー美術館",
+      "commons_file": "Gustave Moreau - The Apparition - 1943.268 - Fogg Museum.jpg"
     },
     {
       "title_ja": "オルフェウス",
       "title_en": "Orpheus",
       "year": 1865,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Gustave Moreau - Orpheus - Google Art Project.jpg"
     },
     {
       "title_ja": "ユピテルとセメレ",
       "title_en": "Jupiter and Semele",
       "year": 1895,
-      "collection": "パリ、ギュスターヴ・モロー美術館"
+      "collection": "パリ、ギュスターヴ・モロー美術館",
+      "commons_file": "Jupiter and Semele by Gustave Moreau.jpg"
     },
     {
       "title_ja": "オイディプスとスフィンクス",
       "title_en": "Oedipus and the Sphinx",
-      "year": 1864
+      "year": 1864,
+      "commons_file": "Oedipus and the Sphinx Gustave Moreau 1861.jpg"
     },
     {
       "title_ja": "ガラテア",
       "title_en": "Galatea",
-      "year": 1880
+      "year": 1880,
+      "commons_file": "Gustave Moreau - Galatée.jpg"
     }
   ]
 }

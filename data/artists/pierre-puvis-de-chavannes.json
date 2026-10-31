@@ -24,27 +24,32 @@
       "title_ja": "貧しき漁夫",
       "title_en": "The Poor Fisherman",
       "year": 1881,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Pierre Puvis de Chavannes - The Poor Fisherman - Google Art Project.jpg"
     },
     {
       "title_ja": "聖なる森",
       "title_en": "The Sacred Grove",
-      "year": 1884
+      "year": 1884,
+      "commons_file": "Pierre Puvis de Chavannes - The Sacred Grove, Beloved of the Arts and the Muses - 1922.445 - Art Institute of Chicago.jpg"
     },
     {
       "title_ja": "夏",
       "title_en": "Summer",
-      "year": 1873
+      "year": 1873,
+      "commons_file": "Pierre Puvis de Chavannes (1824-1898) - Summer - NG3422 - National Gallery.jpg"
     },
     {
       "title_ja": "聖ジュヌヴィエーヴの生涯",
       "title_en": "Life of Saint Genevieve",
-      "collection": "パリ、パンテオン"
+      "collection": "パリ、パンテオン",
+      "commons_file": "Pierre Puvis de Chavannes - The Childhood of Saint Geneviève.jpg"
     },
     {
       "title_ja": "希望",
       "title_en": "Hope",
-      "year": 1872
+      "year": 1872,
+      "commons_file": "Pierre Puvis de Chavannes - Hope - Walters 37156.jpg"
     }
   ]
 }

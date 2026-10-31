@@ -28,14 +28,16 @@
       "title_en": "Descent from the Cross",
       "year": 1435,
       "medium": "板に油彩",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "El Descendimiento, by Rogier van der Weyden, from Prado in Google Earth.jpg"
     },
     {
       "title_ja": "婦人の肖像",
       "title_en": "Portrait of a Woman",
       "year": 1460,
       "medium": "板に油彩",
-      "collection": "ベルリン絵画館"
+      "collection": "ベルリン絵画館",
+      "commons_file": "Rogier van der Weyden - Portrait of a Woman with a Winged Bonnet - Google Art Project.jpg"
     },
     {
       "title_ja": "ブラクの三連祭壇画",
@@ -49,7 +51,8 @@
       "title_en": "Beaune Altarpiece",
       "year": 1450,
       "medium": "板に油彩",
-      "collection": "ボーヌ、オテル・デュー"
+      "collection": "ボーヌ、オテル・デュー",
+      "commons_file": "Polyptyque du jugement dernier roger van der Weyden Beaune.jpg"
     }
   ]
 }

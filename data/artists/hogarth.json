@@ -26,40 +26,46 @@
       "title_en": "Marriage A-la-Mode",
       "year": 1743,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Marriage A-la-Mode 1, The Marriage Settlement - William Hogarth.jpg"
     },
     {
       "title_ja": "放蕩一代記",
       "title_en": "A Rake's Progress",
       "year": 1735,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ジョン・ソーン博物館"
+      "collection": "ロンドン、ジョン・ソーン博物館",
+      "commons_file": "William Hogarth - A Rake's Progress - Tavern Scene.jpg"
     },
     {
       "title_ja": "ジン横丁",
       "title_en": "Gin Lane",
       "year": 1751,
-      "medium": "エッチング・エングレーヴィング"
+      "medium": "エッチング・エングレーヴィング",
+      "commons_file": "William Hogarth - Gin Lane.jpg"
     },
     {
       "title_ja": "エビ売りの少女",
       "title_en": "The Shrimp Girl",
       "year": 1745,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "William Hogarth - The Shrimp Girl - WGA11467.jpg"
     },
     {
       "title_ja": "画家とその犬",
       "title_en": "The Painter and His Pug",
       "year": 1745,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "The Painter and His Pug by William Hogarth.jpg"
     },
     {
       "title_ja": "ビール街",
       "title_en": "Beer Street",
       "year": 1751,
-      "medium": "エッチング・エングレーヴィング"
+      "medium": "エッチング・エングレーヴィング",
+      "commons_file": "William Hogarth - Gin Lane.jpg"
     }
   ]
 }

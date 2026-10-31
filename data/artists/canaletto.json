@@ -26,19 +26,22 @@
       "title_en": "The Regatta on the Grand Canal",
       "year": 1740,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Giovanni Antonio Canal, il Canaletto - Regatta on the Canale Grande - WGA03904.jpg"
     },
     {
       "title_ja": "サン・マルコ広場",
       "title_en": "Piazza San Marco",
-      "medium": "油彩・カンヴァス"
+      "medium": "油彩・カンヴァス",
+      "commons_file": "Giovanni Antonio Canal, il Canaletto - Piazza San Marco - WGA03883.jpg"
     },
     {
       "title_ja": "石工の仕事場",
       "title_en": "The Stonemason's Yard",
       "year": 1725,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Canaletto - The Stonemason's Yard.jpg"
     },
     {
       "title_ja": "ウェストミンスター橋",
@@ -52,7 +55,8 @@
       "title_en": "Old Walton Bridge",
       "year": 1754,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ダリッジ絵画館"
+      "collection": "ロンドン、ダリッジ絵画館",
+      "commons_file": "Canaletto - Old Walton Bridge - Google Art Project.jpg"
     }
   ]
 }
