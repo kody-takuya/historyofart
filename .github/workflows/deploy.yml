@@ -28,11 +28,6 @@ jobs:
           node scripts/validate.mjs
           node scripts/resolve-images.mjs
           SITE_URL="${{ vars.SITE_URL }}" node scripts/build.mjs
-      - name: Commit image cache
-        run: |
-          git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/commons-cache.json
-          git diff --cached --quiet || { git commit -m "Update Commons image cache"; git pull --rebase origin main && git push origin HEAD:main; }
       - run: gcloud auth configure-docker ${{ vars.GCP_REGION }}-docker.pkg.dev --quiet
       - run: |
           docker build -t "$IMAGE:${{ github.sha }}" .
