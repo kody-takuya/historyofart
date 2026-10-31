@@ -27,7 +27,8 @@
       "title_en": "The Burial of the Count of Orgaz",
       "year": 1588,
       "medium": "画布に油彩",
-      "collection": "トレド、サント・トメ聖堂"
+      "collection": "トレド、サント・トメ聖堂",
+      "commons_file": "El Greco - The Burial of the Count of Orgaz.JPG"
     },
     {
       "title_ja": "トレド眺望",
@@ -41,21 +42,24 @@
       "title_en": "El Expolio",
       "year": 1579,
       "medium": "画布に油彩",
-      "collection": "トレド大聖堂"
+      "collection": "トレド大聖堂",
+      "commons_file": "The Disrobing of Christ - El Greco.jpg"
     },
     {
       "title_ja": "ラオコーン",
       "title_en": "Laocoön",
       "year": 1610,
       "medium": "画布に油彩",
-      "collection": "ワシントン、ナショナル・ギャラリー"
+      "collection": "ワシントン、ナショナル・ギャラリー",
+      "commons_file": "El Greco (Domenikos Theotokopoulos) - Laocoön - Google Art Project.jpg"
     },
     {
       "title_ja": "第五の封印",
       "title_en": "The Opening of the Fifth Seal",
       "year": 1614,
       "medium": "画布に油彩",
-      "collection": "ニューヨーク、メトロポリタン美術館"
+      "collection": "ニューヨーク、メトロポリタン美術館",
+      "commons_file": "El Greco, The Vision of Saint John (1608-1614).jpg"
     }
   ]
 }

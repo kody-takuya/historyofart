@@ -22,29 +22,34 @@
     {
       "title_ja": "ピグマリオン連作",
       "title_en": "Pygmalion and the Image series",
-      "year": 1878
+      "year": 1878,
+      "commons_file": "The Hand Refrains, 2nd series, Pygmalion (Burne-Jones).jpg"
     },
     {
       "title_ja": "黄金の階段",
       "title_en": "The Golden Stairs",
       "year": 1880,
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "Edward Burne-Jones The Golden Stairs.jpg"
     },
     {
       "title_ja": "コフェチュア王と乞食娘",
       "title_en": "King Cophetua and the Beggar Maid",
       "year": 1884,
-      "collection": "ロンドン、テート・ブリテン"
+      "collection": "ロンドン、テート・ブリテン",
+      "commons_file": "Edward Burne-Jones - King Cophetua and the Beggar Maid - Google Art Project.jpg"
     },
     {
       "title_ja": "ブライアー・ローズ連作",
       "title_en": "The Briar Rose",
-      "year": 1890
+      "year": 1890,
+      "commons_file": "Edward Burne-Jones - The Briar Rose Series - 1961P50.1 - Birmingham Museums Trust.jpg"
     },
     {
       "title_ja": "マーリンの惑わし",
       "title_en": "The Beguiling of Merlin",
-      "year": 1874
+      "year": 1874,
+      "commons_file": "The Beguiling of Merlin - Edward Burne-Jones.png"
     }
   ]
 }

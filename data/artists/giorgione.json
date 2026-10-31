@@ -27,28 +27,32 @@
       "title_en": "The Tempest",
       "year": 1508,
       "medium": "画布に油彩",
-      "collection": "ヴェネツィア、アカデミア美術館"
+      "collection": "ヴェネツィア、アカデミア美術館",
+      "commons_file": "6,99Mo-Giorgione 019.jpg"
     },
     {
       "title_ja": "眠れるヴィーナス",
       "title_en": "Sleeping Venus",
       "year": 1510,
       "medium": "画布に油彩",
-      "collection": "ドレスデン、アルテ・マイスター絵画館"
+      "collection": "ドレスデン、アルテ・マイスター絵画館",
+      "commons_file": "Giorgione - Sleeping Venus - Google Art Project 2.jpg"
     },
     {
       "title_ja": "三人の哲学者",
       "title_en": "The Three Philosophers",
       "year": 1509,
       "medium": "画布に油彩",
-      "collection": "ウィーン美術史美術館"
+      "collection": "ウィーン美術史美術館",
+      "commons_file": "Giorgione - Three Philosophers - Google Art Project.jpg"
     },
     {
       "title_ja": "カステルフランコの祭壇画",
       "title_en": "Castelfranco Altarpiece",
       "year": 1503,
       "medium": "板に油彩",
-      "collection": "カステルフランコ・ヴェネト、大聖堂"
+      "collection": "カステルフランコ・ヴェネト、大聖堂",
+      "commons_file": "Giorgione - Pala di Castelfranco.jpg"
     }
   ]
 }

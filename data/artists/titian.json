@@ -29,21 +29,24 @@
       "title_en": "Venus of Urbino",
       "year": 1538,
       "medium": "画布に油彩",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Venus of Urbino by Titian-Uffizi.jpg"
     },
     {
       "title_ja": "聖母被昇天",
       "title_en": "Assumption of the Virgin",
       "year": 1518,
       "medium": "板に油彩",
-      "collection": "ヴェネツィア、サンタ・マリア・グロリオーザ・デイ・フラーリ聖堂"
+      "collection": "ヴェネツィア、サンタ・マリア・グロリオーザ・デイ・フラーリ聖堂",
+      "commons_file": "Verona, cathedral, the painting \"Assumption of the Virgin\" by Titian.jpg"
     },
     {
       "title_ja": "バッカスとアリアドネ",
       "title_en": "Bacchus and Ariadne",
       "year": 1523,
       "medium": "画布に油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Titian Bacchus and Ariadne.jpg"
     },
     {
       "title_ja": "聖愛と俗愛",
@@ -57,14 +60,16 @@
       "title_en": "Danaë",
       "year": 1544,
       "medium": "画布に油彩",
-      "collection": "ナポリ、カポディモンテ美術館"
+      "collection": "ナポリ、カポディモンテ美術館",
+      "commons_file": "Danae by Titian (Naples).jpg"
     },
     {
       "title_ja": "ミュールベルクのカール5世",
       "title_en": "Charles V at Mühlberg",
       "year": 1548,
       "medium": "画布に油彩",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "Carlos V en Mühlberg, by Titian, from Prado in Google Earth.jpg"
     }
   ]
 }

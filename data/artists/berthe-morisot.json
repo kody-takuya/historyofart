@@ -23,7 +23,8 @@
       "title_ja": "ゆりかご",
       "title_en": "The Cradle",
       "year": 1872,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Berthe Morisot - The Cradle - Google Art Project.jpg"
     },
     {
       "title_ja": "蝶々を追う女たち",
@@ -34,18 +35,21 @@
     {
       "title_ja": "化粧する若い女",
       "title_en": "Young Woman at Her Toilette",
-      "year": 1875
+      "year": 1875,
+      "commons_file": "Morisot - young-woman-at-the-mirror.jpg"
     },
     {
       "title_ja": "夏の日",
       "title_en": "Summer's Day",
       "year": 1879,
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Berthe Morisot - Jour d'été, 1879.jpg"
     },
     {
       "title_ja": "鳥かご",
       "title_en": "The Cage",
-      "year": 1885
+      "year": 1885,
+      "commons_file": "Berthe Morisot - The Cage, 1885.jpg"
     }
   ]
 }

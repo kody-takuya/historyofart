@@ -26,33 +26,39 @@
       "title_ja": "印象、日の出",
       "title_en": "Impression, Sunrise",
       "year": 1872,
-      "collection": "パリ、マルモッタン・モネ美術館"
+      "collection": "パリ、マルモッタン・モネ美術館",
+      "commons_file": "Monet - Impression, Sunrise.jpg"
     },
     {
       "title_ja": "ラ・グルヌイエール",
       "title_en": "La Grenouillère",
-      "year": 1869
+      "year": 1869,
+      "commons_file": "Monet - Bathers at La Grenouillère.jpg"
     },
     {
       "title_ja": "ルーアン大聖堂",
       "title_en": "Rouen Cathedral",
-      "year": 1893
+      "year": 1893,
+      "commons_file": "Claude Monet - Rouen Cathedral, Facade (Sunset).JPG"
     },
     {
       "title_ja": "積みわら",
       "title_en": "Haystacks",
-      "year": 1890
+      "year": 1890,
+      "commons_file": "Claude Monet - Haystacks, end of Summer - Google Art Project.jpg"
     },
     {
       "title_ja": "睡蓮",
       "title_en": "Water Lilies",
-      "year": 1906
+      "year": 1906,
+      "commons_file": "Claude Monet - Seerosen.jpg"
     },
     {
       "title_ja": "日傘をさす女",
       "title_en": "Woman with a Parasol",
       "year": 1875,
-      "collection": "ワシントン、ナショナル・ギャラリー"
+      "collection": "ワシントン、ナショナル・ギャラリー",
+      "commons_file": "Claude Monet - Woman with a Parasol - Madame Monet and Her Son - Google Art Project.jpg"
     }
   ]
 }

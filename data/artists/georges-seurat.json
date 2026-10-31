@@ -23,29 +23,34 @@
       "title_ja": "アニエールの水浴",
       "title_en": "Bathers at Asnières",
       "year": 1884,
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Georges Seurat - Study for Bathers at Asnières PC 91.jpg"
     },
     {
       "title_ja": "グランド・ジャット島の日曜日の午後",
       "title_en": "A Sunday Afternoon on the Island of La Grande Jatte",
       "year": 1886,
-      "collection": "シカゴ美術館"
+      "collection": "シカゴ美術館",
+      "commons_file": "A Sunday on La Grande Jatte, Georges Seurat, 1884.jpg"
     },
     {
       "title_ja": "サーカス",
       "title_en": "The Circus",
       "year": 1891,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Georges Seurat - The Circus - Google Art Project.jpg"
     },
     {
       "title_ja": "グラヴリーヌの水路、大海へ",
       "title_en": "The Channel of Gravelines",
-      "year": 1890
+      "year": 1890,
+      "commons_file": "Seurat-Gravelines-Annonciade.jpg"
     },
     {
       "title_ja": "モデルたち",
       "title_en": "Models",
-      "year": 1888
+      "year": 1888,
+      "commons_file": "Georges Seurat - Models (Poseuses) - BF811 - Barnes Foundation.jpg"
     }
   ]
 }

@@ -22,30 +22,35 @@
       "title_ja": "戦争",
       "title_en": "War",
       "year": 1894,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Henri Rousseau - La guerre.jpg"
     },
     {
       "title_ja": "眠れるジプシー女",
       "title_en": "The Sleeping Gypsy",
       "year": 1897,
-      "collection": "ニューヨーク近代美術館"
+      "collection": "ニューヨーク近代美術館",
+      "commons_file": "Henri Rousseau, The Sleeping Gypsy (50392886891).jpg"
     },
     {
       "title_ja": "蛇使いの女",
       "title_en": "The Snake Charmer",
       "year": 1907,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "HENRI ROUSSEAU - La Encantadora de Serpientes (Museo de Orsay, París, 1907. Óleo sobre lienzo, 169 x 189.5 cm).jpg"
     },
     {
       "title_ja": "夢",
       "title_en": "The Dream",
       "year": 1910,
-      "collection": "ニューヨーク近代美術館"
+      "collection": "ニューヨーク近代美術館",
+      "commons_file": "Henri Rousseau - Le Rêve - Google Art Project.jpg"
     },
     {
       "title_ja": "詩人に霊感を与えるミューズ",
       "title_en": "The Muse Inspiring the Poet",
-      "year": 1909
+      "year": 1909,
+      "commons_file": "La Muse inspirant le Poète du Douanier Rousseau.jpg"
     }
   ]
 }

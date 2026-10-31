@@ -28,42 +28,48 @@
       "title_en": "Las Meninas",
       "year": 1656,
       "medium": "油彩・カンヴァス",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "Las Meninas, by Diego Velázquez, from Prado in Google Earth.jpg"
     },
     {
       "title_ja": "ブレダの開城",
       "title_en": "The Surrender of Breda",
       "year": 1635,
       "medium": "油彩・カンヴァス",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "Velazquez-The Surrender of Breda.jpg"
     },
     {
       "title_ja": "鏡のヴィーナス",
       "title_en": "The Toilet of Venus (Rokeby Venus)",
       "year": 1650,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Diego Velázquez - Rokeby Venus.jpg"
     },
     {
       "title_ja": "教皇インノケンティウス10世の肖像",
       "title_en": "Portrait of Innocent X",
       "year": 1650,
       "medium": "油彩・カンヴァス",
-      "collection": "ローマ、ドーリア・パンフィーリ美術館"
+      "collection": "ローマ、ドーリア・パンフィーリ美術館",
+      "commons_file": "Portrait of Innocentius X by Diego Velázquez in Galleria Doria Pamphilj (Rome).jpg"
     },
     {
       "title_ja": "織女たち",
       "title_en": "Las Hilanderas",
       "year": 1657,
       "medium": "油彩・カンヴァス",
-      "collection": "マドリード、プラド美術館"
+      "collection": "マドリード、プラド美術館",
+      "commons_file": "Velazquez-las hilanderas.jpg"
     },
     {
       "title_ja": "セビーリャの水売り",
       "title_en": "The Waterseller of Seville",
       "year": 1620,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ウェリントン博物館"
+      "collection": "ロンドン、ウェリントン博物館",
+      "commons_file": "Diego Velázquez - The Waterseller of Seville - WGA24366.jpg"
     }
   ]
 }

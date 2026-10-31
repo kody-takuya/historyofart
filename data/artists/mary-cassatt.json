@@ -22,30 +22,35 @@
     {
       "title_ja": "桟敷席にて",
       "title_en": "In the Loge",
-      "year": 1878
+      "year": 1878,
+      "commons_file": "Mary Stevenson Cassatt - In the Loge - Google Art Project.jpg"
     },
     {
       "title_ja": "青い肘掛け椅子の少女",
       "title_en": "Little Girl in a Blue Armchair",
       "year": 1878,
-      "collection": "ワシントン、ナショナル・ギャラリー"
+      "collection": "ワシントン、ナショナル・ギャラリー",
+      "commons_file": "Cassatt Mary Little Girl in a blue armchair Sun Unedited 1878.jpg"
     },
     {
       "title_ja": "子どもの入浴",
       "title_en": "The Child's Bath",
       "year": 1893,
-      "collection": "シカゴ美術館"
+      "collection": "シカゴ美術館",
+      "commons_file": "Mary Cassatt - The Child's Bath - Google Art Project.jpg"
     },
     {
       "title_ja": "湯あみ",
       "title_en": "The Bath",
-      "year": 1891
+      "year": 1891,
+      "commons_file": "Mary Cassatt - The Child's Bath - Google Art Project.jpg"
     },
     {
       "title_ja": "舟遊び",
       "title_en": "The Boating Party",
       "year": 1893,
-      "collection": "ワシントン、ナショナル・ギャラリー"
+      "collection": "ワシントン、ナショナル・ギャラリー",
+      "commons_file": "Mary Cassatt - The Boating Party - Google Art Project.jpg"
     }
   ]
 }

@@ -22,28 +22,33 @@
     {
       "title_ja": "死の島",
       "title_en": "Isle of the Dead",
-      "year": 1880
+      "year": 1880,
+      "commons_file": "Arnold Böcklin - Die Toteninsel III (Alte Nationalgalerie, Berlin).jpg"
     },
     {
       "title_ja": "波のたわむれ",
       "title_en": "Play of the Waves",
-      "year": 1883
+      "year": 1883,
+      "commons_file": "Arnold Böcklin (Kopie nach) - Im Spiel der Wellen - HST 153 - Bavarian State Painting Collections.jpg"
     },
     {
       "title_ja": "自画像（死神のヴァイオリンを弾く）",
       "title_en": "Self-Portrait with Death Playing the Fiddle",
       "year": 1872,
-      "collection": "ベルリン、旧国立美術館"
+      "collection": "ベルリン、旧国立美術館",
+      "commons_file": "Arnold Böcklin - Self-Portrait with Death as a Fiddler - WGA3033.jpg"
     },
     {
       "title_ja": "海辺の城館",
       "title_en": "Villa by the Sea",
-      "year": 1864
+      "year": 1864,
+      "commons_file": "Arnold Böcklin - Villa by the Sea - Google Art Project.jpg"
     },
     {
       "title_ja": "オデュッセウスとカリュプソ",
       "title_en": "Odysseus and Calypso",
-      "year": 1883
+      "year": 1883,
+      "commons_file": "Arnold Böcklin 008.jpg"
     }
   ]
 }

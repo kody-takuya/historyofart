@@ -35,35 +35,40 @@
       "title_en": "Melencolia I",
       "year": 1514,
       "medium": "銅版画",
-      "collection": "複数所蔵"
+      "collection": "複数所蔵",
+      "commons_file": "Albrecht Dürer - Melencolia I - Google Art Project (427760).jpg"
     },
     {
       "title_ja": "騎士と死と悪魔",
       "title_en": "Knight, Death and the Devil",
       "year": 1513,
       "medium": "銅版画",
-      "collection": "複数所蔵"
+      "collection": "複数所蔵",
+      "commons_file": "Albrecht Dürer, Knight, Death and Devil, 1513, NGA 6637.jpg"
     },
     {
       "title_ja": "書斎の聖ヒエロニムス",
       "title_en": "Saint Jerome in His Study",
       "year": 1514,
       "medium": "銅版画",
-      "collection": "複数所蔵"
+      "collection": "複数所蔵",
+      "commons_file": "Albrecht Dürer, Saint Jerome in His Study, 1514, NGA 35095.jpg"
     },
     {
       "title_ja": "野兎",
       "title_en": "Young Hare",
       "year": 1502,
       "medium": "水彩・グワッシュ",
-      "collection": "ウィーン、アルベルティーナ美術館"
+      "collection": "ウィーン、アルベルティーナ美術館",
+      "commons_file": "Albrecht Dürer - Hare, 1502 - Google Art Project.jpg"
     },
     {
       "title_ja": "四人の使徒",
       "title_en": "The Four Apostles",
       "year": 1526,
       "medium": "板に油彩",
-      "collection": "ミュンヘン、アルテ・ピナコテーク"
+      "collection": "ミュンヘン、アルテ・ピナコテーク",
+      "commons_file": "Albrecht Dürer - The Four Apostles, Saints John, Peter, Mark and Paul.jpg"
     }
   ]
 }

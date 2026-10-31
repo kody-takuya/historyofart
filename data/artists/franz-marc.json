@@ -24,35 +24,40 @@
       "title_en": "Blue Horse I",
       "year": 1911,
       "medium": "油彩・カンヴァス",
-      "collection": "ミュンヘン、レンバッハハウス"
+      "collection": "ミュンヘン、レンバッハハウス",
+      "commons_file": "Marc, Franz - Blue Horse I - Google Art Project.jpg"
     },
     {
       "title_ja": "黄色い牛",
       "title_en": "Yellow Cow",
       "year": 1911,
       "medium": "油彩・カンヴァス",
-      "collection": "ニューヨーク、グッゲンハイム美術館"
+      "collection": "ニューヨーク、グッゲンハイム美術館",
+      "commons_file": "Franz Marc-The Yellow Cow-1911.jpg"
     },
     {
       "title_ja": "チロル",
       "title_en": "Tyrol",
       "year": 1913,
       "medium": "油彩・カンヴァス",
-      "collection": "ミュンヘン、ピナコテーク・デア・モデルネ"
+      "collection": "ミュンヘン、ピナコテーク・デア・モデルネ",
+      "commons_file": "Franz Marc - Tirol 1914.jpg"
     },
     {
       "title_ja": "虎",
       "title_en": "The Tiger",
       "year": 1912,
       "medium": "油彩・カンヴァス",
-      "collection": "ミュンヘン、レンバッハハウス"
+      "collection": "ミュンヘン、レンバッハハウス",
+      "commons_file": "Marc Tiger PA291038.jpg"
     },
     {
       "title_ja": "動物たちの運命",
       "title_en": "The Fate of the Animals",
       "year": 1913,
       "medium": "油彩・カンヴァス",
-      "collection": "バーゼル美術館"
+      "collection": "バーゼル美術館",
+      "commons_file": "Franz Marc-The fate of the animals-1913.jpg"
     }
   ]
 }

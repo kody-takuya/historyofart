@@ -24,30 +24,35 @@
       "title_ja": "ムーラン・ド・ラ・ギャレット",
       "title_en": "Bal du moulin de la Galette",
       "year": 1876,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Renoir, Pierre-Auguste - Dance at Le Moulin de la Galette, 1876.jpg"
     },
     {
       "title_ja": "舟遊びの昼食",
       "title_en": "Luncheon of the Boating Party",
       "year": 1881,
-      "collection": "ワシントン、フィリップス・コレクション"
+      "collection": "ワシントン、フィリップス・コレクション",
+      "commons_file": "Pierre-Auguste Renoir - Luncheon of the Boating Party - Google Art Project.jpg"
     },
     {
       "title_ja": "ピアノを弾く少女たち",
       "title_en": "Girls at the Piano",
-      "year": 1892
+      "year": 1892,
+      "commons_file": "Auguste Renoir - Young Girls at the Piano - Google Art Project.jpg"
     },
     {
       "title_ja": "大水浴図",
       "title_en": "The Bathers",
       "year": 1887,
-      "collection": "フィラデルフィア美術館"
+      "collection": "フィラデルフィア美術館",
+      "commons_file": "Pierre-Auguste Renoir, French - The Large Bathers - Google Art Project.jpg"
     },
     {
       "title_ja": "桟敷席",
       "title_en": "La Loge",
       "year": 1874,
-      "collection": "ロンドン、コートールド・ギャラリー"
+      "collection": "ロンドン、コートールド・ギャラリー",
+      "commons_file": "La Loge Pierre-Auguste Renoir 1874.jpg"
     }
   ]
 }

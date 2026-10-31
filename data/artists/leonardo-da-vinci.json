@@ -28,42 +28,48 @@
       "title_en": "Mona Lisa",
       "year": 1503,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg"
     },
     {
       "title_ja": "最後の晩餐",
       "title_en": "The Last Supper",
       "year": 1495,
       "medium": "壁面にテンペラ・油彩",
-      "collection": "ミラノ、サンタ・マリア・デッレ・グラツィエ修道院"
+      "collection": "ミラノ、サンタ・マリア・デッレ・グラツィエ修道院",
+      "commons_file": "Leonardo da Vinci (1452-1519) - The Last Supper (1495-1498).jpg"
     },
     {
       "title_ja": "岩窟の聖母",
       "title_en": "Virgin of the Rocks",
       "year": 1486,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Leonardo da Vinci Virgin of the Rocks (National Gallery London).jpg"
     },
     {
       "title_ja": "白貂を抱く貴婦人",
       "title_en": "Lady with an Ermine",
       "year": 1490,
       "medium": "板に油彩",
-      "collection": "クラクフ、チャルトリスキ美術館"
+      "collection": "クラクフ、チャルトリスキ美術館",
+      "commons_file": "Lady with an Ermine - Leonardo da Vinci - Google Art Project.jpg"
     },
     {
       "title_ja": "受胎告知",
       "title_en": "Annunciation",
       "year": 1475,
       "medium": "板に油彩とテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "L'Annonciation, by Leonardo da Vinci, from C2RMF retouched.jpg"
     },
     {
       "title_ja": "ウィトルウィウス的人体図",
       "title_en": "Vitruvian Man",
       "year": 1490,
       "medium": "紙にペンとインク",
-      "collection": "ヴェネツィア、アカデミア美術館"
+      "collection": "ヴェネツィア、アカデミア美術館",
+      "commons_file": "Da Vinci Vitruve Luc Viatour.jpg"
     }
   ]
 }

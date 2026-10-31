@@ -27,35 +27,40 @@
       "title_en": "The Ambassadors",
       "year": 1533,
       "medium": "板に油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Hans Holbein the Younger - The Ambassadors - Google Art Project.jpg"
     },
     {
       "title_ja": "エラスムスの肖像",
       "title_en": "Portrait of Erasmus",
       "year": 1523,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Desiderius Erasmus, after Hans Holbein the Younger.jpg"
     },
     {
       "title_ja": "墓の中の死せるキリスト",
       "title_en": "The Body of the Dead Christ in the Tomb",
       "year": 1522,
       "medium": "板に油彩",
-      "collection": "バーゼル美術館"
+      "collection": "バーゼル美術館",
+      "commons_file": "The Body of the Dead Christ in the Tomb by Hans Holbein the Younger.jpg"
     },
     {
       "title_ja": "トマス・モアの肖像",
       "title_en": "Portrait of Thomas More",
       "year": 1527,
       "medium": "板に油彩",
-      "collection": "ニューヨーク、フリック・コレクション"
+      "collection": "ニューヨーク、フリック・コレクション",
+      "commons_file": "Hans Holbein, the Younger - Sir Thomas More - Google Art Project.jpg"
     },
     {
       "title_ja": "ヘンリー8世の肖像",
       "title_en": "Portrait of Henry VIII",
       "year": 1537,
       "medium": "板に油彩",
-      "collection": "ローマ、バルベリーニ宮国立古典美術館"
+      "collection": "ローマ、バルベリーニ宮国立古典美術館",
+      "commons_file": "Portrait Anne of Cleves by Hans Holbein the Younger (Louvre).jpg"
     }
   ]
 }

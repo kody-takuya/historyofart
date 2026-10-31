@@ -26,25 +26,29 @@
       "title_ja": "ダヴィデ",
       "title_en": "David",
       "medium": "ブロンズ",
-      "collection": "フィレンツェ、バルジェッロ国立博物館"
+      "collection": "フィレンツェ、バルジェッロ国立博物館",
+      "commons_file": "Donatello - David - Florença.jpg"
     },
     {
       "title_ja": "ガッタメラータ騎馬像",
       "title_en": "Equestrian Statue of Gattamelata",
       "medium": "ブロンズ",
-      "collection": "パドヴァ"
+      "collection": "パドヴァ",
+      "commons_file": "Statue of Gattamelata by Donatello - Padua 2016.jpg"
     },
     {
       "title_ja": "聖ゲオルギウス",
       "title_en": "St. George",
       "medium": "大理石",
-      "collection": "フィレンツェ、バルジェッロ国立博物館"
+      "collection": "フィレンツェ、バルジェッロ国立博物館",
+      "commons_file": "Donatello, Saint George (predella).jpg"
     },
     {
       "title_ja": "マグダラのマリア",
       "title_en": "Penitent Magdalene",
       "medium": "彩色木彫",
-      "collection": "フィレンツェ、大聖堂付属美術館"
+      "collection": "フィレンツェ、大聖堂付属美術館",
+      "commons_file": "Donatello, maria maddalena 02.JPG"
     }
   ]
 }

@@ -28,42 +28,48 @@
       "title_en": "The School of Athens",
       "year": 1511,
       "medium": "フレスコ",
-      "collection": "ヴァチカン、署名の間"
+      "collection": "ヴァチカン、署名の間",
+      "commons_file": "The School of Athens Fresco by Raphael (Ank Kumar, Infosys Limited) 02.jpg"
     },
     {
       "title_ja": "システィーナの聖母",
       "title_en": "Sistine Madonna",
       "year": 1513,
       "medium": "画布に油彩",
-      "collection": "ドレスデン、アルテ・マイスター絵画館"
+      "collection": "ドレスデン、アルテ・マイスター絵画館",
+      "commons_file": "Raphael - The Sistine Madonna - Google Arts & Culture.jpg"
     },
     {
       "title_ja": "小椅子の聖母",
       "title_en": "Madonna della seggiola",
       "year": 1514,
       "medium": "板に油彩",
-      "collection": "フィレンツェ、パラティーナ美術館"
+      "collection": "フィレンツェ、パラティーナ美術館",
+      "commons_file": "Raphael Madonna della seggiola.jpg"
     },
     {
       "title_ja": "ガラテアの勝利",
       "title_en": "Triumph of Galatea",
       "year": 1512,
       "medium": "フレスコ",
-      "collection": "ローマ、ファルネジーナ荘"
+      "collection": "ローマ、ファルネジーナ荘",
+      "commons_file": "Raphael's Triumph of Galatea 01.jpg"
     },
     {
       "title_ja": "聖体の論議",
       "title_en": "Disputation of the Holy Sacrament",
       "year": 1510,
       "medium": "フレスコ",
-      "collection": "ヴァチカン、署名の間"
+      "collection": "ヴァチカン、署名の間",
+      "commons_file": "Raphaels Disputation of the Holy Sacrament.jpg"
     },
     {
       "title_ja": "バルダッサーレ・カスティリオーネの肖像",
       "title_en": "Portrait of Baldassare Castiglione",
       "year": 1515,
       "medium": "画布に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Rubens - Portrait of Baldassare Castiglione (after Raphael), 1630.jpg"
     }
   ]
 }

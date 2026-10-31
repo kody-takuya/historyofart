@@ -27,32 +27,37 @@
       "title_en": "Legend of the True Cross",
       "year": 1460,
       "medium": "フレスコ",
-      "collection": "アレッツォ、サン・フランチェスコ聖堂"
+      "collection": "アレッツォ、サン・フランチェスコ聖堂",
+      "commons_file": "Piero della Francesca- Legend of the True Cross - the Queen of Sheba Meeting with Solomon.JPG"
     },
     {
       "title_ja": "キリストの洗礼",
       "title_en": "Baptism of Christ",
       "year": 1450,
       "medium": "板にテンペラ",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Piero della Francesca - Battesimo di Cristo (National Gallery, London).jpg"
     },
     {
       "title_ja": "キリストの鞭打ち",
       "title_en": "Flagellation of Christ",
       "medium": "板にテンペラ",
-      "collection": "ウルビーノ、マルケ国立美術館"
+      "collection": "ウルビーノ、マルケ国立美術館",
+      "commons_file": "Piero della Francesca 042.jpg"
     },
     {
       "title_ja": "ウルビーノ公夫妻の肖像",
       "title_en": "Diptych of the Duke and Duchess of Urbino",
       "medium": "板にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Piero della Francesca - Portraits of the Duke and Duchess of Urbino, Federico da Montefeltro and Battista Sforza - Google Art Project.jpg"
     },
     {
       "title_ja": "復活",
       "title_en": "Resurrection",
       "medium": "フレスコ",
-      "collection": "サンセポルクロ市立美術館"
+      "collection": "サンセポルクロ市立美術館",
+      "commons_file": "Resurrection (Piero della Francesca).jpeg"
     }
   ]
 }

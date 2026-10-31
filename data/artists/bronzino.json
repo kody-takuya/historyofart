@@ -27,28 +27,32 @@
       "title_en": "An Allegory with Venus and Cupid",
       "year": 1545,
       "medium": "板に油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Angelo Bronzino - Venus, Cupid, Folly and Time - National Gallery, London.jpg"
     },
     {
       "title_ja": "エレオノーラ・ディ・トレドと息子",
       "title_en": "Eleonora of Toledo with her Son",
       "year": 1545,
       "medium": "板に油彩",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Bronzino - Eleonora di Toledo col figlio Giovanni - Google Art Project.jpg"
     },
     {
       "title_ja": "ウゴリーノ・マルテッリの肖像",
       "title_en": "Portrait of Ugolino Martelli",
       "year": 1540,
       "medium": "板に油彩",
-      "collection": "ベルリン絵画館"
+      "collection": "ベルリン絵画館",
+      "commons_file": "Angelo Bronzino - portrait of Ugolino Martelli - WGA3264.jpg"
     },
     {
       "title_ja": "聖家族",
       "title_en": "Holy Family",
       "year": 1540,
       "medium": "板に油彩",
-      "collection": "ウィーン美術史美術館"
+      "collection": "ウィーン美術史美術館",
+      "commons_file": "Agnolo Bronzino - The Holy Family - Google Art Project.jpg"
     }
   ]
 }

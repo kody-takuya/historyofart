@@ -27,7 +27,8 @@
       "title_en": "Venus and Cupid",
       "year": 1509,
       "medium": "板に油彩",
-      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+      "collection": "サンクトペテルブルク、エルミタージュ美術館",
+      "commons_file": "Lucas Cranach the Elder, Venus and Cupid, 1530, Gemaldegalerie, Berlin (25332365427).jpg"
     },
     {
       "title_ja": "マルティン・ルターの肖像",
@@ -41,14 +42,16 @@
       "title_en": "Judgement of Paris",
       "year": 1528,
       "medium": "板に油彩",
-      "collection": "ニューヨーク、メトロポリタン美術館"
+      "collection": "ニューヨーク、メトロポリタン美術館",
+      "commons_file": "The Judgement of Paris by Lucas Cranach the Elder - Statens Museum for Kunst - DSC08157.JPG"
     },
     {
       "title_ja": "アダムとイヴ",
       "title_en": "Adam and Eve",
       "year": 1526,
       "medium": "板に油彩",
-      "collection": "ロンドン、コートールド・ギャラリー"
+      "collection": "ロンドン、コートールド・ギャラリー",
+      "commons_file": "Lucas Cranach the Elder - Adam and Eve - Google Art Project.jpg"
     }
   ]
 }

@@ -24,33 +24,38 @@
       "title_en": "Portrait of Madame Matisse (The Green Line)",
       "year": 1905,
       "medium": "油彩・カンヴァス",
-      "collection": "コペンハーゲン、デンマーク国立美術館"
+      "collection": "コペンハーゲン、デンマーク国立美術館",
+      "commons_file": "Matisse - Green Line.jpeg"
     },
     {
       "title_ja": "ダンス",
       "title_en": "Dance",
       "year": 1910,
       "medium": "油彩・カンヴァス",
-      "collection": "サンクトペテルブルク、エルミタージュ美術館"
+      "collection": "サンクトペテルブルク、エルミタージュ美術館",
+      "commons_file": "The Dance by Henri Matisse at the Hermitage.jpg"
     },
     {
       "title_ja": "赤いアトリエ",
       "title_en": "The Red Studio",
       "year": 1911,
       "medium": "油彩・カンヴァス",
-      "collection": "ニューヨーク近代美術館"
+      "collection": "ニューヨーク近代美術館",
+      "commons_file": "L'Atelier rouge, par Henri Matisse.jpg"
     },
     {
       "title_ja": "生きる喜び",
       "title_en": "Le bonheur de vivre",
       "year": 1906,
       "medium": "油彩・カンヴァス",
-      "collection": "メリオン、バーンズ財団"
+      "collection": "メリオン、バーンズ財団",
+      "commons_file": "Bonheur Matisse.jpg"
     },
     {
       "title_ja": "ジャズ",
       "title_en": "Jazz",
-      "year": 1947
+      "year": 1947,
+      "commons_file": "StabiLiebling, Jazz von Henri Matisse 10.jpg"
     }
   ]
 }

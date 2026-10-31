@@ -27,7 +27,8 @@
       "title_en": "The Laughing Cavalier",
       "year": 1624,
       "medium": "油彩・カンヴァス",
-      "collection": "ロンドン、ウォレス・コレクション"
+      "collection": "ロンドン、ウォレス・コレクション",
+      "commons_file": "Cavalier soldier Hals-1624x.jpg"
     },
     {
       "title_ja": "聖ゲオルギウス市民隊の士官たちの宴会",
@@ -41,28 +42,32 @@
       "title_en": "Gypsy Girl",
       "year": 1628,
       "medium": "油彩・板",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "Frans Hals - Gypsy Girl - WGA11100.jpg"
     },
     {
       "title_ja": "ハールレムの養老院の理事たち",
       "title_en": "Regentesses of the Old Men's Almshouse",
       "year": 1664,
       "medium": "油彩・カンヴァス",
-      "collection": "ハールレム、フランス・ハルス美術館"
+      "collection": "ハールレム、フランス・ハルス美術館",
+      "commons_file": "Regentesses of the Old Men’s Alms House, by Frans Hals.jpg"
     },
     {
       "title_ja": "マレ・バッベ",
       "title_en": "Malle Babbe",
       "year": 1633,
       "medium": "油彩・カンヴァス",
-      "collection": "ベルリン絵画館"
+      "collection": "ベルリン絵画館",
+      "commons_file": "Umkreis Frans Hals New Yorker Malle Babbe.jpg"
     },
     {
       "title_ja": "陽気な酒飲み",
       "title_en": "The Merry Drinker",
       "year": 1628,
       "medium": "油彩・カンヴァス",
-      "collection": "アムステルダム国立美術館"
+      "collection": "アムステルダム国立美術館",
+      "commons_file": "Frans Hals - The Merry Drinker - WGA11095.jpg"
     }
   ]
 }

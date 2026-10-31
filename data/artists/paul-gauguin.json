@@ -23,29 +23,34 @@
       "title_ja": "説教のあとの幻影",
       "title_en": "Vision after the Sermon",
       "year": 1888,
-      "collection": "エディンバラ、スコットランド国立美術館"
+      "collection": "エディンバラ、スコットランド国立美術館",
+      "commons_file": "La vision après le sermon (Paul Gauguin).jpg"
     },
     {
       "title_ja": "黄色いキリスト",
       "title_en": "The Yellow Christ",
-      "year": 1889
+      "year": 1889,
+      "commons_file": "Gauguin Il Cristo giallo.jpg"
     },
     {
       "title_ja": "タヒチの女たち",
       "title_en": "Tahitian Women on the Beach",
       "year": 1891,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Paul Gauguin 056.jpg"
     },
     {
       "title_ja": "マナオ・トゥパパウ",
       "title_en": "Manao tupapau",
-      "year": 1892
+      "year": 1892,
+      "commons_file": "Paul Gauguin- Manao tupapau (The Spirit of the Dead Keep Watch).JPG"
     },
     {
       "title_ja": "我々はどこから来たのか　我々は何者か　我々はどこへ行くのか",
       "title_en": "D'où venons-nous ? Que sommes-nous ? Où allons-nous ?",
       "year": 1897,
-      "collection": "ボストン美術館"
+      "collection": "ボストン美術館",
+      "commons_file": "Gauguin - D'ou venons-nous Que sommes-nous Ou allons-nous.jpg"
     }
   ]
 }

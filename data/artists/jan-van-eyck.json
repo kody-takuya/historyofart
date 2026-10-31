@@ -27,35 +27,40 @@
       "title_en": "Arnolfini Portrait",
       "year": 1434,
       "medium": "板に油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Van Eyck - Arnolfini Portrait.jpg"
     },
     {
       "title_ja": "ゲントの祭壇画",
       "title_en": "Ghent Altarpiece",
       "year": 1432,
       "medium": "板に油彩",
-      "collection": "ゲント、聖バーフ大聖堂"
+      "collection": "ゲント、聖バーフ大聖堂",
+      "commons_file": "Ghent Altarpiece by Jan van Eyck ALL.jpg"
     },
     {
       "title_ja": "宰相ロランの聖母",
       "title_en": "Madonna of Chancellor Rolin",
       "year": 1435,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "La Vierge du chancelier Rolin - Jan van Eyck - Musée du Louvre Peintures INV 1271 ; MR 705.jpg"
     },
     {
       "title_ja": "赤いターバンの男",
       "title_en": "Portrait of a Man (Self Portrait?)",
       "year": 1433,
       "medium": "板に油彩",
-      "collection": "ロンドン、ナショナル・ギャラリー"
+      "collection": "ロンドン、ナショナル・ギャラリー",
+      "commons_file": "Portrait of a Man by Jan van Eyck-small.jpg"
     },
     {
       "title_ja": "ファン・デル・パーレの聖母子",
       "title_en": "Madonna with Canon van der Paele",
       "year": 1436,
       "medium": "板に油彩",
-      "collection": "ブルッヘ、グルーニング美術館"
+      "collection": "ブルッヘ、グルーニング美術館",
+      "commons_file": "Jan van Eyck The Madonna with Canon van der Paele.jpg"
     }
   ]
 }

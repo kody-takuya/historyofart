@@ -28,28 +28,32 @@
       "title_en": "Holy Trinity",
       "year": 1427,
       "medium": "フレスコ",
-      "collection": "フィレンツェ、サンタ・マリア・ノヴェッラ聖堂"
+      "collection": "フィレンツェ、サンタ・マリア・ノヴェッラ聖堂",
+      "commons_file": "Masaccio - Trinity - Santa Maria Novella.jpg"
     },
     {
       "title_ja": "貢の銭",
       "title_en": "The Tribute Money",
       "year": 1425,
       "medium": "フレスコ",
-      "collection": "フィレンツェ、ブランカッチ礼拝堂"
+      "collection": "フィレンツェ、ブランカッチ礼拝堂",
+      "commons_file": "The Tribute Money by Masaccio.jpg"
     },
     {
       "title_ja": "楽園追放",
       "title_en": "Expulsion from the Garden of Eden",
       "year": 1425,
       "medium": "フレスコ",
-      "collection": "フィレンツェ、ブランカッチ礼拝堂"
+      "collection": "フィレンツェ、ブランカッチ礼拝堂",
+      "commons_file": "Masaccio-TheExpulsionOfAdamAndEveFromEden-Restoration.jpg"
     },
     {
       "title_ja": "聖母子と聖アンナ",
       "title_en": "Sant'Anna Metterza",
       "year": 1424,
       "medium": "板にテンペラ",
-      "collection": "フィレンツェ、ウフィツィ美術館"
+      "collection": "フィレンツェ、ウフィツィ美術館",
+      "commons_file": "Masaccio. The Madonna and Child with st. Anna. ca. 1424. Uffizi, Florence.jpg"
     }
   ]
 }

@@ -23,30 +23,35 @@
     {
       "title_ja": "種をまく人",
       "title_en": "The Sower",
-      "year": 1850
+      "year": 1850,
+      "commons_file": "Jean-François Millet - The Sower - Google Art Project.jpg"
     },
     {
       "title_ja": "落穂拾い",
       "title_en": "The Gleaners",
       "year": 1857,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Jean-François Millet - Gleaners - Google Art Project 2.jpg"
     },
     {
       "title_ja": "晩鐘",
       "title_en": "The Angelus",
       "year": 1857,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Jean-François Millet (II) 001.jpg"
     },
     {
       "title_ja": "羊飼いの少女",
       "title_en": "Shepherdess with her Flock",
       "year": 1863,
-      "collection": "パリ、オルセー美術館"
+      "collection": "パリ、オルセー美術館",
+      "commons_file": "Jean-François Millet Pastora.jpg"
     },
     {
       "title_ja": "鍬を持つ男",
       "title_en": "Man with a Hoe",
-      "year": 1862
+      "year": 1862,
+      "commons_file": "Millet, Jean-François - Man with a Hoe - Google Art Project.jpg"
     }
   ]
 }

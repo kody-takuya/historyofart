@@ -22,29 +22,34 @@
     {
       "title_ja": "病める子",
       "title_en": "The Sick Child",
-      "year": 1885
+      "year": 1885,
+      "commons_file": "Edvard Munch - The Sick Child - NG.M.00839 - National Museum of Art, Architecture and Design.jpg"
     },
     {
       "title_ja": "叫び",
       "title_en": "The Scream",
       "year": 1893,
-      "collection": "オスロ、ノルウェー国立美術館"
+      "collection": "オスロ、ノルウェー国立美術館",
+      "commons_file": "Edvard Munch - The Scream - Google Art Project.jpg"
     },
     {
       "title_ja": "マドンナ",
       "title_en": "Madonna",
-      "year": 1894
+      "year": 1894,
+      "commons_file": "Edvard Munch - Madonna (1894-1895).jpg"
     },
     {
       "title_ja": "吸血鬼",
       "title_en": "Vampire",
-      "year": 1895
+      "year": 1895,
+      "commons_file": "Edvard Munch - Vampire (1917), Sammlung Würth.jpg"
     },
     {
       "title_ja": "思春期",
       "title_en": "Puberty",
       "year": 1894,
-      "collection": "オスロ、ノルウェー国立美術館"
+      "collection": "オスロ、ノルウェー国立美術館",
+      "commons_file": "Puberty (1894-95) by Edvard Munch.jpg"
     }
   ]
 }
