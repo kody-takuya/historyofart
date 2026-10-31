@@ -1,4 +1,5 @@
-import { mkdirSync, writeFileSync, cpSync, rmSync, existsSync } from 'node:fs';
+import { mkdirSync, writeFileSync, cpSync, rmSync, existsSync, readFileSync, readdirSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { join } from 'node:path';
 import { ROOT, REGIONS, MOVEMENTS, loadArtists, loadPosts, loadCommonsCache, wikiUrl, fmtYear } from './lib/data.mjs';
 
@@ -35,7 +36,11 @@ ${SITE ? `<link rel="canonical" href="${SITE}${path}">` : ''}
 ${script}</body></html>`;
 }
 
+// CSS/JS の更新がブラウザのキャッシュで古いまま残らないよう、内容のハッシュを URL に付ける
+const ASSET_V = createHash('md5').update(readdirSync(join(ROOT, 'site', 'assets')).sort().map((f) => readFileSync(join(ROOT, 'site', 'assets', f))).join('')).digest('hex').slice(0, 8);
+
 function write(path, html) {
+  if (path.endsWith('.html')) html = html.replace(/\/assets\/(style\.css|blog\.js|timeline\.js)/g, `$&?v=${ASSET_V}`);
   const f = join(OUT, path.endsWith('/') ? path + 'index.html' : path);
   mkdirSync(join(f, '..'), { recursive: true });
   writeFileSync(f, html);
