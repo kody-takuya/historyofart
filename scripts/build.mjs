@@ -56,8 +56,7 @@ function postCard(p) {
   return `<article class="card">
 ${img ? `<a href="${url}" class="thumb"><img loading="lazy" src="${esc(img.c.thumb)}" alt=""></a>` : ''}
 <div><div class="meta">${dateJa(p.date)} · ${p.kind === 'exhibitions' ? '関東の美術展' : esc(p.theme || '')}</div>
-<h2><a href="${url}">${esc(p.title)}</a></h2><p>${esc(p.lede || '')}</p>
-${p.audio ? '<div class="meta">ポッドキャスト付き</div>' : ''}</div></article>`;
+<h2><a href="${url}">${esc(p.title)}</a></h2><p>${esc(p.lede || '')}</p></div></article>`;
 }
 
 function postPage(p) {
@@ -68,8 +67,7 @@ function postPage(p) {
   }).join('');
   const body = `<article class="post"><div class="meta">${dateJa(p.date)} · ${p.kind === 'exhibitions' ? '関東の美術展' : esc(p.theme || '')}</div>
 <h1>${esc(p.title)}</h1>
-${p.audio ? `<div class="audio"><audio controls preload="none" src="${esc(p.audio.url)}"></audio>
-<div class="meta">${p.audio.minutes ? `約${p.audio.minutes}分 · ` : ''}AI音声（男女の対話）</div></div>` : ''}
+${p.audio ? `<div class="audio"><audio controls preload="none" src="${esc(p.audio.url)}"></audio></div>` : ''}
 ${(p.paragraphs || []).map((t) => `<p>${rich(t)}</p>`).join('\n')}
 ${p.items ? `<h2>展覧会情報</h2><ul class="exh">${p.items.map((i) => `<li><strong>${i.url ? `<a href="${esc(i.url)}" rel="noopener">${esc(i.title)}</a>` : esc(i.title)}</strong><br>${esc(i.venue || '')}${i.period ? ` · ${esc(i.period)}` : ''}${i.note ? `<br><small>${esc(i.note)}</small>` : ''}</li>`).join('')}</ul>` : ''}
 ${figs ? `<div class="figs">${figs}</div>` : ''}
@@ -144,7 +142,7 @@ write('about.html', layout({ title: 'このサイトについて', path: '/about
 const pods = posts.filter((p) => p.audio);
 write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
-<title>西洋美術史を学ぶ</title><link>${SITE}/</link><language>ja</language><description>西洋美術史の毎朝のポッドキャスト</description><itunes:explicit>false</itunes:explicit>
+<title>今日の美術史</title><link>${SITE}/</link><language>ja</language><description>西洋美術史の毎朝のポッドキャスト</description><itunes:explicit>false</itunes:explicit>
 ${pods.slice(0, 50).map((p) => `<item><title>${esc(p.title)}</title><link>${SITE}/posts/${p.slug}.html</link><guid>${SITE}/posts/${p.slug}.html</guid>
 <pubDate>${new Date(`${p.date}T06:00:00+09:00`).toUTCString()}</pubDate><description>${esc(p.lede || '')}</description>
 <enclosure url="${esc(p.audio.url)}" length="${p.audio.bytes || 0}" type="audio/mpeg"/></item>`).join('\n')}

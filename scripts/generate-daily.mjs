@@ -4,6 +4,7 @@ import { join } from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { ROOT, loadArtists, loadPosts, loadThemes } from './lib/data.mjs';
 import { generateJson, synthesize, pcmToWav, usage } from './lib/gemini.mjs';
+import { cleanTail } from './lib/audio.mjs';
 
 const jst = new Date(Date.now() + 9 * 3600e3);
 const today = process.env.TARGET_DATE || jst.toISOString().slice(0, 10);
@@ -26,7 +27,9 @@ const prompt = `あなたは西洋美術史の教養ポッドキャストの構�
 今週すでに扱った回: ${past.join(' / ') || 'なし'}。これらと重ならない、別の時代・地域から切り口を選んでください。
 現代の私たちの生活や社会ともつながる視点を入れてください。
 
-出演者は女性の「アヤ」と男性の「ケン」。二人の掛け合いで進行します（講義調にせず、質問や相づち、軽い驚きを交える）。
+番組名は「今日の美術史」。出演者は女性と男性の二人で、名前はありません（speaker は「女性」「男性」とする）。
+互いを名前で呼ばない、自己紹介をしない。冒頭は「今日の美術史です。」のように番組名で始める。
+二人の掛け合いで進行します（講義調にせず、質問や相づち、軽い驚きを交える）。
 - 台本は日本語で合計およそ1500〜1800字（約5分）
 - 確かな事実のみ。年代・作者・所蔵先に自信がない内容は断定しない
 - 作品は下の登録済み芸術家から2〜4人選んで必ず登場させる（IDは一覧のものだけ）
@@ -37,7 +40,7 @@ ${catalog}
 
 次のJSONのみを出力:
 {"title":"記事タイトル(30字以内)","lede":"一覧に表示する紹介文(80字程度)",
-"transcript":[{"speaker":"アヤ","text":"…"},{"speaker":"ケン","text":"…"}],
+"transcript":[{"speaker":"女性","text":"…"},{"speaker":"男性","text":"…"}],
 "paragraphs":["追加コメント段落。芸術家名は [[id|表示名]] 形式でリンクにする","…(3〜4段落、合計600字程度)"],
 "artists":["登場させた芸術家のid"]}`;
 
@@ -53,9 +56,10 @@ const works = used.flatMap((id) => {
 });
 
 // 音声
-const pcm = await synthesize(draft.transcript, { 'アヤ': process.env.VOICE_FEMALE || 'Kore', 'ケン': process.env.VOICE_MALE || 'Puck' });
+const raw = await synthesize(draft.transcript, { '女性': process.env.VOICE_FEMALE || 'Kore', '男性': process.env.VOICE_MALE || 'Puck' });
 const tmp = join(ROOT, 'tmp'); mkdirSync(tmp, { recursive: true });
 const wav = join(tmp, `${today}.wav`), mp3 = join(tmp, `${today}.mp3`);
+const pcm = cleanTail(raw);
 writeFileSync(wav, pcmToWav(pcm));
 execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', wav, '-codec:a', 'libmp3lame', '-b:a', '64k', mp3]);
 const seconds = pcm.length / 2 / 24000;
