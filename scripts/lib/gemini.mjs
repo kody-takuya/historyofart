@@ -1,6 +1,6 @@
 const BASE = 'https://generativelanguage.googleapis.com/v1beta';
 export const TEXT_MODEL = process.env.GEMINI_TEXT_MODEL || 'gemini-3.8-flash';
-export const TTS_MODEL = process.env.GEMINI_TTS_MODEL || 'gemini-3.8-flash-lite-preview-tts';
+export const TTS_MODEL = process.env.GEMINI_TTS_MODEL || 'gemini-3.8-flash-lite-tts';
 const key = () => { if (!process.env.GEMINI_API_KEY) throw new Error('GEMINI_API_KEY が未設定です'); return process.env.GEMINI_API_KEY; };
 
 export const usage = [];
