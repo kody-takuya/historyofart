@@ -19,7 +19,7 @@ const rich = (s) => esc(s).replace(/\[\[([a-z0-9-]+)\|([^\]]+)\]\]/g, (m, id, t)
   byId.has(id) ? `<a href="/artists/${id}.html">${t}</a>` : t);
 
 function layout({ title, path, body, wide = false, extraHead = '', script = '' }) {
-  const full = title ? `${title} | 西洋美術史` : '西洋美術史';
+  const full = title ? `${title} | 西洋美術史を学ぶ` : '西洋美術史を学ぶ';
   return `<!doctype html>
 <html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(full)}</title>
@@ -27,8 +27,8 @@ ${SITE ? `<link rel="canonical" href="${SITE}${path}">` : ''}
 <link rel="stylesheet" href="/assets/style.css">${extraHead}
 </head><body>
 <header class="site"><div class="wrap">
-<a class="brand" href="/">西洋美術史</a>
-<nav><a href="/">ブログ</a><a href="/timeline.html">年表</a><a href="/artists/">芸術家</a><a href="/about.html">について</a></nav>
+<a class="brand" href="/">西洋美術史を学ぶ</a>
+<nav><a href="/">ブログ</a><a href="/timeline.html">年表</a><a href="/artists/">芸術家</a><a href="/about.html">このサイトについて</a></nav>
 </div></header>
 <main class="${wide ? 'wrap wide' : 'wrap'}">${body}</main>
 <footer class="site"><div class="wrap">作品画像は Wikimedia Commons のパブリックドメイン／自由ライセンス素材を使用しています。出典は各画像のキャプションをご覧ください。</div></footer>
@@ -134,7 +134,7 @@ write('timeline.html', layout({ title: '年表', path: '/timeline.html', wide: t
 <p class="note">古代・中世は縮尺を圧縮して表示しています。バーを選ぶと芸術家のページへ移動します。スマートフォンでは横にスクロールしてご覧ください。</p>`,
   script: `<script>window.TL=${JSON.stringify({ artists: tl, regions: REGIONS, movements: Object.fromEntries(Object.entries(MOVEMENTS)) })}</script><script src="/assets/timeline.js"></script>` }));
 
-write('about.html', layout({ title: 'について', path: '/about.html', body: `<h1 class="page">について</h1>
+write('about.html', layout({ title: 'このサイトについて', path: '/about.html', body: `<h1 class="page">このサイトについて</h1>
 <p>西洋美術史を学ぶ人のための資料サイトです。芸術家の年表と解説、毎日更新のブログとポッドキャストを掲載しています。</p>
 <h2>ポッドキャストについて</h2><p>音声と記事の下書きは生成AIで作成しています。内容には誤りが含まれる可能性があります。学習や引用の際は、必ず一次資料や学術文献でご確認ください。</p>
 <h2>画像について</h2><p>作品画像は Wikimedia Commons から、パブリックドメインまたは自由ライセンスのものだけを選び、出典とライセンスを併記しています。</p>
@@ -144,7 +144,7 @@ write('about.html', layout({ title: 'について', path: '/about.html', body: `
 const pods = posts.filter((p) => p.audio);
 write('feed.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel>
-<title>西洋美術史</title><link>${SITE}/</link><language>ja</language><description>西洋美術史の毎朝のポッドキャスト</description><itunes:explicit>false</itunes:explicit>
+<title>西洋美術史を学ぶ</title><link>${SITE}/</link><language>ja</language><description>西洋美術史の毎朝のポッドキャスト</description><itunes:explicit>false</itunes:explicit>
 ${pods.slice(0, 50).map((p) => `<item><title>${esc(p.title)}</title><link>${SITE}/posts/${p.slug}.html</link><guid>${SITE}/posts/${p.slug}.html</guid>
 <pubDate>${new Date(`${p.date}T06:00:00+09:00`).toUTCString()}</pubDate><description>${esc(p.lede || '')}</description>
 <enclosure url="${esc(p.audio.url)}" length="${p.audio.bytes || 0}" type="audio/mpeg"/></item>`).join('\n')}
