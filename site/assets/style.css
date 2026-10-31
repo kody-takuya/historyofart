@@ -9,7 +9,7 @@ header.site .wrap{display:flex;justify-content:space-between;align-items:center;
 .brand{font-size:20px;text-decoration:none;letter-spacing:.08em}
 nav a{margin-left:20px;text-decoration:none;font-size:14px}
 footer.site{border-top:1px solid var(--line);margin-top:80px;padding:28px 0;color:var(--mute);font-size:12px}
-main{padding-top:40px}
+main.wrap{padding-top:56px}
 h1.page{font-size:26px;margin:0 0 28px}h1{font-size:28px;margin:.2em 0}h2{font-size:19px;margin:2.2em 0 .6em}
 .meta,.sub{color:var(--mute);font-size:13px}.sub{margin-bottom:1em}
 .card{display:flex;gap:20px;padding:26px 0;border-top:1px solid var(--line)}.card h2{margin:.2em 0;font-size:20px}.card p{margin:.3em 0;color:#444;font-size:15px}
