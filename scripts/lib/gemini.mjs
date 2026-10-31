@@ -42,10 +42,9 @@ export async function generateJson(prompt, { search = false } = {}) {
 
 // 男女2話者の掛け合い音声。戻り値は 24kHz/16bit/mono の PCM。
 export async function synthesize(lines, voices) {
-  const script = lines.map((l) => `${l.speaker}: ${l.text}`).join('\n');
   const names = [...new Set(lines.map((l) => l.speaker))];
   const r = await call(TTS_MODEL, {
-    contents: [{ parts: [{ text: `次の対話を、落ち着いた知的で親しみやすい口調の日本語で読み上げてください。\n${script}` }] }],
+    contents: [{ parts: lines.map((l) => ({ text: l.text, speechMetadata: { speaker: l.speaker } })) }],
     generationConfig: {
       responseModalities: ['AUDIO'],
       speechConfig: { multiSpeakerVoiceConfig: { speakerVoiceConfigs: names.map((n) => ({
