@@ -6238,5 +6238,29 @@
   "credit": "Own work",
   "license": "CC0",
   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+ },
+ "Slovane v pravlasti 81x61m.jpg": {
+  "ok": true,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Slovane_v_pravlasti_81x61m.jpg/960px-Slovane_v_pravlasti_81x61m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Slovane_v_pravlasti_81x61m.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Slovane_v_pravlasti_81x61m.jpg",
+  "width": 900,
+  "height": 659,
+  "author": "Alphonse Mucha",
+  "credit": "http://russianculture.files.wordpress.com/2010/12/slovane_v_pravlasti_81x61m.jpg",
+  "license": "Public domain",
+  "licenseUrl": ""
+ },
+ "Artemisia Gentileschi - Danaë - 93-1986 - Saint Louis Art Museum.jpg": {
+  "ok": true,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Artemisia_Gentileschi_-_Dana%C3%AB_-_93-1986_-_Saint_Louis_Art_Museum.jpg/960px-Artemisia_Gentileschi_-_Dana%C3%AB_-_93-1986_-_Saint_Louis_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Artemisia_Gentileschi_-_Dana%C3%AB_-_93-1986_-_Saint_Louis_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Dana%C3%AB_-_93-1986_-_Saint_Louis_Art_Museum.jpg",
+  "width": 900,
+  "height": 702,
+  "author": "Artemisia Gentileschi",
+  "credit": "https://www.slam.org/collection/objects/15612/",
+  "license": "Public domain",
+  "licenseUrl": ""
  }
 }
