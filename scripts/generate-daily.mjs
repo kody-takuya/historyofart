@@ -19,8 +19,10 @@ const theme = themes.weeks[((weekIdx % themes.weeks.length) + themes.weeks.lengt
 const dayOfWeek = ((new Date(today + 'T00:00:00Z').getUTCDay() + 6) % 7) + 1;
 
 const artists = loadArtists();
+const cache = existsSync(join(ROOT, 'data', 'commons-cache.json')) ? JSON.parse(readFileSync(join(ROOT, 'data', 'commons-cache.json'), 'utf8')) : {};
+const shown = (a) => (a.works || []).filter((w) => w.commons_file && cache[w.commons_file]?.ok);
 const past = loadPosts().filter((p) => p.kind !== 'exhibitions' && p.theme === theme.title).map((p) => p.title);
-const catalog = artists.map((a) => `${a.id}|${a.name_ja}|${a.born}-${a.died ?? ''}|${(a.works || []).filter((w) => w.commons_file).map((w) => w.title_ja).slice(0, 4).join('/')}`).join('\n');
+const catalog = artists.map((a) => `${a.id}|${a.name_ja}|${a.born}-${a.died ?? ''}|${shown(a).map((w) => w.title_ja).join('/')}`).join('\n');
 
 const prompt = `あなたは西洋美術史の教養ポッドキャストの構成作家です。
 今週のテーマ「${theme.title}」（${theme.note}）について、今日は週の${dayOfWeek}日目です。
@@ -38,6 +40,7 @@ const prompt = `あなたは西洋美術史の教養ポッドキャストの構�
 - 台本は日本語で合計およそ1800〜2200字（約5分）
 - 確かな事実のみ。年代・作者・所蔵先に自信がない内容は断定しない
 - 作品は下の登録済み芸術家から2〜4人選んで必ず登場させる（IDは一覧のものだけ）
+- 台本で取り上げる作品は、一覧の「主な作品」に載っている作品から選ぶ。記事にその画像が表示されるため。台本で詳しく語った作品を works に記す
 - 冒頭の挨拶は短く。キャッチフレーズや決まり文句は付けない
 
 登録済み芸術家（id|名前|生没年|主な作品）:
@@ -47,18 +50,24 @@ ${catalog}
 {"title":"記事タイトル(30字以内)","lede":"一覧に表示する紹介文(80字程度)",
 "transcript":[{"speaker":"女性","text":"…"},{"speaker":"男性","text":"…"}],
 "paragraphs":["追加コメント段落。現代との接点と、絡めた思想・哲学の補足を入れる。芸術家名は [[id|表示名]] 形式でリンクにする","…(3〜4段落、合計600字程度)"],
-"artists":["登場させた芸術家のid"]}`;
+"artists":["登場させた芸術家のid"],
+"works":[{"artist":"id","title_ja":"台本で語った作品の日本語題（一覧の表記のまま）"}]}`;
 
 const { json: draft } = await generateJson(prompt);
 if (!draft.transcript?.length) throw new Error('台本が空です');
 const valid = new Set(artists.map((a) => a.id));
 const used = (draft.artists || []).filter((id) => valid.has(id));
-// 記事に載せる画像: 登場芸術家の検証済み作品から1点ずつ
-const cache = existsSync(join(ROOT, 'data', 'commons-cache.json')) ? JSON.parse(readFileSync(join(ROOT, 'data', 'commons-cache.json'), 'utf8')) : {};
-const works = used.flatMap((id) => {
-  const w = artists.find((a) => a.id === id).works?.find((w) => w.commons_file && cache[w.commons_file]?.ok);
-  return w ? [{ artist: id, commons_file: w.commons_file }] : [];
+// 記事に載せる画像: 台本で語った作品（一覧の題と一致するもの）。一致がなければ登場芸術家の検証済み作品を1点ずつ
+const mentioned = (draft.works || []).flatMap((m) => {
+  const a = artists.find((x) => x.id === m.artist);
+  const w = a && shown(a).find((w) => w.title_ja === m.title_ja);
+  return w ? [{ artist: a.id, commons_file: w.commons_file }] : [];
 });
+const unique = (l) => l.filter((x, i) => l.findIndex((y) => y.commons_file === x.commons_file) === i);
+const works = unique(mentioned.length ? mentioned : used.flatMap((id) => {
+  const w = shown(artists.find((a) => a.id === id))[0];
+  return w ? [{ artist: id, commons_file: w.commons_file }] : [];
+})).slice(0, 8);
 
 // 音声
 const raw = await synthesize(draft.transcript, { '女性': process.env.VOICE_FEMALE || 'Kore', '男性': process.env.VOICE_MALE || 'Puck' });
