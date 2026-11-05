@@ -24,7 +24,7 @@
     for (const k of keys) {
       const items = list.filter((a) => a[state.group === 'region' ? 'r' : 'm'] === k).sort((a, b) => a.b - b.b);
       if (!items.length) continue;
-      html += `<div class="grow" style="top:${y}px">${state.group === 'region' ? regions[k] : movements[k][0]}</div>`; y += 26;
+      html += `<div class="grow-row" style="top:${y}px;width:${W}px"><div class="grow">${state.group === 'region' ? regions[k] : movements[k][0]}</div></div>`; y += 26;
       const lanes = [];
       for (const a of items) {
         const x1 = X(a.b), w = Math.max(X(a.d) - x1, 6), need = x1 + Math.max(w, a.n.length * 12 + 12) + 6;
