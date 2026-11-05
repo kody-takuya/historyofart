@@ -53,7 +53,7 @@
       "commons_file": "William Hogarth - The Shrimp Girl - WGA11467.jpg"
     },
     {
-      "title_ja": "画家とその犬",
+      "title_ja": "画家とパグ",
       "title_en": "The Painter and His Pug",
       "year": 1745,
       "medium": "油彩・カンヴァス",
@@ -64,7 +64,8 @@
       "title_ja": "ビール街",
       "title_en": "Beer Street",
       "year": 1751,
-      "medium": "エッチング・エングレーヴィング"
+      "medium": "エッチング・エングレーヴィング",
+      "commons_file": "William Hogarth - Beer Street.jpg"
     }
   ]
 }

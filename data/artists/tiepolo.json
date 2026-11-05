@@ -22,7 +22,7 @@
   ],
   "works": [
     {
-      "title_ja": "ヴュルツブルク司教館の階段室天井画",
+      "title_ja": "オリュンポス山と四大陸の寓意",
       "title_en": "Ceiling fresco of the Würzburg Residence",
       "year": 1753,
       "medium": "フレスコ",
@@ -38,18 +38,20 @@
       "commons_file": "Giambattista Tiepolo - The Banquet of Cleopatra - Google Art Project.jpg"
     },
     {
-      "title_ja": "スペイン王権の栄光",
+      "title_ja": "スペイン王家の称揚",
       "title_en": "The Apotheosis of the Spanish Monarchy",
       "year": 1764,
       "medium": "フレスコ",
-      "collection": "マドリード王宮"
+      "collection": "マドリード王宮",
+      "commons_file": "Giovanni Battista Tiepolo - The Apotheosis of the Spanish Monarchy - WGA22369.jpg"
     },
     {
       "title_ja": "パラッツォ・ラビアの壁画",
       "title_en": "Frescoes of Antony and Cleopatra, Palazzo Labia",
       "year": 1747,
       "medium": "フレスコ",
-      "collection": "ヴェネツィア、パラッツォ・ラビア"
+      "collection": "ヴェネツィア、パラッツォ・ラビア",
+      "commons_file": "Giovanni Battista Tiepolo. Fresco's in de Salone delle Feste van het Palazzo Labia, GD016931.jpg"
     },
     {
       "title_ja": "ゼフィロスとフローラの勝利",
