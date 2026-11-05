@@ -6810,5 +6810,17 @@
   "credit": "https://libis-kul.primo.exlibrisgroup.com/discovery/collectionDiscovery?vid=32KUL_KUL:KULeuven&amp;collectionId=81532003710001488&amp;lang=en&amp;sortItemsBy=date_a&amp;query=any,contains,GD016931",
   "license": "Public domain",
   "licenseUrl": ""
+ },
+ "Jane Avril by Toulouse-Lautrec.jpeg": {
+  "ok": true,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jane_Avril_by_Toulouse-Lautrec.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/7/74/Jane_Avril_by_Toulouse-Lautrec.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Jane_Avril_by_Toulouse-Lautrec.jpeg",
+  "width": 900,
+  "height": 1265,
+  "author": "Henri de Toulouse-Lautrec",
+  "credit": "",
+  "license": "Public domain",
+  "licenseUrl": ""
  }
 }
