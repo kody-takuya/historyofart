@@ -5,6 +5,7 @@ import { execFileSync } from 'node:child_process';
 import { ROOT, loadArtists, loadPosts, loadThemes } from './lib/data.mjs';
 import { generateJson, synthesize, pcmToWav, usage } from './lib/gemini.mjs';
 import { cleanTail } from './lib/audio.mjs';
+import { getWeekPlan } from './lib/plan.mjs';
 
 const jst = new Date(Date.now() + 9 * 3600e3);
 const today = process.env.TARGET_DATE || jst.toISOString().slice(0, 10);
@@ -21,40 +22,26 @@ const dayOfWeek = ((new Date(today + 'T00:00:00Z').getUTCDay() + 6) % 7) + 1;
 const artists = loadArtists();
 const cache = existsSync(join(ROOT, 'data', 'commons-cache.json')) ? JSON.parse(readFileSync(join(ROOT, 'data', 'commons-cache.json'), 'utf8')) : {};
 const shown = (a) => (a.works || []).filter((w) => w.commons_file && cache[w.commons_file]?.ok);
-// 同じ週の既出回: 芸術家・思想家・題を集め、今日は使わせない
-const thinkerNames = JSON.parse(readFileSync(join(ROOT, 'data', 'thinkers.json'), 'utf8'));
-const textOf = (p) => [...(p.transcript || []).map((l) => l.text), ...(p.paragraphs || [])].join(' ');
-const thinkersIn = (text) => thinkerNames.filter((n) => text.includes(n));
-const weekPosts = loadPosts().filter((p) => p.kind !== 'exhibitions' && p.date !== today && mondayOf(p.date) === mondayOf(today));
-const past = weekPosts.map((p) => p.title);
-const bannedArtists = [...new Set(weekPosts.flatMap((p) => p.artists || []))].filter((id) => artists.some((a) => a.id === id));
-const bannedThinkers = [...new Set(weekPosts.flatMap((p) => [...(p.thinkers || []), ...thinkersIn(textOf(p))]))];
-// 今日の主な舞台（時代）: 曜日と週で回し、1週間で時代が重ならないようにする
-const ERAS = [
-  ['古代・中世・初期ネーデルラント', ['ancient', 'medieval', 'early-netherlandish']],
-  ['ルネサンス・マニエリスム', ['renaissance', 'mannerism']],
-  ['バロック・ロココ', ['baroque', 'rococo']],
-  ['新古典主義・ロマン主義', ['neoclassicism', 'romanticism']],
-  ['写実主義・印象派', ['realism', 'impressionism']],
-  ['ポスト印象派・象徴主義', ['post-impressionism', 'symbolism']],
-  ['20世紀以降', ['modern', 'contemporary']],
-];
-const [eraName, eraMovements] = ERAS[(((dayOfWeek - 1 + weekIdx) % 7) + 7) % 7];
-const eraIds = artists.filter((a) => eraMovements.includes(a.movement)).map((a) => a.id);
+const monday = mondayOf(today);
+const published = loadPosts().filter((p) => p.kind !== 'exhibitions' && p.date !== today && mondayOf(p.date) === monday);
+const plan = await getWeekPlan({ monday, weekIdx, theme, artists, shown, published });
+const entry = plan.days.find((d) => d.date === today);
+if (!entry || !entry.artists.length) throw new Error(`${today} の計画がありません`);
 const nameOf = (id) => artists.find((a) => a.id === id)?.name_ja || id;
-const catalog = artists.map((a) => `${a.id}|${a.name_ja}|${a.born}-${a.died ?? ''}|${shown(a).map((w) => w.title_ja).join('/')}`).join('\n');
+const planWorks = entry.works.length ? entry.works : entry.artists.map((id) => ({ artist: id, title_ja: shown(artists.find((a) => a.id === id))[0]?.title_ja }));
 
 const prompt = `あなたは西洋美術史の教養ポッドキャストの構成作家です。
 今週のテーマ「${theme.title}」（${theme.note}）について、今日は週の${dayOfWeek}日目です。
-今週すでに扱った回: ${past.join(' / ') || 'なし'}。
-【重複の禁止】同じ週の中で、人物・思想家・作品・切り口を重ねないこと。
-- 今週すでに登場した芸術家（今日は登場させない）: ${bannedArtists.map(nameOf).join('、') || 'なし'}
-- 今週すでに登場した思想家（今日は使わない）: ${bannedThinkers.join('、') || 'なし'}
-- 今日の主な舞台は「${eraName}」。この時代の芸術家を2人以上、必ず登場させる（ほかの時代の芸術家は対比として1人まで）。
+今日の内容は、週の計画で次のとおり決まっています。これに沿って台本を書いてください。
+- 時代: ${entry.era}
+- 切り口: ${entry.angle}
+- 登場させる芸術家: ${entry.artists.map(nameOf).join('、')}
+- 語る作品: ${planWorks.map((w) => `${nameOf(w.artist)}「${w.title_ja}」`).join('、')}
+- 絡める思想家: ${entry.thinker}（主要な概念を正確に、短く平易に説明する。自信のない引用は使わない）
 番組の方針は「現代に活きる美術史」です。
 - 過去の作品を紹介して終わらず、現代社会の状況や課題（テクノロジー、格差、分断、ジェンダー、環境、情報とメディア、働き方など、テーマに関わるもの）との関係がはっきり見える構成にする
 - 作品が当時の社会で担った意味と、今の私たちの問題がどう重なり、どこが違うのかを、具体的に対比させる
-- 可能なら哲学・思想の考え方を一つか二つ絡める（例: アーレント、ベンヤミン、フーコー、ソンタグ、ニーチェ、カント、ヘーゲル、キルケゴール、ボーヴォワール、バトラー、アドルノなど、実在する思想家とその主要な概念）。概念は正確に、短く平易に説明する。内容に自信がない引用や概念は使わない
+- 計画の思想家の考え方を絡め、現代の状況の見方を深める
 - 現代の政治的な争点には、特定の立場を断定せず、複数の見方を並べて、聴き手が考える余白を残す
 - 最後は、今日から作品や身の回りをどう見るかという問いかけで締める
 
@@ -63,44 +50,18 @@ const prompt = `あなたは西洋美術史の教養ポッドキャストの構�
 二人の掛け合いで進行します（講義調にせず、質問や相づち、軽い驚きを交える）。
 - 台本は日本語で合計およそ1800〜2200字（約5分）
 - 確かな事実のみ。年代・作者・所蔵先に自信がない内容は断定しない
-- 作品は下の登録済み芸術家から2〜4人選んで必ず登場させる（IDは一覧のものだけ）
-- 台本で取り上げる作品は、一覧の「主な作品」に載っている作品から選ぶ。記事にその画像が表示されるため。台本で詳しく語った作品を works に記す
 - 冒頭の挨拶は短く。キャッチフレーズや決まり文句は付けない
-
-登録済み芸術家（id|名前|生没年|主な作品）:
-${catalog}
 
 次のJSONのみを出力:
 {"title":"記事タイトル(30字以内)","lede":"一覧に表示する紹介文(80字程度)",
 "transcript":[{"speaker":"女性","text":"…"},{"speaker":"男性","text":"…"}],
-"paragraphs":["追加コメント段落。現代との接点と、絡めた思想・哲学の補足を入れる。芸術家名は [[id|表示名]] 形式でリンクにする","…(3〜4段落、合計600字程度)"],
-"artists":["登場させた芸術家のid"],
-"thinkers":["台本・追記で言及した思想家・批評家の名前（カタカナ）"],
-"works":[{"artist":"id","title_ja":"台本で語った作品の日本語題（一覧の表記のまま）"}]}`;
+"paragraphs":["追加コメント段落。現代との接点と、絡めた思想・哲学の補足を入れる。芸術家名は次の対応で [[id|表示名]] 形式のリンクにする: ${entry.artists.map((id) => `${id}=${nameOf(id)}`).join(', ')}","…(3〜4段落、合計600字程度)"]}`;
 
-let draft, note = '';
-for (let attempt = 1; attempt <= 3; attempt++) {
-  ({ json: draft } = await generateJson(prompt + note));
-  if (!draft.transcript?.length) throw new Error('台本が空です');
-  const text = [...draft.transcript.map((l) => l.text), ...(draft.paragraphs || [])].join(' ');
-  const usedIds = (draft.artists || []).filter((id) => artists.some((a) => a.id === id));
-  const dupA = usedIds.filter((id) => bannedArtists.includes(id));
-  const dupT = [...new Set([...(draft.thinkers || []), ...thinkersIn(text)])].filter((t) => bannedThinkers.includes(t));
-  const inEra = usedIds.filter((id) => eraIds.includes(id)).length;
-  const problems = [
-    dupA.length && `今週すでに登場した芸術家を使っています（${dupA.map(nameOf).join('、')}）`,
-    dupT.length && `今週すでに登場した思想家を使っています（${dupT.join('、')}）`,
-    inEra < 2 && `今日の舞台「${eraName}」の芸術家が2人未満です`,
-  ].filter(Boolean);
-  if (!problems.length) break;
-  console.log(`試行${attempt}: ${problems.join(' / ')}`);
-  if (attempt === 3) console.log('重複が残りましたが、そのまま公開します');
-  note = `\n\n【前回の出力への指摘】${problems.join('。')}。これらを避けて、題材を完全に変えて作り直してください。`;
-}
-const valid = new Set(artists.map((a) => a.id));
-const used = (draft.artists || []).filter((id) => valid.has(id));
+const { json: draft } = await generateJson(prompt);
+if (!draft.transcript?.length) throw new Error('台本が空です');
+const used = entry.artists;
 // 記事に載せる画像: 台本で語った作品（一覧の題と一致するもの）。一致がなければ登場芸術家の検証済み作品を1点ずつ
-const mentioned = (draft.works || []).flatMap((m) => {
+const mentioned = planWorks.flatMap((m) => {
   const a = artists.find((x) => x.id === m.artist);
   const w = a && shown(a).find((w) => w.title_ja === m.title_ja);
   return w ? [{ artist: a.id, commons_file: w.commons_file }] : [];
@@ -127,7 +88,7 @@ execFileSync('gcloud', ['storage', 'cp', mp3, `gs://${bucket}/podcast/${today}.m
 const post = {
   kind: 'daily', date: today, slug: today, theme: theme.title, title: draft.title, lede: draft.lede,
   audio: { url: `https://storage.googleapis.com/${bucket}/podcast/${today}.mp3`, minutes: Math.round(seconds / 60), bytes: statSync(mp3).size },
-  thinkers: draft.thinkers || [], usage, transcript: draft.transcript, paragraphs: draft.paragraphs, artists: used, works,
+  thinkers: [entry.thinker], usage, transcript: draft.transcript, paragraphs: draft.paragraphs, artists: used, works,
 };
 mkdirSync(join(ROOT, 'content', 'posts'), { recursive: true });
 writeFileSync(file, JSON.stringify(post, null, 1));
