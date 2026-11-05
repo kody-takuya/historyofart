@@ -34,14 +34,14 @@ ${SITE ? `<link rel="canonical" href="${SITE}${path}">` : ''}
 </div></header>
 <main class="${wide ? 'wrap wide' : 'wrap'}">${body}</main>
 <footer class="site"><div class="wrap">作品画像は Wikimedia Commons のパブリックドメイン／自由ライセンス素材を使用しています。出典は各画像のキャプションをご覧ください。</div></footer>
-${script}</body></html>`;
+${script}<script src="/assets/lightbox.js" defer></script></body></html>`;
 }
 
 // CSS/JS の更新がブラウザのキャッシュで古いまま残らないよう、内容のハッシュを URL に付ける
 const ASSET_V = createHash('md5').update(readdirSync(join(ROOT, 'site', 'assets')).sort().map((f) => readFileSync(join(ROOT, 'site', 'assets', f))).join('')).digest('hex').slice(0, 8);
 
 function write(path, html) {
-  if (path.endsWith('.html')) html = html.replace(/\/assets\/(style\.css|blog\.js|timeline\.js)/g, `$&?v=${ASSET_V}`);
+  if (path.endsWith('.html')) html = html.replace(/\/assets\/(style\.css|blog\.js|timeline\.js|lightbox\.js)/g, `$&?v=${ASSET_V}`);
   const f = join(OUT, path.endsWith('/') ? path + 'index.html' : path);
   mkdirSync(join(f, '..'), { recursive: true });
   writeFileSync(f, html);

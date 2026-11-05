@@ -51,3 +51,11 @@ details{margin-top:2em;font-size:14px;color:#333}summary{cursor:pointer}
 .archive{list-style:none;padding:0;margin:0}.archive li{padding:2px 0}.archive a{text-decoration:none}.archive a.on{font-weight:600;color:var(--accent)}.archive small{color:var(--mute)}
 h2.mon{font-size:22px;margin:0 0 8px}
 @media(max-width:800px){.blog{grid-template-columns:1fr;gap:0}.side{order:-1;margin-bottom:24px}.side h3,.archive{display:none}.side #dj{margin-top:10px}}
+/* 画像の拡大表示（ライトボックス） */
+img.zoomable{cursor:zoom-in}
+.lb{position:fixed;inset:0;z-index:100;background:rgba(0,0,0,.88);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:48px 12px 16px;cursor:zoom-out}
+.lb[hidden]{display:none}
+.lb img{max-width:100%;max-height:calc(100vh - 110px);max-height:calc(100dvh - 110px);object-fit:contain;cursor:default;background:#fff}
+.lb-cap{color:#eee;font-size:14px;margin:10px 0 0;text-align:center}
+.lb-x{position:absolute;top:6px;right:8px;width:44px;height:44px;border:0;border-radius:50%;background:rgba(255,255,255,.18);color:#fff;font-size:30px;line-height:1;cursor:pointer}
+.lb-open{overflow:hidden}
