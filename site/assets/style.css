@@ -35,7 +35,8 @@ details{margin-top:2em;font-size:14px;color:#333}summary{cursor:pointer}
 #tl .axis{position:sticky;top:0;height:30px;background:#fffd;border-bottom:1px solid var(--line);z-index:3}
 #tl .tick{position:absolute;top:0;height:100%;border-left:1px solid #ddd;font-size:11px;color:var(--mute);padding-left:4px;line-height:30px}
 #tl .gl{position:absolute;top:30px;bottom:0;border-left:1px solid #f0f0f0}
-#tl .grow{position:absolute;left:0;font-size:12px;font-weight:600;background:#f7f7f7;border-top:1px solid var(--line);padding:3px 10px;z-index:2;position:sticky;left:0;width:max-content}
+#tl .grow-row{position:absolute;left:0;height:26px;border-top:1px solid var(--line);pointer-events:none;z-index:2}
+#tl .grow{position:sticky;left:0;font-size:12px;font-weight:600;background:#f7f7f7;padding:3px 10px;width:max-content}
 #tl a.bar{position:absolute;height:20px;border-radius:2px;color:#fff;font-size:11px;line-height:20px;padding:0 6px;white-space:nowrap;overflow:hidden;text-decoration:none;opacity:.92}
 #tl a.bar:hover,#tl a.bar:target{opacity:1;outline:2px solid #111;z-index:4}
 #tl a.lbl{position:absolute;font-size:11px;line-height:20px;white-space:nowrap;color:#333;text-decoration:none}
