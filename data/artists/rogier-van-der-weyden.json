@@ -32,7 +32,7 @@
       "commons_file": "El Descendimiento, by Rogier van der Weyden, from Prado in Google Earth.jpg"
     },
     {
-      "title_ja": "婦人の肖像",
+      "title_ja": "若い女性の肖像",
       "title_en": "Portrait of a Woman",
       "year": 1460,
       "medium": "板に油彩",
@@ -40,11 +40,12 @@
       "commons_file": "Rogier van der Weyden - Portrait of a Woman with a Winged Bonnet - Google Art Project.jpg"
     },
     {
-      "title_ja": "ブラクの三連祭壇画",
+      "title_ja": "ブラック家の祭壇画",
       "title_en": "Braque Triptych",
       "year": 1452,
       "medium": "板に油彩",
-      "collection": "パリ、ルーヴル美術館"
+      "collection": "パリ、ルーヴル美術館",
+      "commons_file": "The Braque Triptych interior.jpg"
     },
     {
       "title_ja": "最後の審判の祭壇画",

@@ -36,7 +36,7 @@
       "year": 1523,
       "medium": "板に油彩",
       "collection": "パリ、ルーヴル美術館",
-      "commons_file": "Desiderius Erasmus, after Hans Holbein the Younger.jpg"
+      "commons_file": "Holbein-erasmus.jpg"
     },
     {
       "title_ja": "墓の中の死せるキリスト",
@@ -59,7 +59,8 @@
       "title_en": "Portrait of Henry VIII",
       "year": 1537,
       "medium": "板に油彩",
-      "collection": "ローマ、バルベリーニ宮国立古典美術館"
+      "collection": "ローマ、バルベリーニ宮国立古典美術館",
+      "commons_file": "Henry VIII of England, by Hans Holbein the Younger.jpg"
     }
   ]
 }

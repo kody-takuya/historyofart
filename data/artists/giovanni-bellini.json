@@ -24,11 +24,12 @@
   ],
   "works": [
     {
-      "title_ja": "サン・ザッカリア祭壇画",
+      "title_ja": "聖ザカリア祭壇画",
       "title_en": "San Zaccaria Altarpiece",
       "year": 1505,
       "medium": "板に油彩",
-      "collection": "ヴェネツィア、サン・ザッカリア聖堂"
+      "collection": "ヴェネツィア、サン・ザッカリア聖堂",
+      "commons_file": "Pala di San Zaccaria (Venezia).jpg"
     },
     {
       "title_ja": "神々の饗宴",
@@ -39,7 +40,7 @@
       "commons_file": "Giovanni Bellini and Titian - The Feast of the Gods - Google Art Project.jpg"
     },
     {
-      "title_ja": "レオナルド・ロレダン総督の肖像",
+      "title_ja": "総督レオナルド・ロレダンの肖像",
       "title_en": "Portrait of Doge Leonardo Loredan",
       "year": 1501,
       "medium": "板に油彩",
@@ -47,7 +48,7 @@
       "commons_file": "Giovanni Bellini, portrait of Doge Leonardo Loredan.jpg"
     },
     {
-      "title_ja": "園の苦悶",
+      "title_ja": "ゲツセマネの祈り",
       "title_en": "Agony in the Garden",
       "year": 1465,
       "medium": "板にテンペラ",
