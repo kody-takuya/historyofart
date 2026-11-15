@@ -1,0 +1,146 @@
+{
+ "monday": "2026-11-16",
+ "theme": "宗教",
+ "days": [
+  {
+   "date": "2026-11-16",
+   "era": "バロック・ロココ",
+   "angle": "現代のVRや没入型メディアのように、五感を揺さぶる強烈な身体的体験が人々の精神性や信じる力をどう変容させるかを考察します。光と演劇的身体表現がもたらす宗教的恍惚を、感覚メディアが拡張する現代の心理と重ねて見つめ直します。",
+   "thinker": "バタイユ",
+   "artists": [
+    "bernini",
+    "caravaggio"
+   ],
+   "works": [
+    {
+     "artist": "bernini",
+     "title_ja": "聖テレジアの法悦"
+    },
+    {
+     "artist": "caravaggio",
+     "title_ja": "聖マタイの召命"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "era": "新古典主義・ロマン主義",
+   "angle": "気候危機や人智を超えた自然の猛威を前に、科学技術万能主義の限界と精神的な拠り所が再発見されつつある現代を見つめます。理性を超える圧倒的な存在に対峙する崇高の美意識から、環境への畏怖と現代のスピリチュアリティの結びつきを読み解きます。",
+   "thinker": "カント",
+   "artists": [
+    "caspar-david-friedrich",
+    "william-blake"
+   ],
+   "works": [
+    {
+     "artist": "caspar-david-friedrich",
+     "title_ja": "海辺の修道士"
+    },
+    {
+     "artist": "william-blake",
+     "title_ja": "古の日々"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "era": "写実主義・印象派",
+   "angle": "日々の労働や生活のなかに精神的な静けさを見出す姿勢は、世俗化が進んだ現代のマインドフルネスやケアの思想に通底しています。制度化された教会から離れ、日常の素朴な営みや生の現場そのものに宿る聖なるものの意味を再考します。",
+   "thinker": "アーレント",
+   "artists": [
+    "jean-francois-millet",
+    "gustave-courbet"
+   ],
+   "works": [
+    {
+     "artist": "jean-francois-millet",
+     "title_ja": "晩鐘"
+    },
+    {
+     "artist": "gustave-courbet",
+     "title_ja": "オルナンの埋葬"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "era": "ポスト印象派・象徴主義",
+   "angle": "合理的・物質主義的な社会のなかで、自らのルーツや主観的な精神世界にアイデンティティを再構築しようとする現代人の心情を捉えます。目に見える現実を超えた内面的な幻影や祈りの探求から、個人の実存において信仰が立ち現れる瞬間を問い直します。",
+   "thinker": "キルケゴール",
+   "artists": [
+    "paul-gauguin",
+    "john-everett-millais"
+   ],
+   "works": [
+    {
+     "artist": "paul-gauguin",
+     "title_ja": "説教のあとの幻影"
+    },
+    {
+     "artist": "john-everett-millais",
+     "title_ja": "両親の家のキリスト"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "era": "20世紀以降",
+   "angle": "情報が氾濫するデジタル社会において、具象的な偶像を排したミニマルな空間や静寂に聖性を見出す現代の感性を照らし出します。形而上の純粋な精神性を目指した抽象表現の挑戦から、不可視な超越性を希求する人間の意識のあり方を探ります。",
+   "thinker": "ベンヤミン",
+   "artists": [
+    "kazimir-malevich",
+    "wassily-kandinsky"
+   ],
+   "works": [
+    {
+     "artist": "kazimir-malevich",
+     "title_ja": "黒の正方形"
+    },
+    {
+     "artist": "wassily-kandinsky",
+     "title_ja": "コンポジションVII"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "era": "古代・中世・初期ネーデルラント",
+   "angle": "SNSやメディアを通じて他者の痛みが可視化される今日、他者への共感や感情移入が持つ連帯の意義が改めて問われています。中世末期の人文主義的感情表現と祈りの造形を通して、他者の受難を我がこととして悼む共同体の精神史をたどります。",
+   "thinker": "パノフスキー",
+   "artists": [
+    "giotto",
+    "rogier-van-der-weyden"
+   ],
+   "works": [
+    {
+     "artist": "giotto",
+     "title_ja": "キリストの哀悼"
+    },
+    {
+     "artist": "rogier-van-der-weyden",
+     "title_ja": "十字架降下"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "era": "ルネサンス・マニエリスム",
+   "angle": "生命倫理やAI技術の急速な発展により、「人間とは何か」「創造主の領域とは何か」という根本的な境界が揺らぐ現代を照射します。神の似姿としての人間讃歌と神聖な秩序が交錯した知の変革期から、創造性と信仰の緊張関係を紐解きます。",
+   "thinker": "フーコー",
+   "artists": [
+    "michelangelo",
+    "fra-angelico"
+   ],
+   "works": [
+    {
+     "artist": "michelangelo",
+     "title_ja": "システィーナ礼拝堂天井画"
+    },
+    {
+     "artist": "fra-angelico",
+     "title_ja": "受胎告知(サン・マルコ)"
+    }
+   ]
+  }
+ ]
+}
