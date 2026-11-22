@@ -1,0 +1,160 @@
+{
+ "monday": "2026-11-23",
+ "theme": "こども",
+ "days": [
+  {
+   "date": "2026-11-23",
+   "era": "新古典主義・ロマン主義",
+   "angle": "啓蒙思想の中で芽生えた「無垢な子ども」という理想像と、母性に期待された社会規範を検証します。現代における「良き親・健やかな子ども」像をめぐる社会的圧力や葛藤を考える契機とします。",
+   "thinker": "ルソー",
+   "artists": [
+    "vigee-le-brun",
+    "william-blake"
+   ],
+   "works": [
+    {
+     "artist": "vigee-le-brun",
+     "title_ja": "子供たちと一緒のマリー・アントワネット"
+    },
+    {
+     "artist": "william-blake",
+     "title_ja": "無垢と経験の歌"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "era": "写実主義・印象派",
+   "angle": "近代市民社会の私的空間において、女性画家たちが捉えた乳幼児への眼差しと少女の退屈や自立心に着目します。現代の家庭内ケア労働のあり方や、子ども自身のプライベートな居場所の重要性に光を当てます。",
+   "thinker": "ボーヴォワール",
+   "artists": [
+    "mary-cassatt",
+    "berthe-morisot"
+   ],
+   "works": [
+    {
+     "artist": "mary-cassatt",
+     "title_ja": "青い肘掛け椅子の少女"
+    },
+    {
+     "artist": "berthe-morisot",
+     "title_ja": "ゆりかご"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "era": "ポスト印象派・象徴主義",
+   "angle": "成長の途上にある若者の身体や、病・死に直面する痛切な内面を描いた表現を掘り下げます。現代社会で関心が高まる思春期のメンタルヘルスや、実存的な不安との向き合い方を見つめ直します。",
+   "thinker": "キルケゴール",
+   "artists": [
+    "edvard-munch",
+    "paul-cezanne"
+   ],
+   "works": [
+    {
+     "artist": "edvard-munch",
+     "title_ja": "思春期"
+    },
+    {
+     "artist": "edvard-munch",
+     "title_ja": "病める子"
+    },
+    {
+     "artist": "paul-cezanne",
+     "title_ja": "赤いチョッキの少年"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "era": "20世紀以降",
+   "angle": "子どもの無垢な視覚や玩具のような形態への接近、また激動期の家族像から表現の根源を探ります。情報過多なデジタル社会において、直観的な感受性や創造的想像力をいかに育むかを考察します。",
+   "thinker": "ベンヤミン",
+   "artists": [
+    "egon-schiele",
+    "paul-klee"
+   ],
+   "works": [
+    {
+     "artist": "egon-schiele",
+     "title_ja": "家族"
+    },
+    {
+     "artist": "paul-klee",
+     "title_ja": "セネシオ"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "era": "古代・中世・初期ネーデルラント",
+   "angle": "神話の神聖な幼子や「小さな大人」として描かれた中世の宗教的表現から、子ども観の変遷を辿ります。歴史を通じて制度や社会通念によって子どもという概念が形作られてきた経緯を現代の視点から振り返ります。",
+   "thinker": "フーコー",
+   "artists": [
+    "praxiteles",
+    "giotto",
+    "jan-van-eyck"
+   ],
+   "works": [
+    {
+     "artist": "praxiteles",
+     "title_ja": "ヘルメスとディオニュソス"
+    },
+    {
+     "artist": "giotto",
+     "title_ja": "オンニサンティの聖母"
+    },
+    {
+     "artist": "jan-van-eyck",
+     "title_ja": "ファン・デル・パーレの聖母子"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "era": "ルネサンス・マニエリスム",
+   "angle": "路地で無秩序に群れ遊ぶ子どもたちの自律的な世界と、家柄を背負う宮廷の後継者像を対比します。現代都市における子どもの遊び場の減少や、公共空間における世代間の共生について考察を深めます。",
+   "thinker": "アレント",
+   "artists": [
+    "pieter-bruegel-the-elder",
+    "bronzino"
+   ],
+   "works": [
+    {
+     "artist": "pieter-bruegel-the-elder",
+     "title_ja": "子供の遊戯"
+    },
+    {
+     "artist": "bronzino",
+     "title_ja": "エレオノーラ・ディ・トレドと息子"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "era": "バロック・ロココ",
+   "angle": "路上でたくましく生きる貧困層の少年と、室内で遊戯や教養に親しむ富裕層の姿を読み解きます。生まれ育つ環境が生み出す文化や機会の違いに目を向け、現代の格差や教育のあり方を多角的に議論します。",
+   "thinker": "ブルデュー",
+   "artists": [
+    "chardin",
+    "murillo",
+    "gainsborough"
+   ],
+   "works": [
+    {
+     "artist": "chardin",
+     "title_ja": "シャボン玉"
+    },
+    {
+     "artist": "murillo",
+     "title_ja": "乞食の少年"
+    },
+    {
+     "artist": "gainsborough",
+     "title_ja": "青衣の少年"
+    }
+   ]
+  }
+ ]
+}
