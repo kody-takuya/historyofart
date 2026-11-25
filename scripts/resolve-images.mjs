@@ -2,7 +2,7 @@
 // 自由ライセンス（PD/CC0/CC BY/CC BY-SA）以外は ok:false として採用しない。
 import { writeFileSync } from 'node:fs';
 import { join } from 'node:path';
-import { ROOT, loadArtists, loadCommonsCache } from './lib/data.mjs';
+import { ROOT, loadArtists, loadPosts, loadCommonsCache } from './lib/data.mjs';
 
 const API = 'https://commons.wikimedia.org/w/api.php';
 const UA = 'historyofart-portal/1.0 (https://github.com/kody-takuya/historyofart)';
@@ -11,7 +11,10 @@ const strip = (s = '') => s.replace(/<[^>]*>/g, '').replace(/\s+/g, ' ').trim();
 
 const cache = loadCommonsCache();
 const refresh = process.argv.includes('--refresh');
-const files = [...new Set(loadArtists().flatMap((a) => (a.works || []).map((w) => w.commons_file).filter(Boolean)))]
+const files = [...new Set([
+  ...loadArtists().flatMap((a) => a.works || []),
+  ...loadPosts().flatMap((p) => p.works || []),
+].map((w) => w.commons_file).filter(Boolean))]
   .filter((f) => refresh || !cache[f]);
 console.log(`${files.length} files to resolve`);
 

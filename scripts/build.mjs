@@ -68,7 +68,8 @@ ${img ? `<a href="${url}" class="thumb"><img loading="lazy" src="${esc(img.c.thu
 function postPage(p) {
   const arts = (p.artists || []).map((id) => byId.get(id)).filter(Boolean);
   const figs = (p.works || []).map((x) => {
-    const a = byId.get(x.artist); const w = a?.works?.find((w) => w.commons_file === x.commons_file);
+    const a = byId.get(x.artist);
+    const w = a?.works?.find((w) => w.commons_file === x.commons_file) ?? (x.title_ja ? x : null);
     return w && cache[x.commons_file]?.ok ? figure(w, a) : '';
   }).join('');
   const body = `<article class="post"><div class="meta">${dateJa(p.date)} · ${p.kind === 'exhibitions' ? '関東の美術展' : esc(p.theme || '')}</div>
