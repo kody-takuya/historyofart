@@ -6822,5 +6822,17 @@
   "credit": "",
   "license": "Public domain",
   "licenseUrl": ""
+ },
+ "Le Garçon au gilet rouge, par Paul Cézanne, FWN 496.jpg": {
+  "ok": true,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Le_Gar%C3%A7on_au_gilet_rouge%2C_par_Paul_C%C3%A9zanne%2C_FWN_496.jpg/960px-Le_Gar%C3%A7on_au_gilet_rouge%2C_par_Paul_C%C3%A9zanne%2C_FWN_496.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "full": "https://upload.wikimedia.org/wikipedia/commons/2/24/Le_Gar%C3%A7on_au_gilet_rouge%2C_par_Paul_C%C3%A9zanne%2C_FWN_496.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "page": "https://commons.wikimedia.org/wiki/File:Le_Gar%C3%A7on_au_gilet_rouge,_par_Paul_C%C3%A9zanne,_FWN_496.jpg",
+  "width": 900,
+  "height": 1115,
+  "author": "Paul Cézanne",
+  "credit": "https://www.cezannecatalogue.com/catalogue/entry.php?id=639 direct link",
+  "license": "Public domain",
+  "licenseUrl": ""
  }
 }
